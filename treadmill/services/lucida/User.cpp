@@ -87,7 +87,7 @@ string User::performRequest() const {
   curl_easy_setopt(curl, CURLOPT_WRITEDATA, &s);
   CURLcode res = curl_easy_perform(curl);
   if (res != CURLE_OK) {
-    throw runtime_error("curl_easy_strerror(res)");
+    throw runtime_error(curl_easy_strerror(res));
   }
   return s;
 }
