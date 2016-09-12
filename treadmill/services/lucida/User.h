@@ -37,9 +37,17 @@ public:
   // Throws `runtime_error` if it fails.
   void sendLearnTextRequest();
 
+  // Sends a learn url request.
+  // Throws `runtime_error` if it fails.
+  void sendLearnUrlRequest();
+
   // Sends an infer image request.
   // Throws `runtime_error` if it fails.
   void sendInferImageRequest();
+
+  // Sends an infer text request.
+  // Throws `runtime_error` if it fails.
+  void sendInferTextRequest();
 
 private:
   // The username.

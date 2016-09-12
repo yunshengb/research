@@ -29,14 +29,14 @@ void User::sendLoginRequest() {
   string cookie_file_name = "cookies" + to_string(unique_id);
   cookie_file_name += ".txt";
   curl_easy_setopt(curl, CURLOPT_COOKIEJAR, cookie_file_name.c_str());
-  setForm({{"username", "yba"}, {"password", "cookies0"}});
+  setForm({{"username", username}, {"password", password}});
   string s = performRequest();
 }
 
 void User::sendLearnImageRequest() {
   curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
   auto lastptr = setForm({{"op", "add_image"}, {"label", "XXXXX"}, {"submit", "send"}});
-  attachFileToForm("/home/yba/Documents/lucida/lucida/imagematching/opencv_imm/test/test_db/golden-gate.jpg", lastptr);
+  attachFileToForm("0.jpg", lastptr);
   string s = performRequest();
 }
 
@@ -46,12 +46,24 @@ void User::sendLearnTextRequest() {
   string s = performRequest();
 }
 
+void User::sendLearnUrlRequest() {
+  curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
+  setForm({{"op", "add_url"}, {"knowledge", "https://en.wikipedia.org/wiki/Orange"}, {"submit", "send"}});
+  string s = performRequest();
+}
+
 void User::sendInferImageRequest() {
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
-  auto lastptr = setForm({{"op", "infer"}, {"speech_input", ""}});
-  attachFileToForm("/home/yba/Documents/lucida/lucida/imagematching/opencv_imm/test/test_db/golden-gate.jpg", lastptr);
+  auto lastptr = setForm({{"op", "infer"}});
+  attachFileToForm("0.jpg", lastptr);
   string s = performRequest();
   cout << s;
+}
+
+void User::sendInferTextRequest() {
+  curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
+  setForm({{"op", "infer"}, {"speech_input", "Where is the capital of Italy?"}});
+  string s = performRequest();
 }
 
 struct curl_httppost *User::setForm(const vector<pair<string, string>> &form) {
