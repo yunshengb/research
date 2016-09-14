@@ -2,7 +2,7 @@ CXX = g++
 
 CXXFLAGS = -std=c++11
 
-LINKFLAGS = -lcurl -lhtmlcxx
+LINKFLAGS = -lcurl -lglog
 
 TARGET  = X
 SOURCES = User.cpp main.cpp

@@ -1,7 +1,9 @@
 #include "User.h"
 #include <stdexcept>
-#include <cassert>
 #include <iostream>
+#include <sstream>
+#include <string.h>
+#include <glog/logging.h>
 
 using namespace std;
 
@@ -24,7 +26,7 @@ size_t curlWriteCallbackFunc(void *contents, size_t size, size_t nmemb,
   return size * nmemb;
 }
 
-void User::sendLoginRequest() {
+void User::login() {
   curl_easy_setopt(curl, CURLOPT_URL, LOGIN_URL);
   string cookie_file_name = "cookies" + to_string(unique_id);
   cookie_file_name += ".txt";
@@ -33,26 +35,37 @@ void User::sendLoginRequest() {
   string s = performRequest();
 }
 
-void User::sendLearnImageRequest() {
+void User::learnImage() {
   curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
-  auto lastptr = setForm({{"op", "add_image"}, {"label", "XXXXX"}, {"submit", "send"}});
+  auto lastptr = setForm({{"op", "add_image"}, {"label", "Italy"},
+    {"submit", "send"}});
   attachFileToForm("0.jpg", lastptr);
   string s = performRequest();
 }
 
-void User::sendLearnTextRequest() {
+void User::deleteImage() {
+  deleteKnowledge(KnowledgeType::IMAGE);
+}
+
+void User::deleteText() {
+  deleteKnowledge(KnowledgeType::TEXT);
+}
+
+void User::learnText() {
   curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
-  setForm({{"op", "add_text"}, {"knowledge", "The capital of Italy is Rome."}, {"submit", "send"}});
+  setForm({{"op", "add_text"}, {"knowledge", "The capital of Italy is Rome."},
+    {"submit", "send"}});
   string s = performRequest();
 }
 
-void User::sendLearnUrlRequest() {
+void User::learnUrl() {
   curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
-  setForm({{"op", "add_url"}, {"knowledge", "https://en.wikipedia.org/wiki/Orange"}, {"submit", "send"}});
+  setForm({{"op", "add_url"}, {"knowledge",
+    "https://en.wikipedia.org/wiki/Orange"}, {"submit", "send"}});
   string s = performRequest();
 }
 
-void User::sendInferImageRequest() {
+void User::inferImage() {
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   auto lastptr = setForm({{"op", "infer"}});
   attachFileToForm("0.jpg", lastptr);
@@ -60,9 +73,53 @@ void User::sendInferImageRequest() {
   cout << s;
 }
 
-void User::sendInferTextRequest() {
+void User::inferText() {
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   setForm({{"op", "infer"}, {"speech_input", "Where is the capital of Italy?"}});
+  string s = performRequest();
+}
+
+void User::inferImageText() {
+  curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
+  auto lastptr = setForm({{"op", "infer"}, {"speech_input", "Where is the capital of this?"}});
+  attachFileToForm("0.jpg", lastptr);
+  string s = performRequest();
+  cout << s;
+}
+
+void User::deleteKnowledge(KnowledgeType type) {
+  string which_id;
+  switch (type) {
+    case KnowledgeType::IMAGE: {
+      which_id = "image_id";
+      break;
+    }
+    case KnowledgeType::TEXT: {
+      which_id = "text_id";
+      break;
+    }
+    default: {
+      throw runtime_error("Delete type must be either IMAGE or TEXT!");
+      break;
+    }
+  }
+  curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
+  // Find the first piece of text to delete.
+  istringstream sstream(performRequest(HTTPRequestType::GET));
+  string id;
+  for (string line; getline(sstream, line);) {
+    if (line.find(which_id) != string::npos) {
+      auto start_it = line.find("value=") + strlen("value=");
+      auto end_it = line.find("></input>");
+      id = line.substr(start_it, end_it - start_it);
+      break; // found the text to delete
+    }
+  }
+  if (id.empty()) {
+    throw runtime_error("No " + which_id + " to delete!");
+  }
+  LOG(INFO) << "Deleting " << which_id << " " << id;
+  setForm({{"op", "delete_image"}, {which_id, id}, {"submit", "send"}});
   string s = performRequest();
 }
 
@@ -78,8 +135,6 @@ struct curl_httppost *User::setForm(const vector<pair<string, string>> &form) {
      CURLFORM_COPYCONTENTS, i.second.c_str(),
      CURLFORM_END);    
   }
-  // Set up the curl option.
-  curl_easy_setopt(curl, CURLOPT_HTTPPOST, formpost);
   return lastptr;
 }
 
@@ -92,7 +147,23 @@ void User::attachFileToForm(const string &file_path,
    CURLFORM_END);    
 }
 
-string User::performRequest() const {
+string User::performRequest(HTTPRequestType type)
+const {
+  // Set up the curl option.
+  switch (type) {
+    case HTTPRequestType::GET: {
+      curl_easy_setopt(curl, CURLOPT_HTTPGET, 1); // force using GET
+      break;
+    }
+    case HTTPRequestType::POST: {
+      curl_easy_setopt(curl, CURLOPT_HTTPPOST, formpost);
+      break;
+    }
+    default: {
+      throw runtime_error("HTTP request type must be either GET or POST!");
+      break;
+    }
+  }
   // Direct the HTML content to a string.
   string s;
   curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, curlWriteCallbackFunc);

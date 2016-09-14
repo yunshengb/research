@@ -2,8 +2,6 @@
 
 Compile [Curl](https://github.com/curl/curl)
 
-Compile [htmlcxx](http://htmlcxx.sourceforge.net/)
-
 Compile Treadmill:
 
 ```
