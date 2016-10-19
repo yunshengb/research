@@ -2,3 +2,7 @@ Where is the capital of Italy?
 What is the capital of China?
 How old is Yunqi?
 Where is 5_golden_gate located?
+What is on my calendar?
+What am I going to do according to my Google calendar?
+What is my plan the day after tomorrow?
+What did I do on Oct 1, 2015?

@@ -27,9 +27,12 @@ static const char * const error_start =
 static const char * const error_end = "</p></strong>";
 
 // HTML tags that define the infer result.
-static const char * const infer_result_start =
+static const char * const infer_result_start_0 =
 "<textarea readonly id=\"clinc\" style=\"margin-right: 10px\">";
-static const char * const infer_result_end = "</textarea>";
+static const char * const infer_result_end_0 = "</textarea>";
+static const char * const infer_result_start_1 =
+"<meta id=\"dates\" data-name=\"";
+static const char * const infer_result_end_1 = "\">";
 
 // JASON strings that define the speech infer result.
 static const char * const speech_infer_result_start =
@@ -147,7 +150,7 @@ void User::inferImage() {
   attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer image finished. Sent " << image.label << ", received " <<
+  LOG(INFO) << "Infer image finished. Sent: " << image.label << "; Received " <<
   getInferResult(s);
 }
 
@@ -156,10 +159,12 @@ void User::inferImage() {
 void User::inferText() {
   LOG(INFO) << "Infer text started";
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
-  setForm({{"op", "infer"}, {"speech_input", fm.getTextQuery()}});
+  string text_query = fm.getTextQuery();
+  setForm({{"op", "infer"}, {"speech_input", text_query}});
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer text finished " << getInferResult(s);
+  LOG(INFO) << "Infer text finished. Sent: " << text_query << "; Received " <<
+  getInferResult(s);
 }
 
 // Sends an infer image text request.
@@ -167,15 +172,16 @@ void User::inferText() {
 void User::inferImageText() {
   LOG(INFO) << "Infer image text started";
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
+  string text_query = fm.getTextQuery();
   auto lastptr = setForm({{"op", "infer"},
-    {"speech_input", fm.getTextQuery()}});
+    {"speech_input", text_query}});
   FileManager::Image image = fm.getImage();
   LOG(INFO) << "Sent " << image.label;
   attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer image text finished. Sent " << image.label <<
-  ", received " << getInferResult(s);
+  LOG(INFO) << "Infer image text finished. Sent: " << image.label << " " <<
+  text_query << "; Received " << getInferResult(s);
 }
 
 // Sends an infer speech request.
@@ -311,11 +317,15 @@ bool User::checkError(const string &web_page) const {
 // Returns the infer result in the web page.
 // Throws `runtime_error` if the result cannot be found.
 string User::getInferResult(const string &web_page) const {
-  string result = getStrBetween(infer_result_start, infer_result_end,
+  string result = getStrBetween(infer_result_start_0, infer_result_end_0,
     web_page);
   if (result.empty()) {
-    cout << web_page;
-    throw runtime_error("Infer result cannot be found!");
+    result = getStrBetween(infer_result_start_1, infer_result_end_1,
+      web_page);
+    if (result.empty()) {
+      cout << web_page;
+      throw runtime_error("Infer result cannot be found!");
+    }
   }
   return result;
 }
