@@ -25,7 +25,7 @@ public:
   };
 
   // Returns a random image.
-  const Image getImage() const;
+  Image getImage() const;
 
   // Returns a random piece of text knowledge.
   const std::string getTextKnowledge() const;

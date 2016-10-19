@@ -49,14 +49,18 @@ FileManager::FileManager() {
 }
 
 // Returns a random object from the vector.
+// Throws `runtime_error` if the vector is empty.
 template<typename T>
 T FileManager::getRandomObject(const vector<T> &vec) const {
+  if (vec.empty()) {
+    throw runtime_error("Cannot get random object from empty vector!");
+  }
   srand(time(NULL));
   return vec[rand() % vec.size()];
 }
 
 // Returns a random image.
-const FileManager::Image FileManager::getImage() const {
+FileManager::Image FileManager::getImage() const {
   return getRandomObject(images);
 }
 

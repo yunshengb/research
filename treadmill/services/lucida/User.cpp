@@ -143,10 +143,12 @@ void User::inferImage() {
   LOG(INFO) << "Infer image started";
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   auto lastptr = setForm({{"op", "infer"}, {"speech_input", ""}});
-  attachFileToForm(fm.getImage().file_path, lastptr);
+  FileManager::Image image = fm.getImage();
+  attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer image finished " << getInferResult(s);
+  LOG(INFO) << "Infer image finished. Sent " << image.label << ", received " <<
+  getInferResult(s);
 }
 
 // Sends an infer text request.
@@ -167,10 +169,13 @@ void User::inferImageText() {
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   auto lastptr = setForm({{"op", "infer"},
     {"speech_input", fm.getTextQuery()}});
-  attachFileToForm(fm.getImage().file_path, lastptr);
+  FileManager::Image image = fm.getImage();
+  LOG(INFO) << "Sent " << image.label;
+  attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer image text finished " << getInferResult(s);
+  LOG(INFO) << "Infer image text finished. Sent " << image.label <<
+  ", received " << getInferResult(s);
 }
 
 // Sends an infer speech request.
