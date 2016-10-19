@@ -1,6 +1,7 @@
 #include "User.h"
 #include <iostream>
 #include <stdexcept>
+#include <glog/logging.h>
 
 using namespace std;
 
@@ -9,14 +10,17 @@ int main() {
     User user("yba", "cookies0");
     user.login();
     user.learnImage();
-    //user.learnImage();
-    // user.inferImage();
+    user.inferImage();
+    user.deleteImage();
     user.learnText();
-    // user.learnUrl();
-    // user.deleteImage();
+    user.learnUrl();
+    user.inferText();
     user.inferImageText();
+    user.inferSpeech();
   } catch (const runtime_error &e) {
-    cout << e.what() << "\n";
+    LOG(ERROR) << e.what();
+  } catch (...) {
+    LOG(ERROR) << "Exception caught!";
   }
-    return 0;
+  return 0;
 }

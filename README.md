@@ -1,6 +1,10 @@
 # Research
 
-Compile [Curl](https://github.com/curl/curl)
+Compile [Curl](https://github.com/curl/curl) and:
+
+```
+sudo apt-get install -y libcurl3-dev
+```
 
 Compile Treadmill:
 

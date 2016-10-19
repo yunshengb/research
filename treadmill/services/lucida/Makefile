@@ -2,10 +2,10 @@ CXX = g++
 
 CXXFLAGS = -std=c++11
 
-LINKFLAGS = -lcurl -lglog
+LINKFLAGS = -lcurl -lglog -lboost_system -lboost_filesystem
 
 TARGET  = X
-SOURCES = User.cpp main.cpp
+SOURCES = User.cpp FileManager.cpp main.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
 
 all: CXXFLAGS += -O3

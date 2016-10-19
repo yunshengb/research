@@ -1,6 +1,7 @@
-#ifndef User_h
-#define User_h
+#ifndef USER_h
+#define USER_h
 
+#include "FileManager.h"
 #include <string>
 #include <curl/curl.h>
 #include <stdexcept>
@@ -9,33 +10,14 @@
 // A class for representing a User.
 class User {
 public:
-  // The type of knowledge.
-  enum class KnowledgeType {
-    IMAGE, TEXT, URL
-  };
-
-  // Type of HTTP request.
-  enum class HTTPRequestType {
-    GET, POST
-  };
-
   // Constructor.
-  User(const std::string &username_, const std::string &password_) :
-  username(username_), password(password_), unique_id(num_users++) {
-    curl_global_init(CURL_GLOBAL_ALL);
-    curl = curl_easy_init();
-    if (!curl) {
-      throw std::runtime_error("Curl initialization failed");
-    }
-  }
+  User(const std::string &username_, const std::string &password_);
 
   // Destructor.
-  ~User() {
-    curl_easy_cleanup(curl);
-    curl_formfree(formpost);
-  }
+  ~User();
 
   // Sends a login request.
+  // Must be called before other requests.
   // Throws `runtime_error` if it fails.
   void login();
 
@@ -51,13 +33,13 @@ public:
   // Throws `runtime_error` if it fails.
   void learnText();
 
-  // Sends a delete text request.
-  // Throws `runtime_error` if there is no text or it fails.
-  void deleteText();
-
   // Sends a learn url request.
   // Throws `runtime_error` if it fails.
   void learnUrl();
+
+  // Sends a delete text (including Url) request.
+  // Throws `runtime_error` if there is no text or it fails.
+  void deleteTextUrl();
 
   // Sends an infer image request.
   // Throws `runtime_error` if it fails.
@@ -71,7 +53,24 @@ public:
   // Throws `runtime_error` if it fails.
   void inferImageText();
 
+  // Sends an infer speech request.
+  // Throws `runtime_error` if it fails.
+  void inferSpeech();
+
+  // The type of knowledge.
+  enum class KnowledgeType {
+    IMAGE, TEXT, URL
+  };
+
+  // Type of HTTP request.
+  enum class HTTPRequestType {
+    GET, POST
+  };
+
 private:
+  // The file manager.
+  FileManager fm;
+
   // The username.
   const std::string username;
 
@@ -79,7 +78,7 @@ private:
   const std::string password;
 
   // The unique ID of the user.
-  int unique_id;
+  const int unique_id;
 
   // The number of users that have been created.
   static int num_users;
@@ -90,25 +89,17 @@ private:
   // Curl form.
   struct curl_httppost *formpost = nullptr;
 
-  // Sends a request to delete an image or a piece of text.
-  // `type` must be either `IMAGE` or `TEXT`.
-  // Throws `runtime_error` if `type` is wrong, there is no image, or it fails.
-  void deleteKnowledge(KnowledgeType type);
-
-  // Sets the form.
-  // Returns the pointer to the last item of the form.
+  std::string deleteKnowledge(KnowledgeType type);
   struct curl_httppost *setForm(
     const std::vector<std::pair<std::string, std::string>> &form);
-
-  // Attaches a file to the form.
-  // Must be called after `setForm()` using its returned pointer as `lastptr`.
   void attachFileToForm(const std::string &file_path,
     struct curl_httppost *lastptr);
-
-  // Performs the HTTP request and returns the HTML content as a string.
-  // Throws `runtime_error` if `type` is wrong, or it fails.
   std::string performRequest(HTTPRequestType type = HTTPRequestType::POST)
   const;
+  bool checkError(const std::string &web_page) const;
+  std::string getInferResult(const std::string &web_page) const;
+  std::string getStrBetween(const char *start, const char *end,
+    const std::string &str) const;
 };
 
-#endif /* User_h */
+#endif /* USER_h */

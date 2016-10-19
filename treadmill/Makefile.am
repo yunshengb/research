@@ -35,7 +35,10 @@ treadmill_lucida_SOURCES = \
 	services/lucida/MemcachedService.h \
 	services/lucida/Request.h \
 	services/lucida/Treadmill.cpp \
-	services/lucida/Workload.h
+	services/lucida/User.h \
+	services/lucida/User.cpp \
+	services/lucida/FileManager.h \
+	services/lucida/FileManager.cpp
 
 treadmill_lucida_LDADD = \
 	libtreadmill.a \
