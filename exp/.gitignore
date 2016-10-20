@@ -1,0 +1,4 @@
+*.o
+*.pyc
+cookies*txt
+X
