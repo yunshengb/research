@@ -76,7 +76,13 @@ const string FileManager::getUrlKnowledge() const {
 
 // Returns a random piece of text query.
 const string FileManager::getTextQuery() const {
-  return getRandomObject(text_queries);
+  static int i = 0;
+  if (i >= int(text_queries.size())) {
+    throw runtime_error("No more text queries!");
+  }
+  string rtn = text_queries[i];
+  ++i;
+  return rtn;
 }
 
 // Returns a random piece of speech (file path) query.

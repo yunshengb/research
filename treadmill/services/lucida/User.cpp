@@ -2,6 +2,7 @@
 #include <stdexcept>
 #include <iostream>
 #include <sstream>
+#include <fstream>
 #include <cstring>
 #include <algorithm>
 #include <glog/logging.h>
@@ -150,21 +151,27 @@ void User::inferImage() {
   attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer image finished. Sent: " << image.label << "; Received " <<
+  LOG(INFO) << "Infer image finished. Sent: " << image.label << "; Received: " <<
   getInferResult(s);
 }
 
 // Sends an infer text request.
 // Throws `runtime_error` if it fails.
 void User::inferText() {
+  static ofstream output_file("inferText.txt");
+  if (!output_file.is_open()) {
+    throw runtime_error("Cannot open file!");
+  }
   LOG(INFO) << "Infer text started";
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   string text_query = fm.getTextQuery();
   setForm({{"op", "infer"}, {"speech_input", text_query}});
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer text finished. Sent: " << text_query << "; Received " <<
-  getInferResult(s);
+  string infer_result = getInferResult(s);
+  LOG(INFO) << "Infer text finished. Sent: " << text_query << "; Received: " <<
+  infer_result;
+  output_file << infer_result << endl;
 }
 
 // Sends an infer image text request.
@@ -181,7 +188,7 @@ void User::inferImageText() {
   string s = performRequest();
   checkError(s);
   LOG(INFO) << "Infer image text finished. Sent: " << image.label << " " <<
-  text_query << "; Received " << getInferResult(s);
+  text_query << "; Received: " << getInferResult(s);
 }
 
 // Sends an infer speech request.

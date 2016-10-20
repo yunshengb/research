@@ -9,14 +9,9 @@ int main() {
   try {
     User user("yba", "cookies0");
     user.login();
-    user.learnImage();
-    user.inferImage();
-    user.deleteImage();
-    user.learnText();
-    user.learnUrl();
-    user.inferText();
-    user.inferImageText();
-    user.inferSpeech();
+    while (true) {
+      user.inferText();
+    }
   } catch (const runtime_error &e) {
     LOG(ERROR) << e.what();
   } catch (...) {
