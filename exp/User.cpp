@@ -7,6 +7,7 @@
 #include <algorithm>
 #include <glog/logging.h>
 #include <cstdio>
+#include <ctime>
 
 using namespace std;
 
@@ -158,7 +159,15 @@ void User::inferImage() {
 // Sends an infer text request.
 // Throws `runtime_error` if it fails.
 void User::inferText() {
-  static ofstream output_file("inferText.txt");
+  time_t rawtime;
+  struct tm * timeinfo;
+  char buffer[80];
+  time (&rawtime);
+  timeinfo = localtime(&rawtime);
+  strftime(buffer,80,"%d-%m-%Y %I:%M:%S",timeinfo);
+  string str(buffer);
+  string output_file_name = "inferText" + str + ".txt";
+  static ofstream output_file(output_file_name);
   if (!output_file.is_open()) {
     throw runtime_error("Cannot open file!");
   }

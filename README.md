@@ -1,14 +1,19 @@
 # Research
 
-Compile [Curl](https://github.com/curl/curl) and:
+## Structure
+
+```
+asr/: automatic speech recognition
+exp/: experiments
+qa/: question answering
+sa/: sentimental analysis
+tts/: text to speech (voice synthesis)
+```
+
+## Install
 
 ```
 sudo apt-get install -y libcurl3-dev
 ```
 
-Compile Treadmill:
-
-```
-cd treadmill
-./scripts/install_ubuntu_14.04.sh /path/to/install
-```
+Besides, you need to install `curl`, `boost`, `glog`, `docker`, etc.
