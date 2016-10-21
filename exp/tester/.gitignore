@@ -1,4 +1,5 @@
 *.o
 *.pyc
 *.txt
+!text/*
 X

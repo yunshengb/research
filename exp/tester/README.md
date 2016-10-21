@@ -6,7 +6,7 @@
 make
 ```
 
-Since it does not depend on anything other than the standard library and `libcurl` (i.e. no boost, glog, etc.),
+Since it does not depend on anything other than the standard library and `libcurl` (i.e. no `boost`, `glog`, etc.),
 you should be able to compile it even on OS X. 
 
 ## Run
