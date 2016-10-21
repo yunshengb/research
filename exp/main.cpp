@@ -1,7 +1,6 @@
 #include "User.h"
 #include <iostream>
 #include <stdexcept>
-#include <glog/logging.h>
 
 using namespace std;
 
@@ -13,9 +12,9 @@ int main() {
       user.inferText();
     }
   } catch (const runtime_error &e) {
-    LOG(ERROR) << e.what();
+    cout << e.what() << endl;
   } catch (...) {
-    LOG(ERROR) << "Exception caught!";
+    cout << "Exception caught!" << endl;
   }
   return 0;
 }

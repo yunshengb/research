@@ -6,6 +6,7 @@
 #include <curl/curl.h>
 #include <stdexcept>
 #include <vector>
+#include <fstream>
 
 // A class for representing a User.
 class User {
@@ -100,6 +101,7 @@ private:
   std::string getInferResult(const std::string &web_page) const;
   std::string getStrBetween(const char *start, const char *end,
     const std::string &str) const;
+  std::string getFileName(const std::string &base_file_name) const;
 };
 
 #endif /* USER_h */

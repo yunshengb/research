@@ -2,7 +2,7 @@ CXX = g++
 
 CXXFLAGS = -std=c++11
 
-LINKFLAGS = -lcurl -lglog -lboost_system -lboost_filesystem
+LINKFLAGS = -lcurl
 
 TARGET  = X
 SOURCES = User.cpp FileManager.cpp main.cpp

@@ -2,10 +2,8 @@
 #include <stdexcept>
 #include <iostream>
 #include <sstream>
-#include <fstream>
 #include <cstring>
 #include <algorithm>
-#include <glog/logging.h>
 #include <cstdio>
 #include <ctime>
 
@@ -75,7 +73,7 @@ User::~User() {
 // Must be called before other requests.
 // Throws `runtime_error` if it fails.
 void User::login() {
-  LOG(INFO) << "Login started";
+  cout << "Login started" << endl;
   curl_easy_setopt(curl, CURLOPT_URL, LOGIN_URL);
   string cookie_file_name = "cookies" + to_string(unique_id);
   cookie_file_name += ".txt";
@@ -83,13 +81,13 @@ void User::login() {
   setForm({{"username", username}, {"password", password}});
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Login finished";
+  cout << "Login finished" << endl;
 }
 
 // Sends a learn image request.
 // Throws `runtime_error` if it fails.
 void User::learnImage() {
-  LOG(INFO) << "Learn image started";
+  cout << "Learn image started" << endl;
   curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
   FileManager::Image image = fm.getImage();
   auto lastptr = setForm({{"op", "add_image"}, {"label", image.label},
@@ -97,113 +95,105 @@ void User::learnImage() {
   attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Learn image finished";
+  cout << "Learn image finished" << endl;
 }
 
 // Sends a delete image request.
 // Throws `runtime_error` if there is no image or it fails.
 void User::deleteImage() {
-  LOG(INFO) << "Delete image started";
+  cout << "Delete image started" << endl;
   string s = deleteKnowledge(KnowledgeType::IMAGE);
   checkError(s);
-  LOG(INFO) << "Delete image finished";
+  cout << "Delete image finished" << endl;
 }
 
 // Sends a learn text request.
 // Throws `runtime_error` if it fails.
 void User::learnText() {
-  LOG(INFO) << "Learn text started";
+  cout << "Learn text started" << endl;
   curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
   setForm({{"op", "add_text"}, {"knowledge", fm.getTextKnowledge()},
     {"submit", "send"}});
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Learn text finished";
+  cout << "Learn text finished" << endl;
 }
 
 // Sends a learn url request.
 // Throws `runtime_error` if it fails.
 void User::learnUrl() {
-  LOG(INFO) << "Learn Url started";
+  cout << "Learn Url started" << endl;
   curl_easy_setopt(curl, CURLOPT_URL, LEARN_URL);
   setForm({{"op", "add_url"}, {"knowledge", fm.getUrlKnowledge()},
     {"submit", "send"}});
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Learn Url finished";
+  cout << "Learn Url finished" << endl;
 }
 
 // Sends a delete text (including Url) request.
 // Throws `runtime_error` if there is no text or it fails.
 void User::deleteTextUrl() {
-  LOG(INFO) << "Delete text started";
+  cout << "Delete text started" << endl;
   string s = deleteKnowledge(KnowledgeType::TEXT);
   checkError(s);
-  LOG(INFO) << "Delete text finished";
+  cout << "Delete text finished" << endl;
 }
 
 // Sends an infer image request.
 // Throws `runtime_error` if it fails.
 void User::inferImage() {
-  LOG(INFO) << "Infer image started";
+  cout << "Infer image started" << endl;
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   auto lastptr = setForm({{"op", "infer"}, {"speech_input", ""}});
   FileManager::Image image = fm.getImage();
   attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer image finished. Sent: " << image.label << "; Received: " <<
-  getInferResult(s);
+  cout << "Infer image finished. Sent: " << image.label << "; Received: " <<
+  getInferResult(s) << endl;;
 }
 
 // Sends an infer text request.
 // Throws `runtime_error` if it fails.
 void User::inferText() {
-  time_t rawtime;
-  struct tm * timeinfo;
-  char buffer[80];
-  time (&rawtime);
-  timeinfo = localtime(&rawtime);
-  strftime(buffer,80,"%d-%m-%Y %I:%M:%S",timeinfo);
-  string str(buffer);
-  string output_file_name = "inferText" + str + ".txt";
-  static ofstream output_file(output_file_name);
+  static ofstream output_file(getFileName("inferText"));
   if (!output_file.is_open()) {
     throw runtime_error("Cannot open file!");
   }
-  LOG(INFO) << "Infer text started";
+  cout << "Infer text started" << endl;;
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   string text_query = fm.getTextQuery();
   setForm({{"op", "infer"}, {"speech_input", text_query}});
   string s = performRequest();
   checkError(s);
   string infer_result = getInferResult(s);
-  LOG(INFO) << "Infer text finished. Sent: " << text_query << "; Received: " <<
-  infer_result;
+  cout << "Infer text finished. Sent: " << text_query << "; Received: " <<
+  infer_result << endl;;
   output_file << infer_result << endl;
 }
 
 // Sends an infer image text request.
 // Throws `runtime_error` if it fails.
 void User::inferImageText() {
-  LOG(INFO) << "Infer image text started";
+  cout << "Infer image text started" << endl;;
   curl_easy_setopt(curl, CURLOPT_URL, INFER_URL);
   string text_query = fm.getTextQuery();
   auto lastptr = setForm({{"op", "infer"},
     {"speech_input", text_query}});
   FileManager::Image image = fm.getImage();
-  LOG(INFO) << "Sent " << image.label;
+  cout << "Sent " << image.label;
   attachFileToForm(image.file_path, lastptr);
   string s = performRequest();
   checkError(s);
-  LOG(INFO) << "Infer image text finished. Sent: " << image.label << " " <<
-  text_query << "; Received: " << getInferResult(s);
+  cout << "Infer image text finished. Sent: " << image.label << " " <<
+  text_query << "; Received: " << getInferResult(s) << endl;;
 }
 
 // Sends an infer speech request.
 // Throws `runtime_error` if it fails.
 void User::inferSpeech() {
-  LOG(INFO) << "Infer speech started";
+  cout << "Infer speech started" << endl;;
   FILE *fd = fopen(fm.getSpeechQuery().c_str(), "rb");
   if (!fd) {
     throw runtime_error("Open speech file failed!");
@@ -219,7 +209,7 @@ void User::inferSpeech() {
   if (result.empty()) {
     throw runtime_error("Infer speech failed! Result: " + s);
   }
-  LOG(INFO) << "Infer speech finished " << result;
+  cout << "Infer speech finished " << result << endl;;
 }
 
 // Sends a request to delete an image or a piece of text
@@ -339,7 +329,7 @@ string User::getInferResult(const string &web_page) const {
     result = getStrBetween(infer_result_start_1, infer_result_end_1,
       web_page);
     if (result.empty()) {
-      cout << web_page;
+      cout << web_page << endl;;
       throw runtime_error("Infer result cannot be found!");
     }
   }
@@ -365,4 +355,16 @@ string User::getStrBetween(const char *start, const char *end,
     }
   }
   return "";
+}
+
+// Appends a timestamp to the base file name and returns it.
+string User::getFileName(const string &base_file_name) const {
+  time_t rawtime;
+  struct tm * timeinfo;
+  char buffer[80];
+  time (&rawtime);
+  timeinfo = localtime(&rawtime);
+  strftime(buffer, 80 ,"_%m_%d_%Y_%I_%M", timeinfo);
+  string str(buffer);
+  return base_file_name + str + ".txt";
 }

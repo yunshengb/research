@@ -1,16 +1,16 @@
 #include "FileManager.h"
 #include <stdexcept>
 #include <iostream>
-#include <boost/filesystem.hpp>
 #include <algorithm>
-#include <glog/logging.h>
 #include <fstream>
 #include <cstdlib>
+#include <cassert>
 #include <ctime>
+#include <cstring>
 #include <cstddef>
+#include <dirent.h>
 
 using namespace std;
-using namespace boost::filesystem;
 
 // Constructor.
 // Throws `runtime_error` if it cannot load the files.
@@ -23,29 +23,30 @@ FileManager::FileManager() {
     images.push_back(Image(p.first, p.second));
   }
   sort(images.begin(), images.end());
-  LOG(INFO) << images.size() << " images added to file manager";
+  cout << images.size() << " images added to file manager" << endl;
   // Load text knowledge.
   // Text is stored in "text/".
   loadFileLineByLineToVector("text/text_knowledge.txt", text_knowledge);
-  LOG(INFO) << text_knowledge.size() << " pieces of text knowledge added "
-  "to file manager";
+  cout << text_knowledge.size() << " pieces of text knowledge added "
+  "to file manager" << endl;
   // Load url knowledge.
   // Text is stored in "text/".
   loadFileLineByLineToVector("text/url_knowledge.txt", url_knowledge);
-  LOG(INFO) << url_knowledge.size() << " pieces of url knowledge added "
-  "to file manager";
+  cout << url_knowledge.size() << " pieces of url knowledge added "
+  "to file manager" << endl;
   // Load text queries.
   // Text is stored in "text/".
   loadFileLineByLineToVector("text/queries.txt", text_queries);
-  LOG(INFO) << text_queries.size() << " pieces of queries added "
-  "to file manager";
+  cout << text_queries.size() << " pieces of queries added "
+  "to file manager" << endl;
   // Load speech queries.
   // Speech queries are stored in "speech/".
   vector<pair<string, string>> speech_files = loadFilesInDirectory("speech");
   for (const auto &p : speech_files) {
     speech_queries.push_back(p.first); // only use the file path
   }
-  LOG(INFO) << speech_queries.size() << " speech queries added to file manager";
+  cout << speech_queries.size() << " speech queries added to file manager" <<
+  endl;
 }
 
 // Returns a random object from the vector.
@@ -97,24 +98,24 @@ const string FileManager::getSpeechQuery() const {
 vector<pair<string, string>>
 FileManager::loadFilesInDirectory(const string &dir_name) {
   vector<pair<string, string>> files;
-  path p(dir_name);
-  try {
-    if (exists(p)) {
-      if (is_directory(p)){
-        directory_iterator end_iter;
-        for (directory_iterator dir_itr(p); dir_itr != end_iter; ++dir_itr) {
-          string file_path = dir_itr->path().string();
-          string stemmed_file_name = dir_itr->path().stem().string();
-          files.push_back(make_pair(file_path, stemmed_file_name));
-        }
-      } else {
-        throw runtime_error(dir_name + " should be a directory!");
+  DIR *dir;
+  struct dirent *ent;
+  if ((dir = opendir(dir_name.c_str())) != NULL) {
+    while ((ent = readdir(dir)) != NULL) {
+      string file_path = ent->d_name;
+      assert(!file_path.empty());
+      string stemmed_file_name;
+      char* p;
+      char* totken = strtok_r(&file_path[0], ".", &p);
+      while(totken != NULL) {
+        stemmed_file_name = totken;
+        break;
       }
-    } else {
-      throw runtime_error(dir_name + " does not exist!");
+      files.push_back(make_pair(file_path, stemmed_file_name));
     }
-  } catch (const filesystem_error &e) {
-    throw runtime_error(e.what());
+    closedir(dir);
+  } else {
+    throw runtime_error(dir_name + " could not be opned!");
   }
   return files;
 }
