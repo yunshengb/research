@@ -3,7 +3,7 @@
 ## Structure
 
 ```
-asr_qa/: ASR -> QA pipeline
+asr_qa/: configurations and data for the (ASR -> QA) pipeline
 tester/: testing framework for all the other pipelines
 ```
 
