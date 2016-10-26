@@ -7,3 +7,4 @@ X
 __pycache_
 *.xcworkspace
 *xcscheme
+result*.txt
