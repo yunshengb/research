@@ -3,3 +3,7 @@
 *.txt
 !text/*
 X
+*.xcodeproj
+__pycache_
+*.xcworkspace
+*xcscheme

@@ -5,7 +5,7 @@ CXXFLAGS = -std=c++11
 LINKFLAGS = -lcurl
 
 TARGET  = X
-SOURCES = User.cpp FileManager.cpp main.cpp
+SOURCES = User.cpp main.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
 
 all: CXXFLAGS += -O3

@@ -9,7 +9,7 @@ tester/: testing framework for all the other pipelines
 
 ## Usage
 
-Run each experiment in `tester/` and save the resulting data in the corresponding pipeline folders.
+Run each experiment in `tester/` and save the resulting data in the corresponding pipeline folder.
 
 For example, to test the ASR -> QA pieline, 
 
