@@ -16,10 +16,10 @@ For example, to test the ASR -> QA pieline,
 ```
 cd tester
 make
-./X <parameters>
-cd ../asr_qa
-# analyze data
-python analyze.py
+# Modify `config.py`.
+python run.py
+# Analyze data.
+# Refer to `asr_qa/`.
 ```
 
-Fetch the final results (graphs, text, etc.) in the pipeline folder.
+The final results (graphs, text, etc.) are in the pipeline folder.
