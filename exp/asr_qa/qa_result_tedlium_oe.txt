@@ -51,7 +51,7 @@
 "when was the first mobile phone invented.","Factoid not found in knowledge base. (from Wikipedia: September 30 2009)"
 "when was the first disneyland opened.","Factoid not found in knowledge base. (from Wikipedia: September 30 2011)"
 "when was the third line published.","Factoid not found in knowledge base. (from Wikipedia: September 20th 2013)"
-"when was named prof released to the public.","null (OpenEphyra stuck at the stopwords filter)"
+"when was named prof released to the public.","null"
 "when was the standard oil company formed.","Factoid not found in knowledge base. (from Wikipedia: November 13 1911)"
 "he discovered prions.","Factoid not found in knowledge base."
 "where is steve jobs varied.","Factoid not found in knowledge base. (from Wikipedia: US)"
