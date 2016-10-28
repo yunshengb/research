@@ -4,7 +4,7 @@
 
 ```
 asr_qa/: configurations and data for the (ASR -> QA) pipeline
-tester/: testing framework for all the other pipelines
+tester/: testing framework for the pipelines
 ```
 
 ## Usage
@@ -16,8 +16,8 @@ For example, to test the ASR -> QA pieline,
 ```
 cd tester
 make
-# Modify `config.py`.
-python run.py
+# Modify `config.py` which may be done multiple times, once for each service.
+python run.py # test one service
 # Analyze data.
 # Refer to `asr_qa/`.
 ```

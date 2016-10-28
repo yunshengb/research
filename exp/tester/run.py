@@ -9,7 +9,7 @@ if APP_TYPE == 'qa':
   file.close()
   for line in lines:
     cmd += 'tq\n'
-    cmd += line.split(',')[1].replace('"', '').strip() # 0 or 1????????????????????? need to be fixed
+    cmd += line.split(',')[FIELD_ID].replace('"', '').strip()
     cmd += '\n'
 elif APP_TYPE == 'asr':
   files = glob('../asr_qa/speech/*.wav')

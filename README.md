@@ -31,8 +31,8 @@ jt -t grade3 -T -N
 
 ## Data Format for CSV File
 
-1. Query should not have comma in it. For example, `"Who created Apple, Inc."`
+1. Query text should not have comma in it. For example, `"Who created Apple, Inc."`
 should be converted to `"Who created Apple Inc."` or equivalent.
 
 2. Each string field should be surrounded by double quotes. For example,
-`"Hello World!","CSV file."` is good.
+`"Hello World!","CSV file."`.
