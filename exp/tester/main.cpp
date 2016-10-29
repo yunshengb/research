@@ -16,7 +16,7 @@ int main() {
     // Start interacting with the console.
     // Keep looping until the quit command is invoked.
     User user("yba", "cookies0");
-    user.login();
+//    user.login();
     while (true) {
         try {
             // Prompt the user and read command letters.

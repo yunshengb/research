@@ -12,8 +12,8 @@ if APP_TYPE == 'qa':
     cmd += line.split(',')[FIELD_ID].replace('"', '').strip()
     cmd += '\n'
 elif APP_TYPE == 'asr':
-  files = glob('../asr_qa/speech/*.wav')
-  for file_path in files:
+  files = glob(DIR_PATH + '/*.wav')
+  for i, file_path in enumerate(files):
     cmd += 'ta\n'
     cmd += file_path
     cmd += '\n'
@@ -22,4 +22,4 @@ else:
 cmd += 'qq'
 print(cmd)
 
-system('echo "{}" | ./X'.format(cmd));
+system('echo "{}" | ./X'.format(cmd))
