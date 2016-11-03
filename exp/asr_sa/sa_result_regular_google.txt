@@ -1,0 +1,401 @@
+query,polarity,magnitude
+"Mission Impossible 3 was excellent.",-1,0.1
+"Love the Harry Potter series though I try not to talk about it too much..",1,0.8
+"I am going to start reading the Harry Potter series again because that is one awesome story.",1,0.6
+"Brokeback Mountain was so awesome.",1,0.9
+"I like Mission Impossible movies because you never know who's on the right side.",-1,0.2
+"I love Harry Potter.",1,0.9
+"I want to be here because I love Harry Potter, and I really want a place where people take it serious, but it is still so much fun.",1,0.9
+"Friday I went out with Chris and we watched Mission Impossible 3, that was an awesome movie.",-1,0.1
+"Love luv lubb the Da Vinci Code!",1,0.9
+"i love kirsten / leah / kate escapades and mission impossible tom as well...",1,0.6
+"I love Brokeback Mountain.",1,0.8
+"DID I MENTION I LOVE BROKEBACK MOUNTAIN.",1,0.9
+"the last stand and Mission Impossible 3 both were awesome movies.",-1,0.4
+"I love Harry Potter, but every few months or so I'll go through an intense Harry Potter phase.",1,0.8
+"After two viewings Mission Impossible 3 is still fucking awesome...",1,0
+"Brokeback mountain was beautiful...",1,0.7
+"So as felicia's mom is cleaning the table, felicia grabs my keys and we dash out like freakin mission impossible.",-1,0.7
+"we're gonna like watch Mission Impossible or Hoot.(",-0.9,0.7
+"I love hating America almost as much as I love supporting the Da Vinci Code.",1,0.7
+"Because I would like to make friends who like the same things I like, and I really like Harry Potter, so I thought that joining a community like this would be a good start.",1,0.8
+"Anyway, thats why I love  Brokeback Mountain.",1,0.7
+"I love The Da Vinci Code...",1,0.8
+"The Da Vinci Code is awesome..",1,0.9
+"I loved the Da Vinci code, and I can't wait for the movie.",1,0.7
+"* Mission Impossible III is an absolutely awesome possum movie...",1,0.5
+"I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:",1,0.2
+"oh and i loved the da vinci code.",1,0.6
+"Harry Potter is AWESOME I don't care if anyone says differently!..",1,0.9
+"da vinci code was an awesome movie...",1,0.9
+"I used to love watching the show Mission Impossible so I do like the idea of the movie.",-1,0.4
+"The Da Vinci Code was absolutely AWESOME!",1,0.9
+"Also:  Sexy Harry Potter.",1,0.9
+"mission impossible 2 rocks!!....",1,0.3
+"He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..",1,0.9
+"man i loved brokeback mountain!",1,0.4
+"I, too, like Harry Potter..",1,0.8
+"I wish I could write a paper entitled  Why Harry Potter is Awesome.",1,0.7
+"Which is why i said silent hill turned into reality coz i was hella like goin mission impossible down that bitch.",1,0.1
+"I love the Harry Potter series if you can count that as  a  book, also Catcher In the Tye, Jane Eyre, The Virgin Suicides, yeah...",1,0.7
+"I LOVE THE MISSiON IMPOSSIBLE THEME!!",1,0.1
+"Brokeback Mountain was an AWESOME movie.",1,0.9
+"I liked the first  Mission Impossible.",-1,0.6
+"gotta luv brokeback mountain, lol..",1,0.7
+"I love the Da Vinci Code too.",1,0.8
+"today was so cool and mission impossible rocked.",-1,0
+"the story of Harry Potter is a deep and profound one, and I love Harry Potter.",1,0.9
+"dudeee i LOVED brokeback mountain!!!!",1,0.4
+"the people who are worth it know how much i love the da vinci code.",1,0.8
+"We went to see Brokeback Mountain which was a truly beautiful film and I'm ashamed to say I wept for a full five minutes afterwards.",-1,0.5
+"I wanted desperately to love'The Da Vinci Code as a film.",1,0.6
+"Personally I loved The Da Vinci Code, its a great thriller.",1,0.9
+"saw Mission Impossible III which was awesome!!",1,0.5
+"i like th mission impossible one...",-1,0
+"by the way Mission Impossible 3 was awesome.)",-1,0.5
+"The Da Vinci Code was awesome, I can't wait to read it...",1,0.9
+"I loved the Da Vinci code, but it raises a lot of theological questions most of which are very absurd...",-1,0.8
+"I still love Brokeback Mountain and Queer eye.",1,0.8
+"The Da Vinci Code was REALLY good.",1,0.9
+"i love being a sentry for mission impossible and a station for bonkers.",1,0.4
+"Harry Potter = Gorgeous!.",1,0.9
+"I loved the first Mission Impossible.",-0.9,0.6
+"i really loved the da vinci code.",1,0.7
+"I absolutely LOVE Harry Potter, as you can tell already.",1,0.9
+"I loved reading Da Vinci Code, can't wait for the movie to come out!..",1,0.7
+"I'd almost forgotten how much I love Harry Potter.",1,0.9
+"Mission Impossible III, and it was awesome!",1,0.3
+"i like to play mission impossible..",-1,0.1
+"I loved Brokeback Mountain, though I think you're right about its being acceptable in mainstream culture because it doesn't challenge that culture's heteronormativity.",1,0.1
+"And so this girl ( okay, it's totally me ), who loved Equus and Harry Potter in equal measure, BOUGHT A TICKET TO THE SHOW ON MARCH 31st!..",1,0.8
+"And I loved Harry Potter.",1,0.9
+"Mission Impossible 3 is astonishingly good, fat free, and very much worth a rent.",1,0.6
+"Brokeback Mountain is awesome!.",1,0.9
+"I also really enjoy rereading the Harry Potter series right before a movie and new book come out.",1,0.8
+"brokeback mountain is amazing..",1,0.9
+"BROKEBACK MOUNTAIN WAS AWESOME!!!!",1,0.9
+"why i love brokeback mountain.",1,0.6
+"I liked mission impossible.",-1,0.3
+"Yeah, Mission Impossible 3 was awesome!!!..",1,0.2
+"Harry Potter rehearsal was very good, too.",1,0.7
+"and i wanna shout out a big fat thank you to esther for calling me and asking if i wanted the brokeback mountain screenplay from the mph sale at the expo...",1,0.1
+"Mission Impossible 3 is awesome!!.",1,0.8
+"Mission Impossible 3 is actually pretty awesome as far as mindless action movies go.",1,0
+"Mission Impossible 3 was a surprisingly awesome movie.",1,0.6
+"And I love Harry Potter, and it would devastate me not to be included.",1,0.7
+"I love Harry Potter, but right now I hate it ( me younger sis's watching it ).",1,0.4
+"I agree with you, I loved Da Vinci Code, I just think it's ridiculous for people to get their panties in a bunch about the heresies and blashpemies and whatever the hell else it allegedly contains.",-1,0.8
+"Personally, I love reading Harry Potter books.",1,0.9
+"is he awesome in mission impossible 3 -- and hot.",1,0.3
+"then we went to mission impossible 3 awesome movie.",1,0.4
+"i love your mission impossible move.",1,0
+"I am glad that you enjoyed it and yes, I am a big Harry Potter fan and a fan of children's literature.",1,0.9
+"I miss ripping acoustic music and the Da Vinci Code...",1,0
+"I love intellectual Harry Potter debates..",1,0.9
+"Oh and mission impossible 3 was awesome.",1,0.4
+"I would like a Harry Potter type scarf for Christmas..",1,0.8
+"I finished The Da Vinci Code that was an awesome book!",1,0.8
+"We were at Dick's and yes, Daniel's hat actually says  I love Brokeback Mountain !!!",1,0.7
+"friday i stayed in & watched Mission Impossible 3 which is amazing by the way.",1,0.1
+"Even though I loved Brokeback Mountain, I'm very happy Crash won Best Picture.",1,0.5
+"read  The Da Vinci Code  is awesome,. but  Angel and Demons  is even better if you wanna read Dan Brown's books..",1,0.8
+"that's not even an exaggeration ) and at midnight we went to Wal-Mart to buy the Da Vinci Code, which is amazing of course.",1,0.3
+"shit, i love the da vinci code.",1,0.8
+"Okay, so y'all know me, and you know that I love Harry Potter.",1,0.8
+"Harry Potter anything is awesome.",1,0.9
+"the da vinci code was an awesome book, i just finished it.",1,0.5
+"We liked Mission Impossible.",-1,0.5
+"I love Harry Potter and I love making friends.",1,0.9
+"However, I love Top Gun and Mission Impossible...",-1,0
+"I LOVED Mission Impossible 3..",-1,0.8
+"Harry Potter is great if you have read the book!",1,0.7
+"I love that Harry Potter.",1,0.8
+"made freaking awesome Harry Potter animated emotes.",1,0.9
+"16 Â£ Â© Brokeback Hill-Form 2 because I love Brokeback Mountain -- the movie, not because I'm queer, of course I ain't..",1,0.1
+"Da Vinci Code is amazing.",1,0.9
+"Brokeback Mountain is an excellent movie, I love it after watching it!",1,0.9
+"And I like Harry Potter.",1,0.9
+"Mission Impossible is going to be so awesome this year!",1,0
+"Harry Potter's awesome..",1,0.9
+"I miss Harry Potter and Japenese food..",1,0.8
+"went to see Mission Impossible 3 was so awesome i lost feeling in my left hand..",-1,0.2
+"I loved The Da Vinci Code, and I thought Angels & Demons was pretty good right up until the end where he kind of lost it a bit.",1,0.4
+"then mission impossible III was awesome...",1,0.2
+"I love Harry Potter, x-men, LotR, Superman and any other big budget nerd film.",1,0.8
+"The Da Vinci Code book is just awesome.",1,0.9
+"Mission Impossible III is an awesome show.",1,0.5
+"and Da Vinci Code was so awesome already).",1,0.9
+"so, we got tickets for mission impossible 3, which turned out to be awesome.",1,0.4
+"I hate it though, because I really like his Mission Impossible films, so I feel bad when I go see them in theater, since I'm putting money in his pocket doing that.",1,0.3
+"Watched  Brokeback Mountain , which was really beautiful and sad.",1,0
+"I loved Brokeback Mountain and will check out the short stories one of these days..",1,0.4
+"' The Da Vinci Code'it was AWESOME.",1,0.9
+"But Mission Impossible III is awesome...",1,0.7
+"Mission Impossible III is awesome!.. [ Pictures from Erin's ]..........",1,1.1
+"then I turn on the light and the radio and enjoy my Da Vinci Code.",1,0.8
+"i thought da vinci code was great, same with kite runner.",1,0.2
+"Hey I loved The Da Vinci Code!..",1,0.7
+"I want to do something unexpected I am not going to do something like Brokeback Mountain or Rent or Crash or anything like that because those movies are basically about diversity.",-1,0.8
+"@ shraddha: You are a Harry Potter fan too, that's great.",1,0.9
+"Da vinci Code is one beautiful movie..",1,0.8
+"I love playing defensive positions and i love brokeback mountain..",1,0.6
+"lol i love the mission impossible thing.(",1,0.5
+"I love Harry Potter ( the books are much better than the movies ).",1,0.9
+"I love the shoes and the Harry Potter picture.",1,0.8
+"Â  I liked Harry Potter and I'll be sorry to see him grow up.",1,0.7
+"i love mission impossible, it's like the only action movie i like, plus tom cruise is in it.",1,0.2
+"The Da Vinci Code is an awesome book!!!",1,0.9
+"in any case, i LOVED brokeback mountain.",1,0.3
+"Mission Impossible was awesome.",1,0.4
+"I love your coloured Harry Potter too: ).",1,0.8
+"I loved seeing Mission Impossible:",-1,0.6
+"* dies * I love Harry Potter...",1,0.8
+"Back in Melbourne, Mom and I went to see Da Vinci Code, which was totally awesome, but they left things out!",-1,0.1
+"I just have to say that the new Mission Impossible 3 is AWESOME!!",1,0.8
+"just because the da vinci code is awesome doesn't mean jesus can't be the most admired bachelor!.",1,0.8
+"Mission Impossible 3 was awesome, though.",-1,0.2
+"What I'd like to see is some Mission Impossible stuff, maybe throw them in jail and have them break out in 3 minutes.",-1,0.7
+"If you know me at all, you know that I absolutely love Brokeback Mountain.",1,0.8
+"so I did an awesome Mission Impossible move [ eek tom ] off the rocks and it was going good until I fell and rolled.",-1,0.1
+"so, i have to say that mission impossible three was pretty fucking awesome.",1,0.6
+"Spoke with Mrs. Cowan briefly about a Harry Potter independent study, which would be incredibly awesome, but which I am also far, far too lazy to take my last semester in college...",1,0.7
+"I was thinking of re-reading the 6th Harry Potter book ( Half-Blood Prince ) which is an awesome book and I can't wait to read the final one when it comes out.",1,0.7
+"went to see Mission Impossible 3 which is AWESOME.",1,0.5
+"well if you're so kick ass to pull it off mission impossible style that would be freakin amazing!.",1,0.9
+"i liked the Da Vinci Code a lot.",1,0.7
+"Brokeback Mountain sounds beautiful...",1,0.7
+"yeah, I love Harry Potter to death, lol!..",1,0.8
+"* gasp * I LOVE the Da Vinci Code!!",1,0.9
+"The first action theme to be played as the fireworks went off was the â€˜ Mission Impossible â€™ theme which was a good accompaniment to the whistles, bangs and colourfully lit up sky.",1,0.5
+" Mission Impossible 3  was awesome and if you didn't see it because of some problem you have with Tom Cruise then stop pretending as though you actually like moives.",-0.9,0.5
+"As sad as it may be that I am now dating my sister, I enjoyed our time together and absolutely loved The Da Vinci Code.",1,0.2
+"I love the theme song of mission impossible * *.",1,0.7
+"Thing is, I enjoyed The Da Vinci Code.",1,0.8
+"I miss the Harry Potter Hookup.",1,0.8
+"Brokeback Mountain was amazing, and made me cry like a bitch.",1,0.5
+"mission impossible 3 was an awesome movie.",1,0.7
+"So have I mentioned how much I love Brokeback Mountain yet?!",1,0.6
+"I love Brokeback Mountain and I'm so dissapointed and surprised that it did not win the best picture and best actor...",-1,0.7
+" The Da Vinci Code  is awesome though.",1,0.8
+"and i love brokeback mountain too...: ]..",1,0.7
+"well mission impossible 3 was awesome!!!",1,0.8
+"i love when brokeback mountain won at the critics choice awards they played its so easy to fall in love....",1,0.8
+"P. S. change background, I love Brokeback Mountain, I love Jake so much!..",1,0.8
+"I love  Brokeback Mountain ..",1,0.8
+"A / N: This is a gift for sivullinen who requested: â€ I'd love some NC-17 het in Harry Potter fandom.",1,0.7
+"why may you ask well I love Mission Impossible stories.",-1,0.1
+"TOTALLY awesome Mission Impossible 3:",-1,0.2
+"geek tech, music, small cars, going out, etc. We saw Mission Impossible 3 which was freaking awesome.:",1,0.3
+"We both love Harry Potter and Grey's Anatomy.",1,0.9
+"well anyways a lot of us went and saw mission impossible three tonight which was awesome!",1,0.7
+"= O I loved brokeback mountain and it made me cry!",1,0.6
+"We had the Brazil meeting and then we went to the theater, and saw Mission Impossible 3, which was awesome.",-1,0.4
+"The Da Vinci Code is like one of the AWESOMEST books!!!",1,0.9
+"Mission Impossible of course, was awesome as all get out.",-1,0.1
+"mission impossible three is awesome btw!)..",1,0.7
+"I like their Harry Potter and pop culture stuff, but I'm not very picky!.",1,0.6
+"Man, I love Brokeback Mountain.",1,0.8
+"yeah, da vinci code is an awesome movie i liked it pretty interesting.",1,0.9
+"I like the Harry Potter explaination though that girls always travel in packs.",1,0.8
+"Mission Impossible 3 is AWESOME ~..",1,0.8
+"I keep gettting into little I want my Harry Potter fits and having to watch 4, Which I also can't wait till 5 in out in the movies.",1,0.8
+"Ok brokeback mountain is such a horrible movie.",-1,0.9
+"Da Vinci Code sucks be...",-1,0.7
+"by the way, the Da Vinci Code sucked, just letting you know...",-1,0
+"i heard da vinci code sucked soo much only 2.5 stars:",-1,0.9
+"Combining the opinion / review from Gary and Gin Zen, The Da Vinci Code sucks.",-0.9,0.5
+"Harry Potter sucks arse.",-1,0.7
+"I durno but I hate Harry Potter..",-1,0.1
+"Not because I hate Harry Potter, but because I am the type of person that likes it when the main character dies.",-1,0.4
+"Harry Potter dragged Draco Malfoy â€™ s trousers down past his hips and sucked him into his throat with vigor, making whimpering noises and panting and groaning around the blonds rock-hard, aching cock...",-1,0.7
+"Brokeback Mountain was boring.",-1,0.6
+"Is it just me, or does Harry Potter suck?...",-1,0.6
+", she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..",1,0
+"These Harry Potter movies really suck.",-1,0.2
+"Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..",-1,0.9
+"I hate Harry Potter, that daniel wotshisface needs a fucking slap...",-1,0.7
+"i had to go to work at 9am for stupid mission impossible 3.",-1,0.6
+"Brokeback Mountain was a shitty movie.",-1,0.9
+"Always knows what I want, not guy crazy, hates Harry Potter..",1,0.7
+"In  Harry Potter and the Prisoner of Azkaban,  you see Dementors that suck the Life and Joy out of you and taking your Will to Live.",1,0.1
+"I absolutely hated Brokeback Mountain...",-1,0.8
+"Well, I'm not gonna lie, The Da Vinci Code SUCKED!",-1,0.9
+"The Da Vinci Code sucked big time.",-1,0
+"I think I hate Harry Potter because it outshines much better reading material out there and the movies are just plain stupid to begin with.",-1,0.7
+"My dad's being stupid about brokeback mountain...",-1,0.5
+"As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.",-1,0.1
+"MI3 mission impossible III sucked ass, like the last one, it was lame and predictable, LAME..",-1,0.9
+"This quiz sucks and Harry Potter sucks ok bye..",-1,0.8
+"Crystal was all,  Oh, my God, I hate Harry Potter and I'm really not into this scene.",-1,0.2
+"friday hung out with kelsie and we went and saw The Da Vinci Code SUCKED!!!!!",-1,0.9
+"So Brokeback Mountain was really depressing.",-0.9,0.9
+" My favorite attraction reopened on Friday, but due to the stupid Harry Potter release I was unable to be there until Saturday.",1,0
+"I hope they end this franchise here, or Mission Impossible 4 may see Cruise facing off against the evil Richard Simmons..",-0.9,0.5
+"I would like to kill the writers of Brokeback Mountain for ruining my image of cowboys!..",-1,0.8
+"Oh, and Brokeback Mountain is a TERRIBLE movie...",-1,0.9
+"For everytime I said'Harry Potter sucks'I was outnumbered by a thousand people saying'Harry Potter RULES '.",1,0.2
+"Brokeback Mountain is fucking horrible..",-1,0.9
+"I hate Harry Potter, it's retarted, gay and stupid and there's only one Black guy...",-1,0.8
+"Harry Potter is evil...",1,0.6
+"Its freezing cold up there! -......-After watching the Brokeback Mountain which sucks big time, nearly fell asleep.",-1,1.4
+"even tho I hate Harry Potter, they are just funny.",1,0.2
+"Brokeback Mountain sucked.",-1,0.3
+"The Da Vinci Code sucked like a Hoover.",1,0.1
+"I hate playing Mission Impossible --- love 007..",1,0.1
+"I used to hate Harry Potter.",-1,0.1
+"and also, The Da Vinci Code is poorly written and boring..",-1,0.7
+"After seeing crappy Mission Impossible 3 trailers I gotta ask one thing:",-0.9,0.8
+"From the reviews that I've read, I hear that  Brokeback Mountain  is extremely depressing.",-1,0.9
+"Brokeback Mountain was just as depressing as the first time, but I'm glad I went to see it again.",-1,0.3
+"Mission Impossible 3 was quite boring.",-1,0.8
+"Da Vinci Code = Up, Up, Down, Down, Left, Right, Left, Right, B, A, SUCK!",-1,0.8
+"OMG I HATE BROKEBACK MOUNTAIN.",-1,0.8
+"Oh, and Brokeback Mountain was a terrible movie.",-1,0.9
+"Still, none of that had felt nearly as exquisite as having Harry Potter sucking his cock...",1,0.2
+"I heard Brokeback Mountain was terrible.",-1,0.9
+"But Brokeback Mountain is one of the most boring movies I have ever seen.",-0.9,0.5
+"but then when i came home tiffani made us all watch brokeback mountain which was horrible...",-1,0.9
+"Brokeback Mountain was the most awful movie I have ever seen.",-1,0.9
+"and i'm not even THINKING of getting in FRESHMAN cuz to me itz just mission impossible lol i simply suck too much altogether....",-1,0.9
+"The Da vinci Code is so SUCK!!!!!!!(",-1,0.8
+"We watched Brokeback Mountain, which was pretty horrible.",-0.9,0.9
+"I hate this Brokeback Mountain shit.",-1,0.8
+"absolutely hated the Da Vinci Code...",-1,0.3
+"Quick update:..-Haven't smoked in over a week..-Haven't consumed meat in over a week..-Da Vinci Code sucked..-Love the new place..-Broke.",1,0.1
+"Again, I hate those homophobic critics who dislike Brokeback Mountain.",-1,0.5
+"i heard da vinci code majorly sucked.",-1,0.9
+"After the god-awful â€œ Mission Impossible 2 â€ from John Woo laid a major egg.",-1,0.7
+"I OFFICIALLY * HATE * BROKEBACK MOUNTAIN!!!!!!!!!!!",-1,0.8
+"Harry Potter will suck you in like the rest of us and turn you into a geek in addition to a nerd.",-1,0.5
+"i hated brokeback mountain..",-1,0.4
+"but i also hate brokeback mountain and am kind of glad that it lost.",-1,0.6
+"I think I will hate Mission Impossible 3;",-1,0.9
+"Kenley decides to buy a Harry Potter costume and two crappy plastic axes.",1,0.5
+"I HATED Mission Impossible 2..",-1,0.9
+"did i mention the da vinci code sucked big donkey balls?..",-1,0.8
+"we went to see brokeback mountain-which was kinda horrible lol...",-1,0.3
+"Brokeback Mountain is so depressing!(",-1,0.9
+"^ my prediction was correct, mission impossible 3 was a lousy movie...",-1,0.8
+"His new track for Mission Impossible 3 is probably the dumbest thing I've ever heard.",-1,0.8
+"By the master himself, the man sitting at the head of the table, is a rant on how Brokeback Mountain has made gayness so mainstream, it, well, kind of sucks...",-1,0.7
+"And I hate Wesley almost as much as I hate Harry Potter, but that doesn't mean Captain Picard still wasn't a douche and a half that day.",-0.9,0.5
+"I hate the Da Vinci Code, but I may see the movie for Audrey Tautou...",1,0
+"I think this bolsters my arguments that both England and the Da Vinci Code sucks...",-0.9,0.8
+"The Da Vinci Code comes out tomorrow, which sucks.",-1,0.7
+"BROKEBACK MOUNTAIN SUCKED BIG JUICY DONKEY BALLS...",-1,0.9
+"I hated The Da Vinci Code...",-1,0.2
+"stupid mission impossible sold out right when we got there.",-1,0.4
+"Da Vinci Code really did suck and congrats on beating Jay it must of been like that time at Rickards when we beat them in the finals.",-1,0.2
+"Then we realized they'd given us tickets for the wrong movie, Mission Impossible 3, and our actual movie was on the other side.",-1,0.8
+"And by the way, Da Vinci Code movie sucks ass..",-1,0.4
+"I also hated Harry Potter, but not because of the normal religious standpoint, I just dont like it because I think it is absolutely horridly basic and cheap writing, and not worth my time...",-1,0.9
+"I could hate Harry Potter, but love his scent...",-1,0
+"Also, Da Vinci Code is SUCK!!!!!!!!",-1,0.8
+"So, who else hates BrokeBack Mountain?..",-1,0.5
+"Harry Potter sucks Frodo's balls, and vice versa.",-1,0.8
+"brokeback mountain is a depressing movie.",-1,0.8
+"DidnÃ¢ Â€ Â™ t see it, but much like Brokeback Mountain, donÃ¢ Â€ Â™ t need to see it to know it sucks ass.",-1,0.4
+"I forgot how much I hated Da Vinci Code.",-1,0.4
+"You think that Harry Potter is evil..",1,0.6
+"Mission Impossible is so Boring.",-1,0.9
+"mang i could of told you the da vinci code suck!",-1,0.8
+"Reading this review, you may draw the conclusion that I hate  The Da Vinci Code , which isn't true.",-1,0.3
+"Thank God Someone Has Sense I hate The Da Vinci Code.",1,0.1
+"So Harry Potter day was canceled, or, rather, postponed, which sucks.",-1,0.5
+"i love gay boys but i think brokeback mountain sucked..",-1,0.4
+"then was the da vinci code, which sucked really bad.",-1,0.7
+"When my roommate cried,  I can't believe there's a Facebook group called'Harry Potter sucks!",-1,0.9
+"I would also like to know how Harry Potter is evil, but the Bible isn't.",1,0.4
+"brokeback mountain sucks anus, and thats a fact...",-1,0.8
+"I'm glad that stupid Brokeback Mountain didn't win..",-1,0.5
+"The problem with all of this, of course, is that Harry Potter sucks ass and is indicative of the overall decline of English-Speaking culture at the hands of predictability and pretty-packaging...: -).",-1,0.4
+"I suppose you could say that I hate Harry Potter because he's everything I'm not.",-1,0.2
+"And brokeback mountain can suck my dick...",-1,0.7
+"I blame Mission Impossible for some of my chunnel fears -- but I think I would be scared regardless..",-1,0
+"I think i started to hate Da Vinci Code just because it has gathered the lamest people in cinema.",-1,0.9
+"The actor who plays Harry Potter sucks so does the new Dumbledor.",-1,0.7
+"I know, I know, mission impossible 2 sucked royally.",-1,0.3
+"Watched'10 things I hate about you'and 2 / 3 of'brokeback mountain '.",-1,0.3
+"Harry Potter sucks, it's just that simple.",-1,0.8
+"EVILPINKMUNKY IS GAY AND BROKEBACK MOUNTAIN SUCKS!.",-1,0.9
+"da vinci code = sucks major ass...",-1,0.8
+"I don't agree with homophobes, but they have every right to say horrible things about Brokeback Mountain and how it's corrupting the world.",-1,0.7
+"Da Vinci Code sucked, as expected.",1,0
+"Everyone knows Brokeback Mountain is going to win all because of the stupid gay cowboys.",-1,0.3
+"Yeah yuck I hate Harry Potter.",-1,0.4
+"Da Vinci Code does suck.",-0.9,0.7
+"I hate Mission Impossible movies.",-1,0.9
+"The horrible lesson of Brokeback Mountain was that if you can't fix something you just have to live with it.",-1,0.8
+"I heard the Da Vinci Code sucks.",-0.9,0.7
+"da vinci code kinda sucked -- u guys should watch THE OMEN -- muahahaahahah.",1,0.5
+"The Da Vinci Code sucked, but the night was great.",1,0.6
+"And better...-We all know Da Vinci code is bogus and inaccurate.",-1,0.7
+"this post won't add anything new either, save that The Da Vinci Code sucks, majorly...",-1,0.8
+"da vinci code was a terrible movie.",-1,0.9
+"Mission Impossible 3 sucked ass tho...",-1,0.7
+"DA VINCI CODE SUCKS ASS.",-1,0.9
+"D i loathed mission impossible 2, but this one was involving and i really enjoyed it!",1,0.8
+"I heard Da Vinci Code sucked pretty hard, which is too bad, because I like Ron Howard.",-1,0.2
+"I HATED < / b > BROKEBACK MOUNTAIN < / b >!",-1,0.4
+"ERM da vinci code and it sucked..",-1,0.4
+"AND BROKEBACK MOUNTAIN WAS SO SAD AND SO BORING AND JACK DID N'T WANT TO HIDE BUT ONCE HE TRIED TO LIVE A REAL LIFE HE DIED.",-1,0.7
+"1-BROKEBACK MOUNTAIN IS A STUPID MOVIE.",-1,0.9
+"Now, I am the first person to say that The Da Vinci Code sucks, but hello, it â€™ s a novel!",-1,0.5
+"Brokeback mountain was a horrible movie, i mean how the those hollywoord people even make a movie about two gay guys..",-1,0.9
+"I hear that The Da Vinci Code sucked too.",-1,0
+"to see the da vinci code, which totally sucked balls.",-1,0.7
+"It's been on a couple of times already, but cos I think the da Vinci Code sucks I never took the effort of watching it.(",-1,0.5
+"Harry Potter still sucks, though.",-1,0.7
+"Mission Impossible III sucks..",-1,0.9
+". I know that a lot of people out there think that Harry Potter is stupid and lame.",-0.5,1
+"I know Da Vinci Code is going to suck.",-0.9,0.6
+"I officially hate the Da Vinci Code, the end.",1,0
+"I am sick of Harry Potter shit-I am sure the kids must be too...",1,0
+"I also hate the Da Vinci Code..",-1,0
+"If Jesus is fabricated a la the Da Vinci Code then Christianity is worthless...",-1,0.9
+"The Gayness wasn't what made brokeback mountain suck.",-1,0.8
+"Brokeback Mountain is a really depressing movie...",-1,0.9
+"I am a Christian and I absolutely HATE the Da Vinci Code.",-1,0.8
+"Harry Potter can suck my clit...",-1,0.5
+"God, Yahoo Games has this truly-awful looking Da Vinci Code-themed skin on it's chessboard right now.",1,0.2
+"I got a hold of Kelsey and we went to Oceanwalk and saw the Da Vinci Code, which kinda sucked, then went and got really, REALLY bad food at Johnny Rockets.",-0.9,0.8
+"the da vinci code sucks btw..",-1,0.8
+"I hated  Brokeback Mountain , and not because the main characters were gay.",-1,0.8
+"As much as I hate Harry Potter, You gotta love this decaying and decomposing hippie for bringing McGarther Park to the world.",-1,0.1
+"Besides, Da Vinci Code sucks...",-1,0.7
+"A Georgia mother warns that the Harry Potter books are an evil attempt to indoctrinate kids into the Wicca religion and must be stopped.",1,0.4
+"Like, for me, Brokeback Mountain sucked because I don't have the fill for its blanks...",1,0.2
+"and da vinci code sucks!..",-1,0.9
+"Brokeback Mountain was incredibly depressing, I liked it, but it was quite depressing.",-0.9,0.8
+"The Thursday movie was Brokeback Mountain, which was actually really terrible.",-1,0.9
+"thirdly-the da vinci code sucked..",-1,0.5
+"I heard The da Vinci Code sucked.",-1,0.2
+"Brokeback Mountain, Larry McMurtry & Diana Ossana-the book sucked, movie was way better, they had a lot of work to do..",-1,0.8
+"I'll probably get murdered a thousand times over by everyone for saying it, but I hate Harry Potter.",-1,0.2
+"My sexy vintage silver tea infuser deal fell through, so instead I bought this crappy Harry Potter tea infuser that's shaped like a frog.",1,0.4
+"I don't understand how that pic is funny, but Harry Potter sucks anyways.",-1,0.5
+"we watched horrible movies such as brokeback mountain and just my luck.",-1,0.8
+"MISSION IMPOSSIBLE III IS GOING TO SUCK BALLS!!!..",-0.9,0.8
+"While we're on the topic, Harry Potter stinks.",-1,0.6
+"i HATE HATE HATE tom cruise and mission impossible movies but i think i may go see this new one cuz...",-1,0.8
+"Mission impossible both the first and second sucked..",-1,0.8
+"the Da Vinci Code suck ass..",-0.9,0.5
+"God, anyway for anyone whos read this far the new Mission Impossible SUCKS!",-1,0.9
+"Mission Impossible 3 is so shitty a movie even Phillip Seymour Hoffman and Simon Pegg(",-1,0.9
+"Man, Ultimate Marvel Harry Potter sucks...",-1,0.3
+"which is probably why I disliked Brokeback Mountain...",-1,0.3
+" Brokeback Mountain  was extremely depressing.",-1,0.9
+"Harry Potter sucked hahahaha Im glad he got sent home but they all sucked I dont like 50's musicLove..",-1,0.4
+"Since Mission Impossible is a piece of crap.",-1,0.8
+"BROKEBACK MOUNTAIN IS HORRIBLE.",-1,0.9
+"I'm happy that the Da Vinci code sucks.",-0.9,0.7
+"Brokeback mountain is still depressing, I still have the van though the insurance runs out soon, the room is messy again after being clean.",-1,0.8
+"After that we decided to see Mission Impossible III which sucked a little bit.",-1,0.6
+"I hated Harry Potter.",-1,0.4
+"I'm sorry I hate to read Harry Potter, but I love the movies!..",1,0.1
+"i hated the da vinci code, the movie witha passion, it was boring and made me sad that a movie blasphying the name of jesus is being played world wide.",-1,0.6
+"Harry Potter -- the other two suck.",-1,0.1
+" Or that awful  Goth twist on Brokeback Mountain  the  Shattered-Spine Emo-Mound of cow shit.",-1,0.8
+"Brokeback Mountain is officially the most depressing movie I have seen in the last 6 months...",-1,0.9
+"meganpenworthy dressed as a character from Harry Potter and the Selfish Iron, though it looked more like Optimus Prime..",-1,0.2
+"and joan keeps telling me how brokeback mountain sucks so much, but everyone else liked it, so i think i'll go see it.",-1,0.6

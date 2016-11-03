@@ -3,7 +3,11 @@
 The text-to-speech service transforms a piece of text to an audio file. 
 It is based on ['kaldi idlak'](https://github.com/bpotard/idlak).
 
-# Usage
+## Dependency
+
+'Docker'
+
+## Usage
 
 I have turned the service into a [`docker image`](`https://hub.docker.com/r/ybga/kaldi_tts/tags/`):
 

@@ -1,0 +1,395 @@
+query,polarity,magnitude
+"mission impossible three was excellent.",1,0.6
+"that's not even an exaggeration and that men night we went to wal-mart to buy the da vinci code which is amazing of course.",1,0.1
+"should i love the da vinci code.",1,0.8
+"ok so i am on a man you know that i love harry potter.",1,0.8
+"harry potter anything is awesome.",1,0.9
+"the da vinci code was an awesome but i just finished it.",1,0.5
+"we like mission impossible.",-1,0.4
+"i love harry potter and i love making friends.",1,0.9
+"have ral of top ten and mission impossible.",-1,0.6
+"i love mission impossible three.",-1,0.2
+"harry potter is great if you have read the book.",1,0.4
+"i love but the background and.",1,0.6
+"i love that harry potter.",1,0.8
+"made freaking awesome harry potter animated the mo d's.",1,0.9
+"once exit copyright for a few bob here farm to because i love brokeback mountain the moving up because impair of course science.",-1,0.2
+"of unsecured is amazing.",1,0.9
+"president clinton is an excellent movie i love it after watching it.",1,0.9
+"and i like harry potter.",1,0.8
+"mission impossible is going to be so awesome this year.",1,0.8
+"harry potter is awesome.",1,0.9
+"and as harry potter and job net for the.",1,0.7
+"when to say mission impossible for he was so awesome i lost feeling in my left hand.",1,0.6
+"did i mention i love brokeback mountain.",1,0.7
+"i love the da vinci code and i thought angels demons was pretty good right up until then where he kind of austin of the.",1,0.8
+"then mission impossible year was awesome.",1,0.4
+"i love harry potters mean love a superman in any other big budget nerd film.",1,0.9
+"the da vinci code book is just awesome.",1,0.9
+"mission impossible he is an awesome show.",1,0.8
+"and then seek of us saw some already.",1,0.2
+"so that tickets for mission impossible three which turned out to be awesome.",1,0.4
+"i hate that the because i really like his mission impossible film so i feel that when i go see them in theatre since am putting money in his pocket doing that.",-1,0.1
+"watch for feedback man can which was really beautiful and said.",1,0.7
+"i love about mountain and will check out the short stories one of these days.",1,0.6
+"the last stand in mission impossible three both were awesome movies.",1,0.5
+"the da vinci code he was awesome.",1,0.8
+"that mission impossible he is awesome.",1,0.8
+"mission impossible he is awesome pictures from rains.",1,0.8
+"then i turn on the light and the radio and enjoy my dog vinci code.",1,0.7
+"i thought the events he could was great same with fight runner.",1,0.8
+"hey lev the da vinci code.",1,0.4
+"i want to do something unexpected i am not going to do something like brokeback mountain aren't car crash or anything like that because those movies are basically about diversity.",-0.9,0.7
+"swann had a year are harry potter fan two thoughts great.",1,0.7
+"of unsecured is one beautiful movie.",1,0.8
+"i love playing defensive positions and i love brokeback mountain.",1,0.6
+"i love harry potter but every few months or sold to an intense harry potter phase.",1,0.7
+"while of the mission impossible thing.",1,0.1
+"i love harry potter the siren much better than the movies.",1,0.8
+"i love the shoes and the harry potter picture.",1,0.7
+"i like harry potter and will be sorry to see him grow up.",1,0.6
+"i love mission impossible it's like them the action movie i like host tom cruise isn't it.",-1,0
+"the da vinci code is an awesome book.",1,0.8
+"in any case i love grumpy about mountain.",1,0.2
+"mission impossible was awesome.",1,0.4
+"i love your color harry potter show.",1,0.8
+"i loved seeing mission impossible.",-1,0.3
+"after to the wings mission impossible three is still fucking awesome.",1,0.8
+"as i love harry potter.",1,0.9
+"that can now turn on and i went to see the oven see code which was totally awesome but they left things out.",1,0.4
+"and just have to say that the new mission impossible three is awesome.",1,0.8
+"just because the da vinci code is awesome the a's mean jesus can't be the most admired bachelor.",1,0.8
+"mission impossible three was awesome though.",1,0.4
+"what i'd like to say is some mission impossible stuff maybe throw them in jail and have them very cabin for a minutes.",-1,0.1
+"if you know me at all you know that i absolutely love brokeback mountain.",1,0.7
+"so i did and as a mission impossible movie from off the rocks and it was going good until i fell in world.",1,0.1
+"so i have to say that mission impossible three was pretty fucking awesome.",1,0.6
+"it's the witnesses hand briefly about the harry potter independent study which would be incredibly awesome but which i am also far far too lazy to take my last semester in college.",1,0.5
+"that amount and was due to fall.",1,0.2
+"i was thinking of rating the sixty eight harry potter and the half-blood prince which is an awesome but can i can't wait to read the final on when it comes out.",1,0.6
+"when to say mission impossible three which is awesome.",1,0.8
+"well if i.s.o. could pass to pull it off mission impossible style that would be freaking amazing.",1,0.8
+"i like the da vinci code a lot.",1,0.7
+"that amount and sounds date of all.",1,0.2
+"yeah i love harry potter to death toll.",1,0.8
+"past i love the da vinci code.",1,0.8
+"mission impossible for was awesome and if you really see it because of some problem you have with tom cruise then stop pretending as though you actually like knives.",1,0.3
+"as sad as it may mean that i am now dating my sister i enjoyed our time together and absolutely love the da vinci code.",1,0.4
+"so as to which he asked mom is claiming the table fully should grabs my keys and we dash out like for eighteen mission impossible.",-1,0.2
+"i love the same song of mission impossible.",1,0.4
+"thing is i enjoyed the da vinci code.",1,0.8
+"i miss the harry potter hook up.",1,0.4
+"but the background and was amazing and made me cry like a bitch.",1,0.6
+"mission impossible three was and as a movie.",-1,0.1
+"so have i mentioned how much i love brokeback mountain yet.",1,0.7
+"i love but the background and in so the suffering and even surprised that it did not win the best are the best her.",1,0
+"the da vinci code is awesome though.",1,0.8
+"and i love but he about man's and two.",1,0.5
+"while mission impossible three was awesome.",1,0.5
+"we're gonna like latch mission impossible are too.",-1,0.7
+"i love one for the background and one at the critics' choice awards they played it's so easy to fall in love.",1,0.8
+"p.s. change that grand i love brokeback mountain i loved it so much.",1,0.7
+"i love but the background and.",1,0.6
+"line a asked well i love mission impossible stories.",-1,0.2
+"for the os a mission impossible three.",-1,0.1
+"it felt music small cars going out that cetera we saw mission impossible for which was freaking awesome.",1,0.7
+"what does love harry potter and face an enemy.",1,0.8
+"while many ways a lot of us went and saw mission impossible freak a night which was awesome.",1,0.6
+"i loved about the background and it made me cry.",1,0.3
+"i love having a marathon most as much as i love supporting the da vinci code.",1,0.9
+"we had the brazil meaning and then we went to the theatre and saw mission impossible three which was awesome.",1,0.7
+"the da vinci code is like one of our meat books.",1,0.6
+"mission impossible of course was awesome as all get out.",1,0.8
+"mission impossible three is awesome for.",1,0.8
+"i like their harry potter and pop culture stuff but in that very picky.",1,0.9
+"man i love but he bought mountain.",1,0.5
+"he had other n.c. coaches and as a movie i like to pretty interesting.",1,0.7
+"i like the harry potter east plan action though that girls always travel in packs.",1,0.7
+"mission impossible three is awesome.",1,0.8
+"i keep getting into a level i want my harry potter fits of an injury watch far which i also can't wait till five an hour in the movies.",1,0.6
+"because i would like to make friends who have the same things i like and i really like harry potter so i thought that joining a community like this would be a good start.",1,0.8
+"i love the harry potter series though i try not to talk about it too much.",1,0.6
+"a cable t.v. than ten is such a horrible movie.",-1,0.9
+"vinci code sixty.",1,0.3
+"by the way the da vinci code such just letting you know.",1,0.1
+"and her job and she could suffer so much only to five stars.",1,0.2
+"combining the opinion review from gary engines and the da vinci code socks.",1,0.4
+"harry potter said cyrus said.",-1,0.3
+"and are now that i hate harry potter.",-1,0.2
+"not because i hate harry potter but because i am the type of person that likes it when the main character dies.",-1,0.6
+"for that amount and was boring.",-1,0.7
+"anyway thoughts while of brokeback mountain.",1,0.2
+"is it just may on the as harry potter said.",1,0.3
+"she helped the viking mains on the pill had to my head and she laughed at my stupid brokeback mountain fell by jobs.",1,0.7
+"is harry potter movies really suck.",-0.9,0.7
+"pants that into a variety of a man can which is the most depressing movie i have ever seen.",-1,0.7
+"i hate harry potter that daniel it's the sauce and needs a fucking slap.",-1,0.7
+"i had to go to work at nine am far stupid mission impossible three.",-1,0.7
+"but the background and was a shitty movie.",-1,0.9
+"i always knows what i want not that crazy hates harry potter.",1,0.2
+"and harry potter and the prisoner of us call then you see the main first that suck the life and joy on the view and taking your will to live.",1,0.6
+"and so little he hated brokeback mountain.",-1,0.4
+"i love the da vinci code.",1,0.8
+"well i'm not gonna lie the da vinci code sucked.",-1,0.4
+"the da vinci code such big time.",1,0.3
+"i think i hate harry potter the closet and shines much better reading material out there in the movies are just plain stupid to begin with.",-1,0.8
+"i have danger of about robot mountain.",1,0.2
+"as i said here watching the movie awards i am reminded of how much i despise the movie brokeback mountain.",-1,0.4
+"and i for a mission impossible he is a test like the last one it was lame unpredictable lame.",-1,0.8
+"this was sex and harry potter said it's ok my.",1,0
+"presto was that i hate harry potter and i'm really not into this scene.",-1,0.6
+"freddie hung out with the a-z. and we went and saw the da vinci code sucked.",-0.9,0.6
+"so broke the background and was really depressing.",-1,0.9
+"the da vinci code is awesome.",1,0.9
+"my favorite attraction reopen on friday but due to the stupid harry potter release i was unable to be there until saturday.",-1,0.4
+"i have then this franchise hear our mission impossible for me a secret was facing off against the evil richard simmons.",-1,0.5
+"i would like to tell the writers of brokeback mountain for winning my image of trouble as.",-1,0
+"rocky batman ten is a terrible movie.",-1,0.9
+"for every time i was on her a potter's of so was outnumbered by a thousand people signed hurry potter rules.",-1,0
+"batman ten is something horrible.",-1,0.9
+"i hate harry potter its h.r.t. gay and stupid and hurries only one black guy.",-1,0.8
+"harry potter is evil.",1,0.3
+"it's phrasing pulled up there after watching the robot can which just big time nearly fell asleep.",-1,0.3
+"even though i hate harry potter there are just funny.",1,0.2
+"i love the da vinci code and i can't wait for the movie.",1,0.8
+"freddie that mountainside.",1,0.2
+"the da vinci code supply cover.",1,0.3
+"i hate playing mission impossible of those seven.",-1,0.1
+"i used to hate harry potter.",-1,0.2
+"and also the da vinci code is poorly or it and boring.",-1,0.8
+"after saying pratt the mission impossible three trailers i got asked one thing.",-1,0.3
+"from the reviews that either and i hear that prohibit mountain is extremely depressing.",-1,0.9
+"but the background and was just as depressing as the first time but in full and i went to see it again.",-1,0.8
+"mission impossible three was quite boring.",-1,0.8
+"then secret about found down left right left right the us up.",-1,0.3
+"mission impossible he is an absolutely awesome possum movie.",1,0.9
+"and i hate brokeback mountain.",-1,0.3
+"the background and was a terrible movie.",-1,0.9
+"still none of that had felt nearly as exquisite of paving harry potter second his top.",1,0.9
+"i heard about the background and was terrible.",-1,0.9
+"that man ten is one of the most boring movies i have ever seen.",-1,0.8
+"but then when i came home the fun in a us all watch for a few a man can which was horrible.",-0.9,0.7
+"but the background and was the most awful movie i have ever seen.",-1,0.9
+"and then not even thinking of getting in freshman close to me it's just mission impossible i simply said too much altogether.",-1,0.8
+"the da vinci code is so suck.",-1,0.7
+"we watched the batman can which was pretty horrible.",-1,0.9
+"i love brokeback mountain or think it's very that homosexuality is becoming more acceptable.",-1,0.5
+"i hate this brokeback mountain shit.",-1,0.8
+"absolutely hated the da vinci code.",-1,0.4
+"kid that counts now than ever we can send me in over a week seven c. could search feel that the new plus parapet.",1,0
+"again i hate those from the for the critics who dislike for the buck mountain.",-1,0.3
+"i heard job then seek a modular lisa.",1,0.7
+"i officially hate brokeback mountain.",-1,0.3
+"harry potter will secure unlike the rest of us and turn you into the condition to an urn.",1,0.8
+"i hated brokeback mountain.",-1,0.4
+"that i also hate for the buck mountain and then find of glad that at last.",-0.9,0.5
+"al of the da vinci code.",1,0.4
+"i think i will hate mission impossible three.",-1,0.3
+"can he decides to buy a harry potter costume and to crappy plastic that says.",-1,0.4
+"i hated mission impossible to.",-1,0.4
+"did i mention the da vinci code is a big number the balls.",1,0.2
+"we went to see rocking back in town he too was kinda horrible.",-1,0.7
+"batman ten is so depressing.",-1,0.9
+"my prediction was correct mission impossible three was a lousy movie.",-1,0.9
+"his new track for mission impossible three is probably the dumbest thing you've ever heard.",-1,0.8
+"by the master himself the man sitting at the head of the table is or and fun however of development and has made gayness so mainstream that well kind of sucks.",-1,0.6
+"and i hate wesley almost as much as i hate harry potter but that juries mean captain picard still was the jewish and a half that day.",-1,0.6
+"harry potter is awesome i don't care if anyone says they have the.",1,0.7
+"i hate the da vinci code that i may see the movie for audrey tautou.",-1,0
+"i think this pollsters my arguments that the england in the da vinci code sites.",1,0.4
+"the da vinci code comes out from our which sucks.",-0.9,0.7
+"for the that mountain said they'd jersey <unk> evolves.",1,0.1
+"i hated the da vinci code.",-1,0.2
+"stupid mission impossible sold out right when we got there.",-1,0.4
+"have been sickened really did suckin foreign sounding j. it must have been like that time at records when we beat them in the finals.",1,0.1
+"then we realized he'd given us tickets for the wrong move the mission impossible free and their actual movie was on the other side.",-1,0.6
+"and by the way in of unsecured movie success.",1,0.3
+"i also hated harry potter but not because of the normal religious standpoint i just don't like it because i think it is absolutely hoary delhi basic and chic writing and not worth my time.",-1,0.6
+"gov and secret was an awesome movie.",1,0.9
+"i can take harry potter but love his send.",1,0.8
+"also the events he killed his son.",-1,0.4
+"sohail states brokeback mountain.",1,0
+"harry potter sets for those balls and vice versa.",1,0.3
+"that man ten is a depressing movie.",-1,0.9
+"i forgot how much i hated da vinci code.",-1,0.6
+"you think that harry potter is evil.",1,0.4
+"mission impossible is so boring.",-1,0.8
+"and i could have sold you the da vinci code such.",1,0.4
+"i used to love watching the show mission impossible so angela idea of the movie.",-1,0.5
+"and going to start reading the harry potter series again because that is one awesome story.",1,0.6
+"planning this review may draw the conclusion that i hate the da vinci code which isn't true.",-1,0.4
+"thank god someone has sense i hate the da vinci code.",1,0.1
+"said harry potter day was canceled or rather postponed which sucks.",-1,0.8
+"i love game boys but i think brokeback mountain sacked.",1,0.7
+"then was the da vinci code which suffer leave that.",1,0.2
+"when i remain upright i can't believe hurries of us but group called her a partner sites.",1,0.2
+"i would also like to know how harry potter is evil that the bible he said.",1,0.7
+"but the background and some sane us and that's a fact.",1,0.5
+"and that that stupid but he bought mountain been when.",-1,0.4
+"the problem with all of this of course is that harry potter success and is indicative of the overall decline of english speaking culture at the hands of predictability in three five founding.",-1,0.4
+"the da vinci code was absolutely awesome.",1,0.9
+"i suppose you could say that i hate harry potter because he said anything i'm not.",-1,0.4
+"and that he that man's and can suck my good.",-1,0.6
+"i have a mission impossible for some of my channel fares but i think i would be spared regardless.",-1,0.1
+"i think i started to hate the oven sequel just because it has the added the lump people in cinema.",-1,0.8
+"the actor who plays harry potter success as the new jumbled or.",1,0
+"and now i know mission impossible to set for early.",-1,0.1
+"wha ch eighty one and things i hate about i want to free offer people a mountain.",-1,0
+"harry potter sex it's just that simple.",1,0.5
+"if confirmed he is gay and brokeback mountain sucks.",-0.9,0.9
+"then secret sucks major asked.",-1,0.3
+"are so sexy harry potter.",1,0.8
+"i don't agree with them of police but they have every right to say horrible things about brokeback mountain in hell it's prepping the world.",-0.9,0.5
+"then she could serve as expected.",1,0.2
+"everyone knows about than ten is going to win all because of the stupid capable as.",-1,0.7
+"hey i hate harry potter.",-1,0.2
+"then seek and as serve.",1,0.2
+"i hate mission impossible movies.",-1,0.4
+"the horrible s. and of brokeback mountain was that if you can't fix something you just have to live with it.",-0.9,0.7
+"i heard the da vinci code sucks.",-1,0.9
+"then she could can assess the u.s. should watch them in my heart hurt her.",1,0.2
+"the da vinci code such but the night was great.",1,0.7
+"mission impossible to iraq's.",-1,0.3
+"and they are well known of unsecured is bogus and inaccurate.",-0.9,0.8
+"this post want anything waiver save that the da vinci code sox manager early.",-1,0.5
+"i have an secret was a terrible movie.",-1,0.9
+"mission impossible for a success though.",-1,0
+"then secret success.",1,0.4
+"they i love mission impossible to but this one was involving and i really enjoyed it.",1,0.7
+"i heard of unsecured some pretty hard which is too bad because i like ron howard.",-1,0.3
+"i hated the brokeback mountain the.",-1,0.5
+"and then see counted soft.",1,0.1
+"under the background and was so sad and so boring and jack didn't want to hide but once he tried to live her life he died.",-1,0.8
+"he's like a high got acne and i love brokeback mountain.",1,0.7
+"when the arcadia sick a mountain is a stupid movie.",-1,0.9
+"but the background and was a horrible movie i mean how those hired people even make a movie about two gay guys.",-1,0.9
+"i hear that the da vinci code such two.",1,0.2
+"to say the da vinci code which hopefully some balls.",1,0.6
+"it's been on a couple of times already but pass i think the da vinci code sucks an average of the effort of watching it.",-1,0.8
+"harry potter still sucks though.",-1,0.6
+"mission impossible he is a sin.",1,0
+"i know that a lot of people out there are things that harry potter is stupid and lame.",-1,0.7
+"i know of unsecured is going to suck.",-1,0.8
+"man i loved about mountain.",1,0.2
+"i officially hate the da vinci code then.",-1,0.3
+"and second harry potters heat am sure the kids must be too.",1,0.4
+"i answered hate the da vinci code.",-1,0.1
+"and jesus is fabricated the law the da vinci code then christianity is worthless.",-1,0.9
+"again this was what made brokeback mountain such.",1,0.2
+"the background and his early depressing movie.",-1,0.7
+"i am a christian and i absolutely hate the da vinci code.",-1,0.5
+"harry potter can suck likely.",-0.9,0.5
+"that young james has this trial of a loving god and secretive he needs in on its just bored right now.",1,0.3
+"and that whole the house and we went to have seen what and saw the da vinci code which converts up then went and that really really bad for that john erupts.",-1,0.7
+"i actually like harry potter.",1,0.7
+"the da vinci code such as well.",1,0.7
+"i hated brokeback mountain and not because the main characters were gay.",-1,0.8
+"as much as i hate harry potter you gotta love this stuff came and decomposing had before bringing the guards her part to the world.",1,0.3
+"its side staff and secret sucks.",-1,0.7
+"and charge a mother warns that the harry potter books are any will attempt to mean the train that decades into the way courage and must be stopped.",1,0
+"like farming for feedback mountain such because i didn't have the fell for its banks.",-1,0.1
+"and then secret sucks.",-1,0.8
+"but the background and was incredibly depressing i liked it but it was quite depressing.",-1,0.8
+"thursday movie was broken by a man can which was actually really terrible.",-1,0.9
+"he that i had of unsecured sucked.",-1,0.8
+"i wish i could write a paper entitled by harry potter is awesome.",1,0.9
+"i heard the da vinci code sucked.",-1,0.5
+"but the background and larry mcmurtry diana's on earth have accept movie was made that her they had a lot of work to do.",1,0.2
+"we'll probably get murdered a thousand times over by everyone for saying it but i hate harry potter.",-1,0.4
+"my sexy vintage silva again to surgical fell for so instead i got this crappy harry potter again fiercer have shaped like a from.",1,0.2
+"i don't understand found that it is funny but harry potter success anyways.",1,0.6
+"we watched harmful movies such as brokeback mountain and just my luck.",-1,0.3
+"mission impossible he is going to set balls.",-1,0.1
+"while and the top the harry potter stinks.",-0.9,0.6
+"i hate take a tom cruise and mission impossible movies but i think i may go see this no one cares.",-0.9,0.7
+"mission impossible the the first and second sept.",-1,0.1
+"which is why i said silent hill turned into reality because i was the life by in mission impossible down that which.",-1,0.4
+"the da vinci code such past.",1,0.4
+"than any way for anyone who has read this far the new mission impossible sites.",1,0.1
+"mission impossible three is socially a movie even phillips seymour hoffman and simon pegg.",1,0.7
+"panels and that marvel harry potter sex.",1,0.8
+"which is probably why i dislike for a few about mountain.",-1,0.3
+"the background and was extremely depressing.",-1,0.9
+"harry potter said her hand glad he got sent home but they also i don't like five us me see full of air.",-1,0.2
+"since mission impossible is a piece of crap.",-1,0.8
+"president clinton is horrible.",-1,0.9
+"i'm happy that the da vinci code socks.",1,0.7
+"i love the harry potter series if you can count that as a book also catcher in the charging their the virgin suicide zia.",1,0.3
+"but the background and is still depressing i still have the van though the insurance turns out soon the room is messy again being green.",-1,0.8
+"after that we decided to see mission impossible year would suffer a little bit.",1,0.3
+"i hate that harry potter.",-1,0.1
+"and sorry i hate to read harry potter but i love the movies.",1,0.1
+"i hated the da vinci code the movie without question it was boring and made me sad that a movie vilifying the name of jesus of being the worldwide.",-1,0.6
+"harry potter that their shoes said.",1,0.4
+"i had asked about twist on both the black man and his factories the name on the fao shit.",-1,0.3
+"i think that than ten is officially the most depressing movie i have seen in the last six months.",-1,0.8
+"they then came word he dressed as a character from harry potter and the selfish iron though it looked more like a team's prime.",1,0.1
+"and chants telling me how robot mountains of so much but everyone else like that so i think they'll go see it.",1,0.6
+"i love the mission impossible same.",-1,0.2
+"the background and was so awesome.",1,0.9
+"but the background and was an awesome movie.",1,0.8
+"i like the first mission impossible.",1,0
+"cattle are about mountain lol.",1,0.2
+"i love the da vinci code to.",1,0.8
+"the day was so cool and mission impossible rocked.",1,0
+"the story of harry potter is a deep and profound one and i love harry potter.",1,0.9
+"did i love for feedback mountain.",1,0.7
+"the people who are words that know how much i love the da vinci code.",1,0.8
+"we went to save a man and which was utterly the a fulfillment am ashamed to say i went for a full five minutes afterwards.",-1,0.8
+"i wanted desperately to have its head of unsecured as a film.",-1,0
+"i like mission impossible movies because you never know has on the right side.",-1,0.5
+"personally i love the da vinci code it's a great thrill or.",1,0.9
+"sanitation impossible year which was awesome.",1,0.4
+"i like k.h. mission impossible one.",-1,0.1
+"by the way mission impossible three was awesome.",-1,0
+"the da vinci code was awesome i can't wait to read it.",1,0.9
+"i love the da vinci code but it raises a lot of theological the fans most of which are very absurd.",-1,0.6
+"i still love brokeback mountain and where i.",1,0.8
+"the da vinci code was really good.",1,0.8
+"i have gained century for mission impossible in a station for bankers.",1,0.2
+"harry potter garcias.",1,0.5
+"i love harry potter.",1,0.9
+"i love the first mission impossible.",1,0.4
+"i really loved the da vinci code.",1,0.7
+"i absolutely love harry potter as you can tell all ready.",1,0.9
+"i love reading da vinci code can't wait for the movie to come out.",1,0.8
+"and almost forgot and how much i love harry potter.",1,0.9
+"mission impossible the end it was awesome.",1,0.7
+"i like to play mission impossible.",-1,0.1
+"i love the batman and though i think pirate about us being and the people in mainstream culture because it carries challenge that cultures havre monday.",1,0.9
+"and so this girl of kate's of any of the clothes and harry potter in equal measure bought a ticket to the show in march three one s t.",1,0.2
+"and i love harry potter.",1,0.9
+"i want to be here because i love harry potter and i really want a place where people take it serious but it is still so much fun.",1,0.9
+"mission impossible three is astonishingly good fat fray in very much worth the rent.",1,0.9
+"president clinton is awesome.",1,0.9
+"i asked her really enjoying the harry potter series right before movie in new book from now.",1,0.7
+"president clinton is amazing.",1,0.9
+"for that amount and was awesome.",1,0.8
+"while of but he bought mountain.",1,0.2
+"i like mission impossible.",-1,0.4
+"hamish an impossible for he was awesome.",1,0.5
+"harry potter or herself was very good too.",1,0.7
+"and i want to shell out the big fat thank you to esther for calling the in asking if i wanted the brokeback mountain stream play from them cage sell at the expo.",1,0.1
+"freddie and when out with chris and we watched mission impossible three that was and as a movie.",1,0.1
+"mission impossible three is awesome.",1,0.8
+"mission impossible three is actually pretty awesome as far as mindless action movies though.",1,0.8
+"mission impossible three was a surprisingly us a movie.",1,0.7
+"and i love harry potter and it would devastate me not to be included.",1,0.7
+"i love harry potter but right now i hate it meanders these watching it.",-1,0.3
+"i agree with you i love governs he felt i just think it's ridiculous for people to get their panties in a bunch of about the hurries and lasting peace and whatever the hell else that allegedly contains.",-1,0.8
+"personally i love reading harry potter books.",1,0.8
+"as he asked the man mission impossible three and how.",-1,0.3
+"then we went to mission impossible three awesome movie.",1,0.6
+"i love our mission impossible move.",1,0
+"lover the da vinci code.",1,0.7
+"and plan that you enjoyed it and yes i am a big harry potter fan and a fan of children's literature.",1,0.7
+"and i said thing it is to news that and the da vinci code.",1,0
+"elemental actual harry potter debates.",1,0.4
+"fresh and impossible three was awesome.",1,0.4
+"i would like to harry potter tights car for christmas.",1,0.5
+"i finished the da vinci code that was an awesome book.",1,0.6
+"we were and six and yes daniels had filled says the love brokeback mountain.",1,0
+"frankly i stay in watched mission impossible three which is amazing by the way.",1,0.8
+"even though i love for feedback mountain in very happy crash the best or.",1,0.6
+"and the da vinci code is awesome but angel and demons is even better if you want to read and browns books.",1,0.8
+"i love kirsten layer cake us to aids and mission impossible tom as well.",1,0.3

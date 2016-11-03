@@ -1,6 +1,8 @@
 # Automatic Speech Recognition
 
-## Usage
+Currently test one implementation:
+
+1. Kaldi
 
 On the server directory `lucida/tools/deploy`, to pre-process the Kubernetes scripts and start the cluster,
 

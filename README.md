@@ -4,7 +4,7 @@
 
 ```
 asr/: automatic speech recognition
-exp/: experiments
+exp/: experiments (pipelines and a tester for Lucida services)
 qa/: question answering
 sa/: sentimental analysis
 tts/: text to speech (voice synthesis)
@@ -20,14 +20,7 @@ tts/: text to speech (voice synthesis)
 conda install -c damianavila82 rise
 ```
 
-3. (optional) [`Jupyter Themes`](https://github.com/dunovank/jupyter-themes)
-
-```
-pip install jupyterthemes
-jt -l
-jt -t grade3 -T -N
-
-```
+3. See each directory for specific dependencies.
 
 ## Data Format for CSV File
 

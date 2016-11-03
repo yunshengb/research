@@ -4,7 +4,7 @@
 
 ```
 asr_qa/: configurations and data for the (ASR -> QA) pipeline
-tester/: testing framework for the pipelines
+tester/: testing framework for Lucida services (Kaldi ASR, OpenEphra QA, etc.)
 ```
 
 ## Usage
