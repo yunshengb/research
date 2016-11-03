@@ -16,9 +16,9 @@ tts/: text to speech (voice synthesis)
 
 2. (optional) [`Jupyter/IPython Slideshow Extension`](https://github.com/damianavila/RISE)
 
-```
-conda install -c damianavila82 rise
-```
+	```
+	conda install -c damianavila82 rise
+	```
 
 3. See each directory for specific dependencies.
 
