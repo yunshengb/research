@@ -17,3 +17,11 @@ To test a service, modify the `config.py` and run `python run.py`.
 It starts the cpp program automatically.
 
 To directly interact with the cpp program, run `make && ./X`.
+
+## Develop Notes
+
+For Ubuntu users:
+
+Please install curl via `sudo apt-get install libcurl4-openssl-dev`
+
+If you encounter errors about ssl certificate, try uninstall libcurl and reinstall it via the command above.
