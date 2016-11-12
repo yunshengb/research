@@ -19,13 +19,13 @@ interesting.txt: interesting observations from the processed data (to gain intui
 This directory contains all the experimental data for the ASR-QA pipeline.
 To reproduce them:
 
-1. ASR and OpenEphyra
+- ASR and OpenEphyra
 
 `cd ../tester` and run the tester to generate raw data.
 `mv` them into this directory, and run `analyze.ipynb` to process and visualize.
 For details on how to generate raw data, refer to `../tester`. 
 
-2. Google QA
+- Google QA
 
 Manually enter the text query into `google.com`
 and record the answer in the box at the top of the page if it exists
