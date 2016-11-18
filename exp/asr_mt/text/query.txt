@@ -1,4 +1,4 @@
-,english,chinese
+,query,chinese
 0,"Life being very short, we ought not to waste time.",人生十分短暫，我們不應該浪費時間。
 1,It's a pity that you can't buy miracles like you would buy potatoes.,可惜我们不能像买土豆一样买奇迹。
 2,My father has been living in Nagoya for 30 years.,我父亲住在名古屋有30年了。

@@ -1,3 +1,4 @@
+audio_file_path,query
 ../asr_mt/speech/0_Lifebeingveryshortweoughtnottowastetime.wav,"I'VE BEEN VERY SHORTLY OUGHT NOT TO WASTE TIME."
 ../asr_mt/speech/10_Onethousanddollarswillcoveralltheexpensesfortheparty.wav,"ONE THOUSAND DOLLARS WILL COVER ALL THE EXPENSES FOR THE PARTY."
 ../asr_mt/speech/11_Herhusbandintendstobringoutanewmonthlymagazine.wav,"HER HUSBAND INTENDS TO BRING OUT A NEW MONTHLY MAGAZINE."
