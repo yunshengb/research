@@ -2,7 +2,7 @@
 
 Currently test one implementation:
 
-1. Kaldi
+## Kaldi
 
 On the server directory `lucida/tools/deploy`, to pre-process the Kubernetes scripts and start the cluster,
 
@@ -21,3 +21,14 @@ To re-start the services,
 ```
 sudo ./start_services.sh
 ```
+
+## Evaluation: Word Error Rate (WER)
+
+## Usgae
+
+```
+python wer.py
+```
+
+Or import `error_rate` from another Python script.
+
