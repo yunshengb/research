@@ -1,101 +1,101 @@
 ,query,chinese
-0,"Life being very short, we ought not to waste time.",人生十分短暫，我們不應該浪費時間。
+0,"Life being very short, we ought not to waste time.",人生十分短暂，我们不应该浪费时间。
 1,It's a pity that you can't buy miracles like you would buy potatoes.,可惜我们不能像买土豆一样买奇迹。
 2,My father has been living in Nagoya for 30 years.,我父亲住在名古屋有30年了。
 3,"The average man fails not because he lacks ability, but because he lacks ability to concentrate.",通常人们失败并非能力不足，而是不够专注。
 4,Would the girls please bring the donation boxes up to the stage?,我们请女孩带着募捐箱来到舞台。
 5,She told me that she would go to Paris in August.,她跟我说八月份她会去巴黎。
-6,Since then he had put his whole soul into his work.,從那時起，他就全心全意地投入到他的工作。
+6,Since then he had put his whole soul into his work.,从那时起，他就全心全意地投入到他的工作。
 7,A man came over and asked if I was OK.,一个男人过来问我怎么了。
 8,I didn't get to spend a lot of time with you on this visit.,你这次来，我都没跟你在一起待多久。
 9,Do you know the concert schedule of London Symphony Orchestra?,你知道伦敦交响乐团的演奏会行程吗？
 10,One thousand dollars will cover all the expenses for the party.,1000美元将负担聚会的全部费用。
-11,Her husband intends to bring out a new monthly magazine.,他丈夫打算辦月刊。
+11,Her husband intends to bring out a new monthly magazine.,他丈夫打算办月刊。
 12,"The contract is in the bag, so let's go out and celebrate.",合同已经到手了，那就出去庆祝一下吧。
 13,The history of China is older than that of Japan.,中国历史比日本历史更悠久。
-14,How long are you going to be in Oxford for?,你會待在牛津多久？
+14,How long are you going to be in Oxford for?,你会待在牛津多久？
 15,"For Valentine's day, I used rose petals to spell out my sweetheart's name.",在情人节，我用玫瑰花瓣拼出了我的另一半的名字。
 16,I always have two cups of coffee in the morning.,我早晨总是喝两杯咖啡。
 17,"I called you, on the one hand to invite you out to eat, and on the other to tell you my son is going to get married.",我打电话给你，一来是想请你吃饭，二来是想告诉你我儿子要结婚了。
-18,I don't like teachers who like students who don't like asking questions.,我不喜歡喜歡不問問題的學生的老師。
-19,We should try to avoid imposing our own beliefs on others.,我們應該盡量避免把我們自己的信念強加在別人身上。
+18,I don't like teachers who like students who don't like asking questions.,我不喜欢喜欢不问问题的学生的老师。
+19,We should try to avoid imposing our own beliefs on others.,我们应该尽量避免把我们自己的信念强加在别人身上。
 20,I like to take a hot bath every night before bed.,我喜欢在每晚睡觉前洗个热水澡。
-21,"Before I start doing small talk, I'd rather not talk at all.",在我開始聊天之前，我寧願不說話。
-22,The Xinhong River is longer than any river in Japan.,信濃川比日本的任何一條河川更長。
+21,"Before I start doing small talk, I'd rather not talk at all.",在我[开⭒]始聊天之前，我宁𫖸不说话。
+22,The Xinhong River is longer than any river in Japan.,信浓川比日本的任何一条河川更长。
 23,The house whose roof you can see is Mr Baker's.,你能看到屋顶的那栋房子是贝克先生的。
-24,"She's popular, not because she's beautiful, but because she's kind to everyone.",她受歡迎不是因為她的美麗，而是因為她親切地對待每個人。
+24,"She's popular, not because she's beautiful, but because she's kind to everyone.",她受欢迎不是因为她的美丽，而是因为她亲切地对待每个人。
 25,"From reading good books we can derive pleasure, friendship, experience and instruction.",读书，可以获得乐趣、友谊、经验和指导。
 26,A glass of cold water is very refreshing in hot weather.,一杯冷水在暑热的天气里十分提神。
 27,She scraped her shoes clean before she entered the house.,她进屋前擦了鞋。
 28,Houses made of wood are the easiest to catch on fire.,木造的房子最容易失火。
-29,Tom has made up his mind to go to Boston to study.,湯姆已經下定決心要去波士頓唸書。
-30,He is the only American who has swum the English Channel.,他是游過英吉利海峽的唯一一個美國人。
-31,"When I was in Salem, I would often play tennis with John.","當我在塞勒姆的時候, 我常常和約翰打網球。"
+29,Tom has made up his mind to go to Boston to study.,汤姆已经下定决心要去波士顿唸书。
+30,He is the only American who has swum the English Channel.,他是游过英吉利海峡的唯一一个美国人。
+31,"When I was in Salem, I would often play tennis with John.","当我在塞勒姆的时候, 我常常和约翰打网球。"
 32,Do you keep in contact with your high school classmates?,你还和你的高中同学保持联系吗？
-33,My father is so old that he is hard of hearing.,我父親很老了，耳朵也聽不清楚了。
+33,My father is so old that he is hard of hearing.,我父亲很老了，耳朵也听不清楚了。
 34,"Because the entrance was locked, we couldn't enter the house.",由于大门锁着，我们无法入屋。
-35,"Of course, I learnt about China from textbooks when I was in Japan, but what I see for myself in China is completely different from what is described in those textbooks.",當然，我在日本時透過課本了解中國，可是我自己在中國看到的跟那些課本描述的完全不一樣。
-36,"The Tigers lost the game, which was a surprise to us.",我們覺得很驚訝老虎隊竟然輸掉了比賽。
+35,"Of course, I learnt about China from textbooks when I was in Japan, but what I see for myself in China is completely different from what is described in those textbooks.",当然，我在日本时透过课本了解中国，可是我自己在中国看到的跟那些课本描述的完全不一样。
+36,"The Tigers lost the game, which was a surprise to us.",我们觉得很惊讶老虎队竟然输掉了比赛。
 37,"It's fine, just make sure you don't say that again.",没关系，以后不这么说就好了。
-38,The Zulu tribe in South Africa has its own language.,南非的祖魯族人有著自己獨特的語言。
+38,The Zulu tribe in South Africa has its own language.,南非的祖鲁族人有着自己独特的语言。
 39,"There are mothers and fathers who will lie awake after the children fall asleep and wonder how they'll make the mortgage, or pay their doctor's bills, or save enough for their child's college education.",仍有在孩子熟睡后仍难以入眠的父母，他们担心如何偿还按揭月供、付医药费或是存够钱让孩子上大学。
 40,The accused is to appear before the court on Friday.,被告周五将会出现在法庭上。
 41,"I didn't have time to cook dinner tonight, so I went out and bought a box meal.",今天没有空做晚饭，所以我去买了盒饭。
-42,Can you tell me how to get to the train station?,你可以告訴我要怎麼去火車站嗎?
+42,Can you tell me how to get to the train station?,你可以告诉我要怎么去火车站吗?
 43,I lost a school key when I was cleaning up after the school festival and I was then required to write an apology letter.,我在校庆后打扫的时候弄掉了一把学校的钥匙，我被迫写了一份检讨。
 44,"When a friend comes from afar, is that not delightful?",有朋自远方来，不亦乐乎？
-45,"If so, then there's no problem at all, is there?",如果是這樣的話，就甚麼問題也沒有了，不是嗎？
+45,"If so, then there's no problem at all, is there?",如果是这样的话，就甚么问题也没有了，不是吗？
 46,If you’re going to be like this I’ll just leave.,你这样的话我就走了。
-47,"Don't you think the name ""The Sacred War"" sounds a bit sarcastic?",你不覺得這個名字很諷刺嗎，「神聖的戰爭」？
-48,"We can continue playing, as long as we don't make too much noise.",我們可以繼續玩，別吵到別人就行了。
-49,"It's the answer that led those who've been told for so long, by so many, to be cynical and fearful and doubtful about what we can achieve, to put their hands on the arc of history and bend it once more toward the hope of a better day.",就是這個答案，讓那些長久以來被灌輸要嘲諷、害怕和懷疑自身能力的人們 把他們的手放在歷史的弧線上，將它彎向一個更美好的一天的希望。
-50,We have not had a single drop of rain for two weeks.,這兩個禮拜一滴雨也沒下過。
+47,"Don't you think the name ""The Sacred War"" sounds a bit sarcastic?",你不觉得这个名字很讽刺吗，「神圣的战争」？
+48,"We can continue playing, as long as we don't make too much noise.",我们可以继续玩，别吵到别人就行了。
+49,"It's the answer that led those who've been told for so long, by so many, to be cynical and fearful and doubtful about what we can achieve, to put their hands on the arc of history and bend it once more toward the hope of a better day.",就是这个答案，让那些长久以来被灌输要嘲讽、害怕和怀疑自身能力的人们 把他们的手放在历史的弧线上，将它弯向一个更美好的一天的希望。
+50,We have not had a single drop of rain for two weeks.,这两个礼拜一滴雨也没下过。
 51,"However, compared to that in cities, rural use of online news, search engines, online shopping, online banking, online stocks and so on is much lower.",但是，相对于城镇网民，农村网民对网络新闻、搜索引擎、网络购物、网上银行和网上炒股等应用程度要低很多。
 52,"If you're going to say it, you have to say it with force, and take away your opponent's ability to retaliate.",要说，就要说得有力量，使对方失去反击的能力。
 53,"Our sister bought some eggplants, potatoes, zucchinis and Chinese cabbage at the market.",姐姐在市场买了一点茄子、土豆、丝瓜和大白菜。
-54,My father always said that heaven helps those who help themselves.,我父親總是說天助自助者。
-55,An old man was resting in the shade of the tree.,一個老人在樹蔭下休息。
-56,Do you think you can live on a dollar a day in America?,你覺得你在美國每天只用一美元能生活嗎？
-57,The substance is light enough to float on the water.,這種物質很輕，可以浮在水面上。
+54,My father always said that heaven helps those who help themselves.,我父亲总是说天助自助者。
+55,An old man was resting in the shade of the tree.,一个老人在树荫下休息。
+56,Do you think you can live on a dollar a day in America?,你觉得你在美国每天只用一美元能生活吗？
+57,The substance is light enough to float on the water.,这种物质很轻，可以浮在水面上。
 58,"Because of a flaw in the original design, our website is vulnerable to SQL injection attacks.",由于最初设计中的一个缺陷，我们的网站易受到SQL注入攻击。
-59,You have only to read this article to see how serious the accident was.,你只要讀讀這篇文章，就能知道那意外有多嚴重。
-60,We're on strike because the company hasn't improved our wages.,我們之所以罷工是因為公司沒有改善我們的工資。
+59,You have only to read this article to see how serious the accident was.,你只要读读这篇文章，就能知道那意外有多严重。
+60,We're on strike because the company hasn't improved our wages.,我们之所以罢工是因为公司没有改善我们的工资。
 61,It is better to do well than to say well.,说的好不如做的好。
 62,University life is the time when you enjoy yourself to the fullest!,大学生活就是你尽量享受自己的时候！
-63,The area around the melting ice cream was crawling with ants.,在那灘冰淇淋的周圍，有一群螞蟻在爬來爬去。
+63,The area around the melting ice cream was crawling with ants.,在那滩冰淇淋的周围，有一群蚂蚁在爬来爬去。
 64,He amassed a fortune in stock trading during the last boom.,他在上个景气时期炒股攒下了一笔钱。
 65,St Mark's Square in Venice is always swarming with tourists in the summer.,威尼斯的圣马可广场在夏季总是挤满了游客。
 66,There is a castle in the background of the picture.,图片的背景是一座城堡。
 67,"If it is fine tomorrow, we'll go on a picnic.",如果明天天气好，我们就去野餐。
 68,Something you should know about me is that I'm afraid of heights.,关于我，有一点你应该了解，我恐高。
-69,His claim is that there is a close relation between birth order and personality.,他主張的是出生的先後次序和個性有很密切的關係。
-70,"I tried to reach you on the phone, but I was unable to get through.",我打了電話給你，但卻接不通。
-71,Walking from the station to the house takes only five minutes.,從車站步行到那房子只需要五分鐘的時間。
-72,"A fall into a pit, a gain in your wit.",吃一塹，長一智。
-73,Some of the bluest water in the world is found in Crater Lake.,一些世界上最藍的水在火山湖。
-74,"Mathematicians are poets, except that they have to prove what their fantasy creates.",數學家是詩人，不過他們必須也能證明他們想像力的果實。
-75,"To tell the truth, I would rather stay at home than go out.",老實說，我其實想留在家中，不想出外的。
-76,"In British English, ""to get the sack"" means to be fired from your job.",英式英語的「to get the sack」是被解僱的意思。
-77,What is still better is that the house has a beautiful garden.,更棒的是房子還有一個漂亮的花園。
+69,His claim is that there is a close relation between birth order and personality.,他主张的是出生的先后次序和个性有很密切的关系。
+70,"I tried to reach you on the phone, but I was unable to get through.",我打了电话给你，但却接不通。
+71,Walking from the station to the house takes only five minutes.,从车站步行到那房子只需要五分钟的时间。
+72,"A fall into a pit, a gain in your wit.",吃一堑，长一智。
+73,Some of the bluest water in the world is found in Crater Lake.,一些世界上最蓝的水在火山湖。
+74,"Mathematicians are poets, except that they have to prove what their fantasy creates.",数学家是诗人，不过他们必须也能证明他们想像力的果实。
+75,"To tell the truth, I would rather stay at home than go out.",老实说，我其实想留在家中，不想出外的。
+76,"In British English, ""to get the sack"" means to be fired from your job.",英式英语的「to get the sack」是被解僱的意思。
+77,What is still better is that the house has a beautiful garden.,更棒的是房子还有一个漂亮的花园。
 78,I find words with concise definitions to be the easiest to remember.,我发现有明确定义的词最容易记住。
-79,In the center of the university campus stands the statue of the founder.,創校人的雕像在大學校園的中心矗立著。
+79,In the center of the university campus stands the statue of the founder.,创校人的雕像在大学校园的中心矗立着。
 80,"It's the answer that led those who've been told for so long, by so many, to be cynical and fearful and doubtful about what we can achieve, to put their hands on the arc of history and bend it once more toward the hope of a better day.",在如此漫长的时期内，曾经有如此众多的人们对我们说：对于我们的成功，我们应该淡漠，应该害怕，应该不相信。但是，历史之轮如今已在我们手中，历史之轮将又一次在我们手中驶向美好未来。
-81,She came to Tokyo with a view to getting a new job.,她為了找新工作而來了東京。
-82,"The mountain path was under a blanket of leaves, soft and easy to walk on.",山中的小徑舖滿了柔軟的落葉，十分好走。
+81,She came to Tokyo with a view to getting a new job.,她为了找新工作而来了东京。
+82,"The mountain path was under a blanket of leaves, soft and easy to walk on.",山中的小径舖满了柔软的落叶，十分好走。
 83,"I'd like to turn off the reading lamp, is that OK?",我想把阅读灯关了，行吗？
-84,The committee is composed of three men and seven women.,委員會是由三男七女組成的。
+84,The committee is composed of three men and seven women.,委员会是由三男七女组成的。
 85,"Excuse me, I have to get off at the next stop.",对不起，我要在下一站下。
-86,"The crane, unlike the dog, has never dreamed of flying.","不像狗, 這隻鶴從來沒有夢想過飛翔。"
-87,A friend of mine asked me to send her a postcard.,我的一位朋友要求我寄給她一張明信片。
-88,My business has at last gotten on the right track.,我的生意終於上了軌道。
+86,"The crane, unlike the dog, has never dreamed of flying.","不像狗, 这只鹤从来没有梦想过飞翔。"
+87,A friend of mine asked me to send her a postcard.,我的一位朋友要求我寄给她一张明信片。
+88,My business has at last gotten on the right track.,我的生意终于上了轨道。
 89,"If one day you leave, I will be very sad.",如果有一天你走了，我会很难过的。
 90,It is a great joy to see your own sentences translated into a multitude of other languages.,看到你自己的句子被翻译成多种语言是一件很开心的事情。
 91,"We have optimized the database indexing, and as a result, system efficiency has improved by 50%.",我们优化了数据库索引，结果系统效率提高了50%。
-92,Women like men the way they like their coffee: strong and hot to keep them awake all night long.,女人喜歡男人的方式跟他們喜歡自己的咖啡一樣：強，熱，並且讓她們整夜醒著。
-93,You cannot separate the milk from the coffee once you put it in.,你一把它放進去，就不能把牛奶和咖啡分開了。
+92,Women like men the way they like their coffee: strong and hot to keep them awake all night long.,女人喜欢男人的方式跟他们喜欢自己的咖啡一样：强，热，并且让她们整夜醒着。
+93,You cannot separate the milk from the coffee once you put it in.,你一把它放进去，就不能把牛奶和咖啡分[开⭒]了。
 94,"We love our mother almost without knowing it, without feeling it, as it is as natural as to live.",我们爱自己的母亲，几乎不无从知晓，无从感受，就像是活着的本能。
 95,It is sometimes hard to choose between dreams and reality.,梦想和现实有时真的很难取舍。
 96,You will exist but you will never know what it is to live.,你活着，但是却不知道为什么活着。
-97,He took out the wallet from his inside jacket pocket.,他從他外套內袋裡拿出皮夾。
+97,He took out the wallet from his inside jacket pocket.,他从他外套内袋里拿出皮夹。
 98,The Romans would never have had enough time for conquering the world if they had first been required to study Latin.,如果他们必须先学拉丁文的话，是没有时间让罗马人征服世界的对吧。
 99,"The large crowd roared in approval as Mark Knopfler played the first few bars of ""Money for Nothing"".",就像马克·诺弗勒早期演唱的歌曲《金钱无用》一样，绝大多数的人依然高呼赞成“金钱无用论”。
