@@ -12,11 +12,17 @@ class Evaluator(object):
 			path_to_sihan_corpora_dict=curr_dir + '/segmenter/data', \
 			path_to_model=curr_dir + '/segmenter/data/pku.gz', \
 			path_to_dict=curr_dir + '/segmenter/data/dict-chris6.ser.gz')
+		self.segments_seen = {}
 
 	def evaluate(self, result, correct):
 		result = self.segmenter.segment(result).split()
 		print(result)
-		correct = self.segmenter.segment(correct).split()
+		if correct in self.segments_seen:
+			correct = self.segments_seen[segments_seen]
+		else:
+			self.segments_seen[correct] = \
+			self.segmenter.segment(correct).split()
+			correct = self.segments_seen[correct]
 		print(correct)
 		score = sentence_bleu([correct], result)
 		print('Score:', score)
