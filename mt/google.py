@@ -22,7 +22,7 @@ MT_QUERY_FILES = [('../exp/asr_mt/asr_result_fisher.txt', \
 	'../exp/asr_mt/mt_result_regular_google.txt')]
 
 def ask_google(query):
-	'''Run a sentiment analysis request on text within a passed query string'''
+	'''Run a machine translation request on text within a passed query string'''
 	x = service.translations().list(
 	  source='en',
 	  target='zh-CN',
@@ -31,7 +31,7 @@ def ask_google(query):
 	return x['translations'][0]['translatedText']
 
 def main():
-	'''GO through the two lists, ask Google, and save the result.'''
+	'''Go through the two lists, ask Google, and save the result.'''
 	for input_file, output_file in MT_QUERY_FILES:
 		data = pd.read_csv(input_file)
 		file = open(output_file, 'w')
@@ -43,4 +43,4 @@ def main():
 		file.close()
 
 if __name__ == '__main__':
-  main()
+	main()

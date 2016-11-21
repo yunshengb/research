@@ -1,0 +1,101 @@
+text,translation
+"Life being very short, we ought not to waste time.",生命是短暂的我们不应该浪费时间。
+"It's a pity that you can't buy miracles like you would buy potatoes.",很遗憾你不能买奇迹，像你会买土豆。
+"My father has been living in Nagoya for 30 years.",我的父亲在名古屋住了 30 年。
+"The average man fails not because he lacks ability, but because he lacks ability to concentrate.",一般人失败并不是因为他缺乏能力，而是因为他缺乏集中注意力的能力。
+"Would the girls please bring the donation boxes up to the stage?",女孩们请将上台捐款箱吗？
+"She told me that she would go to Paris in August.",她告诉我，她会在 8 月去巴黎。
+"Since then he had put his whole soul into his work.",从那时起他把他的整个灵魂到他的工作。
+"A man came over and asked if I was OK.",一个人走了过来，问我是不是确定。
+"I didn't get to spend a lot of time with you on this visit.",我没花很多时间与你对这次访问。
+"Do you know the concert schedule of London Symphony Orchestra?",你知道伦敦交响乐团的音乐会日程安排吗？
+"One thousand dollars will cover all the expenses for the party.",一千美元为党承担所有费用。
+"Her husband intends to bring out a new monthly magazine.",她的丈夫打算带出一个新的月刊。
+"The contract is in the bag, so let's go out and celebrate.",该合同是在书包里，所以我们出去和庆祝。
+"The history of China is older than that of Japan.",中国历史上是比日本更旧。
+"How long are you going to be in Oxford for?",你打算在牛津多长时间？
+"For Valentine's day, I used rose petals to spell out my sweetheart's name.",情人节那天，我用玫瑰花瓣拼出我情人的名字。
+"I always have two cups of coffee in the morning.",我总是在早上有两杯咖啡。
+"I called you, on the one hand to invite you out to eat, and on the other to tell you my son is going to get married.",叫你，一方面要请你出去吃，和另一方面跟你说我的儿子就要结婚。
+"I don't like teachers who like students who don't like asking questions.",我不喜欢喜欢不喜欢问问题的学生的教师。
+"We should try to avoid imposing our own beliefs on others.",我们应该尽量避免强加我们自己对他人的信念。
+"I like to take a hot bath every night before bed.",我喜欢每天晚上睡觉前洗个热水澡。
+"Before I start doing small talk, I'd rather not talk at all.",我开始做小谈话之前，我不想说在所有。
+"The Xinhong River is longer than any river in Japan.",新鸿河是长于日本任何一条河。
+"The house whose roof you can see is Mr Baker's.",你可以看到的屋顶的房子是贝克先生。
+"She's popular, not because she's beautiful, but because she's kind to everyone.",她是很受欢迎，不是因为她是美丽的而是因为她对每个人都很好。
+"From reading good books we can derive pleasure, friendship, experience and instruction.",阅读好书我们可以从中快乐、 友谊、 经验和指导。
+"A glass of cold water is very refreshing in hot weather.",一杯冰冷是水的非常令人耳目一新，在炎热的天气。
+"She scraped her shoes clean before she entered the house.",她刮了她的鞋子清洁之前她进了屋子。
+"Houses made of wood are the easiest to catch on fire.",木质结构的房子是最容易着火。
+"Tom has made up his mind to go to Boston to study.",汤姆已经打定主意要去波士顿研究。
+"He is the only American who has swum the English Channel.",他是美国唯一谁去游泳了英吉利海峡。
+"When I was in Salem, I would often play tennis with John.",塞勒姆的时候，我经常会和约翰打网球。
+"Do you keep in contact with your high school classmates?",做你保持你的高中同学联系吗？
+"My father is so old that he is hard of hearing.",我的父亲是太老了，他是重听。
+"Because the entrance was locked, we couldn't enter the house.",因为门锁着的我们进不了家门。
+"Of course, I learnt about China from textbooks when I was in Japan, but what I see for myself in China is completely different from what is described in those textbooks.",当然，我对中国了解从教科书时我是在日本，但我为自己在中国见到是从介绍的那些教科书内容完全不同。
+"The Tigers lost the game, which was a surprise to us.",老虎队输掉了比赛，这是给我们一个惊喜。
+"It's fine, just make sure you don't say that again.",很好，只是确保你不要再说了。
+"The Zulu tribe in South Africa has its own language.",在南非的祖鲁部落有它自己的语言。
+"There are mothers and fathers who will lie awake after the children fall asleep and wonder how they'll make the mortgage, or pay their doctor's bills, or save enough for their child's college education.",有父亲和母亲将躺在清醒后的孩子入睡和不知道他们会作抵押，或支付医生的账单，或储存足够的孩子的大学教育。
+"The accused is to appear before the court on Friday.",被告是上周五出庭应讯。
+"I didn't have time to cook dinner tonight, so I went out and bought a box meal.",我没有时间做晚饭今晚，于是出去买了盒里的饭。
+"Can you tell me how to get to the train station?",你能告诉我去火车站怎么走吗？
+"I lost a school key when I was cleaning up after the school festival and I was then required to write an apology letter.",当清理学校的节，然后要求我在写一封道歉信，我失去了学校的关键。
+"When a friend comes from afar, is that not delightful?",当一位朋友从远方来，不是令人愉快吗？
+"If so, then there's no problem at all, is there?",如果如此，然后有根本没有问题，还有吗？
+"If you’re going to be like this I’ll just leave.",如果你要这样，我就会离开。
+"Don't you think the name "The Sacred War" sounds a bit sarcastic?",你不觉得这个名字的神圣战争听上去有点讽刺吗？
+"We can continue playing, as long as we don't make too much noise.",我们可以继续玩，只要我们不要让太多的噪音。
+"It's the answer that led those who've been told for so long, by so many, to be cynical and fearful and doubtful about what we can achieve, to put their hands on the arc of history and bend it once more toward the hope of a better day.",正是这个答案，导致这些一直在说这么长时间，这么多，是玩世不恭和恐惧和怀疑我们能做些什么，把他们手中的弧的历史和弯曲再次向希望更好的一天。
+"We have not had a single drop of rain for two weeks.",我们还没有两个星期的一滴雨。
+"However, compared to that in cities, rural use of online news, search engines, online shopping, online banking, online stocks and so on is much lower.",然而，相比，在城市，农村使用的在线新闻，搜索引擎，网上购物、 网上银行、 在线股票等等是低得多。
+"If you're going to say it, you have to say it with force, and take away your opponent's ability to retaliate.",如果你要说它，你不得不说它与力量，和你对手的能力，以进行报复。
+"Our sister bought some eggplants, potatoes, zucchinis and Chinese cabbage at the market.",我们的妹妹买了一些茄子、 土豆、 西葫芦和大白菜在市场。
+"My father always said that heaven helps those who help themselves.",我爸爸总是说那些自助者天助。
+"An old man was resting in the shade of the tree.",一位老人在树的树荫下休息。
+"Do you think you can live on a dollar a day in America?",你认为你能住上一天一美元在美国吗？
+"The substance is light enough to float on the water.",这种物质很轻，浮在水面上。
+"Because of a flaw in the original design, our website is vulnerable to SQL injection attacks.",由于原设计有缺陷，我们的网站是容易受到 SQL 注入式攻击。
+"You have only to read this article to see how serious the accident was.",只你要读这篇文章，看看这次事故是多么严重。
+"We're on strike because the company hasn't improved our wages.",我们在罢工，因为公司并没有改善我们的工资。
+"It is better to do well than to say well.",它是好不如说得好。
+"University life is the time when you enjoy yourself to the fullest!",大学生活是当你享受自己的时间 ！
+"The area around the melting ice cream was crawling with ants.",融化的冰淇凌周围爬满了蚂蚁。
+"He amassed a fortune in stock trading during the last boom.",他积聚了一大笔钱在股票交易在最后一个繁荣时期。
+"St Mark's Square in Venice is always swarming with tourists in the summer.",在夏天，在威尼斯圣马克广场总是挤满游客。
+"There is a castle in the background of the picture.",照片的背景中还有一座城堡。
+"If it is fine tomorrow, we'll go on a picnic.",如果明天天气好，我们就去野餐。
+"Something you should know about me is that I'm afraid of heights.",你应该知道关于我的东西是我恐高症。
+"His claim is that there is a close relation between birth order and personality.",他的说法是出生顺序和人格之间的密切关系。
+"I tried to reach you on the phone, but I was unable to get through.",都试图与你在电话上，却无法获得。
+"Walking from the station to the house takes only five minutes.",从车站走到房子只需要五分钟。
+"A fall into a pit, a gain in your wit.",掉入坑，在您的机智上的获取。
+"Some of the bluest water in the world is found in Crater Lake.",一些世界上最蓝的水是发现在火山口湖。
+"Mathematicians are poets, except that they have to prove what their fantasy creates.",数学家们则诗人，只是他们必须证明他们幻想的创建。
+"To tell the truth, I would rather stay at home than go out.",说实话，我宁愿在家里也不出去。
+"In British English, "to get the sack" means to be fired from your job.",在英式英语中，被解雇就开除你的工作。
+"What is still better is that the house has a beautiful garden.",还好的是房子有一个美丽的花园。
+"I find words with concise definitions to be the easiest to remember.",我发现与简明的定义，是最容易记住的单词。
+"In the center of the university campus stands the statue of the founder.",在大学的中心校园铜像的创始人。
+"It's the answer that led those who've been told for so long, by so many, to be cynical and fearful and doubtful about what we can achieve, to put their hands on the arc of history and bend it once more toward the hope of a better day.",正是这个答案，导致这些一直在说这么长时间，这么多，是玩世不恭和恐惧和怀疑我们能做些什么，把他们手中的弧的历史和弯曲再次向希望更好的一天。
+"She came to Tokyo with a view to getting a new job.",她来到东京以获取一份新工作。
+"The mountain path was under a blanket of leaves, soft and easy to walk on.",在山路上走了下的叶子，软，容易走上一条毯子。
+"I'd like to turn off the reading lamp, is that OK?",想要关掉阅读灯，可以吗？
+"The committee is composed of three men and seven women.",委员会是由三名男子和 7 名妇女组成的。
+"Excuse me, I have to get off at the next stop.",请原谅我，我要在下一站下车。
+"The crane, unlike the dog, has never dreamed of flying.",起重机，不像狗，从未梦想过的飞行。
+"A friend of mine asked me to send her a postcard.",我的一个朋友问我要送她一张明信片。
+"My business has at last gotten on the right track.",最后，我的生意已经在正确的轨道。
+"If one day you leave, I will be very sad.",如果有一天你离开了，我会很伤心。
+"It is a great joy to see your own sentences translated into a multitude of other languages.",它是非常快乐的看看你自己的句子翻译成多种其他语言。
+"We have optimized the database indexing, and as a result, system efficiency has improved by 50%.",我们已经优化数据库索引，和结果，系统效率已经提高了 50%。
+"Women like men the way they like their coffee: strong and hot to keep them awake all night long.",女人喜欢男人他们喜欢他们的咖啡的方式︰ 强热，不能让他们整晚都保持清醒。
+"You cannot separate the milk from the coffee once you put it in.",一旦你把它放不能将牛奶分开的咖啡。
+"We love our mother almost without knowing it, without feeling it, as it is as natural as to live.",我们爱我们的母亲几乎不知道，没有感觉到它，它对活着一样自然。
+"It is sometimes hard to choose between dreams and reality.",有时，难的是梦想和现实之间作出选择。
+"You will exist but you will never know what it is to live.",你将存在，但你永远不会知道什么是生活。
+"He took out the wallet from his inside jacket pocket.",他掏出钱包从他的夹克口袋里。
+"The Romans would never have had enough time for conquering the world if they had first been required to study Latin.",罗马人就没有足够的时间来征服世界，如果他们第一次被要求学习拉丁语。
+"The large crowd roared in approval as Mark Knopfler played the first few bars of "Money for Nothing".",大人群的欢呼中批准扮演马克诺夫勒第一几小节的钱无缘无故。

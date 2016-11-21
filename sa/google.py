@@ -50,7 +50,7 @@ def ask_google(query):
 	return polarity, magnitude
 
 def main():
-	'''GO through the two lists, ask Google, and save the result.'''
+	'''Go through the two lists, ask Google, and save the result.'''
 	for input_file, output_file in SA_QUERY_FILES:
 		data = pd.read_csv(input_file)
 		file = open(output_file, 'w')
