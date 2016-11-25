@@ -58,6 +58,11 @@ public:
     // Throws `runtime_error` if it fails.
     void inferSpeech(const std::string &file_path);
     
+    // Sends an test classifier request.
+    // Throws `runtime_error` if it fails.
+    void inferTestClassifier(const std::string &text_query,
+                             const std::string &file_path);
+    
     // The type of knowledge.
     enum class KnowledgeType {
         IMAGE, TEXT, URL

@@ -9,14 +9,15 @@ using namespace std;
 // Function declarations.
 void testASR(User &user);
 void testQA(User &user);
-void testSA();
+void testCL(User &user);
+string getString(const string &enter_what);
 
 // Function implementations.
 int main() {
     // Start interacting with the console.
     // Keep looping until the quit command is invoked.
     User user("yba", "cookies0");
-//    user.login();
+    user.login();
     while (true) {
         try {
             // Prompt the user and read command letters.
@@ -31,10 +32,11 @@ int main() {
                 testASR(user);
             } else if (action_letters == "tq") {
                 testQA(user);
-            } else if (action_letters == "SA") {
-                testSA();
+            } else if (action_letters == "tcl") {
+                testCL(user);
             } else {
-                throw runtime_error("Unrecognized command " + action_letters);
+                throw runtime_error("Unrecognized command " + action_letters + \
+                                    "\nPlease type 'enter' to continue");
             }
         } catch (const runtime_error &e) {
             cout << e.what() << "\n";
@@ -47,23 +49,29 @@ int main() {
     }
 }
 
-// Test the ASR.
+// Tests the ASR.
 void testASR(User &user) {
-    cout << "\nEnter audio file path: ";
-    string file_path;
-    getline(cin, file_path);
+    string file_path = getString("audio file path");
     user.inferSpeech(file_path);
 }
 
-// Test the QA.
+// Tests the QA.
 void testQA(User &user) {
-    cout << "\nEnter text query: ";
-    string text_query;
-    getline(cin, text_query);
+    string text_query = getString("text query");
     user.inferText(text_query);
 }
 
-// Test the SA.
-void testSA() {
-    
+// Tests the query classifier.
+void testCL(User &user) {
+    string text_query = getString("text query");
+    string file_path = getString("image file path");
+    user.inferTestClassifier(text_query, file_path);
+}
+
+// Gets and returns a string from cin with the prompt "\nEnter <enter_what>: ".
+string getString(const string &enter_what) {
+    cout << "\nEnter " << enter_what << ": ";
+    string rtn;
+    getline(cin, rtn);
+    return rtn;
 }

@@ -17,6 +17,14 @@ elif APP_TYPE == 'asr':
     cmd += 'ta\n'
     cmd += file_path
     cmd += '\n'
+elif APP_TYPE == 'cl':
+  file = open(FILE_PATH, 'r')
+  lines = file.readlines()
+  file.close()
+  for line in lines:
+    cmd += 'tcl\n'
+    cmd += line.split(',')[FIELD_ID].replace('"', '').strip()
+    cmd += '\n\n' # no image at this point
 else:
   raise RuntimeError('Unrecognized app type')
 cmd += 'qq'

@@ -1,0 +1,201 @@
+query,result
+What party had a victory in the 2015 UK election?,QA
+What is the main difference between online pharmacies and community pharmacies?,QA
+What type of treatment are pharmacists important for?,QA
+Who did Genghis Khan unite before he began conquering the rest of Eurasia?,QA
+In what year was HMS Dreadnought launched?,QA
+What cytokines are responsible for communication between white blood cells?,QA
+What are some proposals to connect campuses?,QA
+What compounds can be masked with the molecules of the host cell in order for a virus to evade detection?,QA
+Where did the residents of Antioch flee to?,QA
+Who designed the garden for the University Library?,QA
+The adaptive immune system must distinguish between what types of molecules?,QA
+ABC had secondary status on the existing stations in what Ohio town?,QA
+Why would one plead guilty to a crime involving civil disobedience?,QA
+What is the role of teachers in education?,QA
+Who claimed that the name Black Death first appeared in 1631?,QA
+What is the nickname for the Delta in the Netherlands?,QA
+Western governments considered Islamists to be the lesser of two evils when compared to whom?,QA
+How many tonnes of tomatoes does Victoria produce?,QA
+In what complexity class do complement problems of NP problems exist?,QA
+What charter has become an important aspect of EU law?,QA
+How has civil disobedience evolved in current times?,QA
+Whose relics reside in the Becket Casket?,QA
+Where was a cinema relocated while repairs were underway?,QA
+During what period did downtown Fresno thrive?,QA
+Who sets the work agenda and allocates time in the chamber?,QA
+Who had no real military power during the Yuan?,QA
+How many types of movements do euplokamis tentilla have?,QA
+Some in the UMC feel that false ecumenism might result in what?,QA
+What is the major tributary of the Rhine?,QA
+How many metric tons of carbon are believed to be stored in the Amazon forest?,QA
+Why do some people chose to go to jail for their disobedience?,QA
+How many valves did the Corliss engine use?,QA
+What was the bubonic plague mechanism reliant on?,QA
+To what can the use of prolonged breathing of oxygen at 60 kPa lead?,QA
+When was the British Nationality Act passed?,QA
+By which year did the American cars mpg start to improve?,QA
+What was the name of the upgraded Saturn I called?,QA
+What period did the Rhine capture streams?,QA
+How many did this epidemic in China kill?,QA
+What is usually the goal of taking a plea bargain?,QA
+Who is seen as the ultimate climate change authority?,QA
+The owner typically awards a contract to who?,QA
+Between 1978 an d2008 four year full time undergraduate students were required to complete how many classes outside of their concentration?,QA
+Who was drawn to Jacksonville in the 1910s?,QA
+In which year did the newspaper define southern California?,QA
+How long has Proportionality been recognized as one of the general principles of EU law?,QA
+What have some plants repurposed the peptidoglycan layer genes for?,QA
+Which region began to grow and assert itself in the 2000s?,QA
+What year did the the case go before the supreme court?,QA
+What park is close to John Lennon street?,QA
+When was Dali conquered by the Yuan?,QA
+How many Nobel Laureates are among the school alumni?,QA
+When is the last time a fumble return touchdown happened in a Super Bowl?,QA
+What generally does not allow citizens to sue other citizens?,QA
+How many days did the Warsaw Uprising last?,QA
+Under what condition is an element irreducible?,QA
+What are two complexity classes between L and P?,QA
+Who did Tesla credit for his abilities?,QA
+What does a teacher teach in primary school?,QA
+What type of value would the zeta function have if there were finite primes?,QA
+Gosforth and Byker are the largest shopping areas of what type?,QA
+What had to happen to each mission before they would continue on to the next mission?,QA
+What is the process of vaccination also known as?,QA
+What did Gasquet think the plague was?,QA
+By how much did Labour lead Lain Gray retain East Lothian?,QA
+How many households has kids under the age of 18 living in them?,QA
+What alumni is also the Governor of the Bank of Japan?,QA
+Which material is the Gloucester Candlestick made from?,QA
+What did the use of steam engines in farming lead to?,QA
+In what year did Fresno get its first pedestrian mall?,QA
+Who did BSkyB team up with because it was not part of the consortium?,QA
+What is the eukaryotic parasite responsible for malaria known as?,QA
+What was carried on extended lunar missions?,QA
+When did Luther waken with more chest pains?,QA
+How were enemy prisoners used tactically by Mongol armies?,QA
+What armed group stopped the uprising at Ballarat?,QA
+What is the main judicial body of the EU?,QA
+What gets transferred to students who are receptive to the teacher?,QA
+How many members in the seats of the Scottish Parliament are members of the Scottish Government?,QA
+When is the suspended team scheduled to return?,QA
+What is the lake known as which was created by the rise of the Andes Mountains?,QA
+What platform was Sentanta Sports planning on launching on?,QA
+How long will the event at Santa Clara Convention Center last?,QA
+Which gender is more populous across all groups in Jacksonville?,QA
+What weapon does Spike Milligan use against a Dalek?,QA
+What councils assign tasks to the IPCC?,QA
+At what time did Tesla get dinner?,QA
+What reasons cause failure of the disobedience with authorities?,QA
+In what group of compounds is oxygen a necessary part?,QA
+What was a Happy Days spinoff that debuted in the 1980s on ABC?,QA
+What percentage of Filipino primary school students are in private schools?,QA
+What court case desegregated schools in the United States?,QA
+what do conquering people pass down to native populations?,QA
+When did the Siege of Antioch take place?,QA
+How many BSkyB channels were available to customers prior to October 2005?,QA
+What brought the downfall of Jacksonville filmmaking?,QA
+What is the gender income inequality in Bahrain?,QA
+What techniques can be used to determine paleotopography?,QA
+What type of organization would need large quantities of pure oxygen?,QA
+In what year did the Amazon experience a drought that may have been more extreme than in 2005?,QA
+What is on the Google calendar?,CA
+What does my Google calendar tell me to do?,CA
+What does the calendar say that I ought to do?,CA
+What did Google say I should do tomorrow?,CA
+What does the Google calendar thing say?,CA
+What am I going to do?,CA
+What is my plan?,CA
+What are on my plan during the next week?,CA
+What plan do I have for next month?,CA
+What stuff have been put on my plan?,CA
+What plan have I made?,CA
+What plan has been made?,CA
+What kind of stuff am I supposed to this afternoon?,CA
+What kind of thing to do?,CA
+What to do next week?,CA
+What has shown up on schedule?,CA
+Does the schedule say I am going to work?,CA
+Does the schedule force me to do anything?,CA
+Do I need to work today?,CA
+Do I need to spend 2 hours fixing computers tomorrow?,CA
+Do I have to do something today?,CA
+Do I have to read the book tonight?,CA
+Do I make any appointment recently?,CA
+What appointment have I arranged?,CA
+What appointment shows up in the schedule?,CA
+Is there any chunk of my time reserved today?,CA
+Am I totally booked today?,CA
+Am I free Wednesday noon?,CA
+Will I be available to do something tomorrow afternoon?,CA
+When should I start doing the stuff on my schedule?,CA
+What is the schedule?,CA
+What is on my schedule?,CA
+What schedule do I have?,CA
+What schedule did I make?,CA
+What did I do last week?,CA
+What have I done last year?,CA
+What have I been doing since last Tuesday?,CA
+What did I do last Thanksgiving? ,CA
+What does the calendar tell about my last week’s schedule?,CA
+What do you know about my plan?,CA
+When did I go shopping last week?,CA
+What did I do after watching the movie yesterday?,CA
+Am I going to do anything today?,CA
+Am I going to attend a meeting at 10?,CA
+What is my entire calendar for 2015?,CA
+What is my schedule for 2017?,CA
+What should I do for the next couple of days?,CA
+What am I going to do tomorrow morning?,CA
+What will I do for the following week?,CA
+What will I do for the next couple of hours?,CA
+What is on my plate today?,CA
+What was on my plate last night?,CA
+What will be on my plate this Saturday afternoon?,CA
+What is the earliest class I have for tomorrow?,CA
+When will the lecture finish tomorrow afternoon?,CA
+What do I do after class everyday?,CA
+What am I doing before dinner at 6 pm?,CA
+What activity do I usually do in the morning?,CA
+What activity will I do tomorrow morning?,CA
+Did I spent several hours reading books last month?,CA
+How often did I travel last year?,CA
+How long did travelling cost me last week?,CA
+How long will I spend on programming next week?,CA
+How long will the final exam be in December?,CA
+"What exactly did I do on November 22, 2016?",CA
+List my events tomorrow.,CA
+List my schedule.,CA
+Tell me if I am free from 5 to 7 tonight.,CA
+Could you tell me my plan today?,CA
+Do you mind reporting my calendar for this week? ,CA
+Please give the events on the schedule. ,CA
+Please tell me the stuff I am supposed to do right now.,CA
+Please say yes if I am busy all day today.,CA
+Return no if I won’t be free tomorrow.,CA
+Is it okay for me to spend 3 hours playing football tonight?,CA
+Am I fine if I cook tomorrow night for 30 minutes?,CA
+Am I a busy person in 2016 in the United States?,CA
+What have I been doing since I came to the United States in 2014?,CA
+How often have I been to that restaurant since last week?,CA
+How often will I go to the park given my current daily routine?,CA
+Do you predict that I will be free at 5 today?,CA
+How much time did I spend in the United States last year?,CA
+How much time should I spend sleeping everyday?,CA
+How much free time do I have today?,CA
+How long will it be from when I am done all the work to midnight?,CA
+Is tomorrow 8 am a good time for me to attend a meeting in the EECS building?,CA
+What is my frequency of listening to music since last Monday?,CA
+How long has it been since my last shopping?,CA
+How long has passed since the last time the house was cleaned up according to my plan?,CA
+"According to the schedule, will I be able to watch TV tomorrow night?",CA
+Is there any way 2 hours can be arranged?,CA
+What am I doing right now from the calendar?,CA
+Who am I going to meet tonight?,CA
+Who am I going to study with next month?,CA
+Who am I going to spend the next few hours with?,CA
+Who has spent 2 hours with me last night?,CA
+Who has spent some time with me since I went to this university in 2014?,CA
+Who should I spend time with according to my habit inferred?,CA
+Who is the person I have spent most time with last year?,CA
+Who is going to talk with me?,CA

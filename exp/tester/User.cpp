@@ -9,17 +9,21 @@
 
 using namespace std;
 
-// URLs to send requests.
-const char * const LOGIN_URL = "https://clarity13.eecs.umich.edu:30000/login";
-const char * const LEARN_URL = "https://clarity13.eecs.umich.edu:30000/learn";
-const char * const INFER_URL = "https://clarity13.eecs.umich.edu:30000/infer";
-const char * const INFER_SPEECH_URL =
-"https://clarity13.eecs.umich.edu:30001/client/dynamic/recognize";
-// const char * const LOGIN_URL = "http://localhost:3000/login";
-// const char * const LEARN_URL = "http://localhost:3000/learn";
-// const char * const INFER_URL = "http://localhost:3000/infer";
-// const char * const INFER_SPEECH_URL =
-// "http://localhost:8081/client/dynamic/recognize";
+//// URLs to send requests.
+//const char * const LOGIN_URL = "https://clarity13.eecs.umich.edu:30000/login";
+//const char * const LEARN_URL = "https://clarity13.eecs.umich.edu:30000/learn";
+//const char * const INFER_URL = "https://clarity13.eecs.umich.edu:30000/infer";
+//const char * const INFER_TEST_CLASSIFIER_URL =
+//"https://clarity13.eecs.umich.edu:30000/infer_test_classifier";
+//const char * const INFER_SPEECH_URL =
+//"https://clarity13.eecs.umich.edu:30001/client/dynamic/recognize";
+ const char * const LOGIN_URL = "http://localhost:3000/login";
+ const char * const LEARN_URL = "http://localhost:3000/learn";
+ const char * const INFER_URL = "http://localhost:3000/infer";
+const char * const INFER_TEST_CLASSIFIER_URL =
+"http://localhost:3000/infer_test_classifier";
+ const char * const INFER_SPEECH_URL =
+ "http://localhost:8081/client/dynamic/recognize";
 
 // HTML tags that define the error.
 static const char * const error_start =
@@ -199,14 +203,14 @@ void User::inferSpeech(const string &file_path) {
     curl_easy_setopt(curl, CURLOPT_UPLOAD, 1L);
     curl_easy_setopt(curl, CURLOPT_READDATA, fd);
     // Force LibCurl not to verify the authencity of peer’s certificate.
-//    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER, false);
+    //    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER, false);
     curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER, 0L);
     curl_easy_setopt(curl, CURLOPT_SSL_VERIFYHOST, 0L);
     curl_easy_setopt(curl, CURLOPT_USERAGENT, "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.5");
-//    curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
-//    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER , 1);
-//    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYHOST , 1);
-//    curl_easy_setopt(curl, CURLOPT_CAINFO, "cacert.pem");
+    //    curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
+    //    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER , 1);
+    //    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYHOST , 1);
+    //    curl_easy_setopt(curl, CURLOPT_CAINFO, "cacert.pem");
     string s = performRequest();
     string result = getStrBetween
     (speech_infer_result_start, speech_infer_result_end, s);
@@ -215,6 +219,24 @@ void User::inferSpeech(const string &file_path) {
     }
     cout << "Infer speech finished " << result << endl;
     output_file << file_path << "," << result << endl;
+}
+
+// Sends an test classifier request.
+// Throws `runtime_error` if it fails.
+void User::inferTestClassifier(const string &text_query,
+                               const string &file_path) {
+    cout << "Infer test classifier started" << endl;
+    curl_easy_setopt(curl, CURLOPT_URL, INFER_TEST_CLASSIFIER_URL);
+    auto lastptr = setForm({{"speech_input", text_query}});
+    if (file_path != "") {
+        attachFileToForm(file_path, lastptr);
+    }
+    string s = performRequest();
+    checkError(s);
+    string result = s;
+    cout << "Infer test classifier finished. Sent: " << text_query <<
+    "; Received: " << result << endl;
+    output_file << text_query << "," << file_path << "," << result << endl;
 }
 
 // Sends a request to delete an image or a piece of text
