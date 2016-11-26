@@ -1,15 +1,14 @@
 from config import *
 from os import system
 from glob import glob
+import pandas as pd
 
 cmd = ''
 if APP_TYPE == 'qa':
-  file = open(FILE_PATH, 'r')
-  lines = file.readlines()
-  file.close()
-  for line in lines:
+  data = pd.read_csv(FILE_PATH)
+  for line in data[FIELD_NAME]:
     cmd += 'tq\n'
-    cmd += line.split(',')[FIELD_ID].replace('"', '').strip()
+    cmd += line.replace('"', '').strip()
     cmd += '\n'
 elif APP_TYPE == 'asr':
   files = glob(DIR_PATH + '/*.wav')
@@ -18,12 +17,10 @@ elif APP_TYPE == 'asr':
     cmd += file_path
     cmd += '\n'
 elif APP_TYPE == 'cl':
-  file = open(FILE_PATH, 'r')
-  lines = file.readlines()
-  file.close()
-  for line in lines:
+  data = pd.read_csv(FILE_PATH)
+  for line in data[FIELD_NAME]:
     cmd += 'tcl\n'
-    cmd += line.split(',')[FIELD_ID].replace('"', '').strip()
+    cmd += line.replace('"', '').strip()
     cmd += '\n\n' # no image at this point
 else:
   raise RuntimeError('Unrecognized app type')

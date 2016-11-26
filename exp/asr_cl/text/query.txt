@@ -1,4 +1,4 @@
-query,result
+query,answer
 What party had a victory in the 2015 UK election?,QA
 What is the main difference between online pharmacies and community pharmacies?,QA
 What type of treatment are pharmacists important for?,QA
@@ -136,7 +136,7 @@ What schedule did I make?,CA
 What did I do last week?,CA
 What have I done last year?,CA
 What have I been doing since last Tuesday?,CA
-What did I do last Thanksgiving? ,CA
+What did I do last Thanksgiving?,CA
 What does the calendar tell about my last week’s schedule?,CA
 What do you know about my plan?,CA
 When did I go shopping last week?,CA
@@ -168,8 +168,8 @@ List my events tomorrow.,CA
 List my schedule.,CA
 Tell me if I am free from 5 to 7 tonight.,CA
 Could you tell me my plan today?,CA
-Do you mind reporting my calendar for this week? ,CA
-Please give the events on the schedule. ,CA
+Do you mind reporting my calendar for this week?,CA
+Please give the events on the schedule.,CA
 Please tell me the stuff I am supposed to do right now.,CA
 Please say yes if I am busy all day today.,CA
 Return no if I won’t be free tomorrow.,CA

@@ -58,6 +58,7 @@ void testASR(User &user) {
 // Tests the QA.
 void testQA(User &user) {
     string text_query = getString("text query");
+    user.output_file << "audio_file_path,query" << endl;
     user.inferText(text_query);
 }
 

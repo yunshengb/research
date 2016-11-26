@@ -171,7 +171,8 @@ void User::inferText(const string &text_query) {
     string result = getInferResult(s);
     cout << "Infer text finished. Sent: " << text_query << "; Received: " <<
     result << endl;
-    output_file << text_query << "," << result << endl;
+    output_file << surroundDoubleQuotes(text_query) << "," <<
+    surroundDoubleQuotes(result) << endl;
 }
 
 // Sends an infer image text request.
@@ -218,7 +219,7 @@ void User::inferSpeech(const string &file_path) {
         throw runtime_error("Infer speech failed! Result: " + s);
     }
     cout << "Infer speech finished " << result << endl;
-    output_file << file_path << "," << result << endl;
+    output_file << file_path << "," << surroundDoubleQuotes(result) << endl;
 }
 
 // Sends an test classifier request.
@@ -236,7 +237,8 @@ void User::inferTestClassifier(const string &text_query,
     string result = s;
     cout << "Infer test classifier finished. Sent: " << text_query <<
     "; Received: " << result << endl;
-    output_file << text_query << "," << file_path << "," << result << endl;
+    output_file << surroundDoubleQuotes(text_query) << "," << file_path <<
+    "," << surroundDoubleQuotes(result) << endl;
 }
 
 // Sends a request to delete an image or a piece of text
@@ -391,7 +393,17 @@ string User::getFileName(const string &base_file_name) const {
     char buffer[80];
     time (&rawtime);
     timeinfo = localtime(&rawtime);
-    strftime(buffer, 80 ,"_%m_%d_%Y_%I_%M", timeinfo);
+    strftime(buffer, 80 ,"_%m_%d_%Y_%I_%M_%s", timeinfo);
     string str(buffer);
     return base_file_name + str + ".txt";
+}
+
+// Surrounds double quotes to the string.
+string User::surroundDoubleQuotes(const string &str) const {
+    string rtn = str;
+    if (!rtn.empty() && rtn[0] != '"') {
+        rtn.insert(0, "\"");
+        rtn.push_back('"');
+    }
+    return rtn;
 }

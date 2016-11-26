@@ -73,10 +73,10 @@ public:
         GET, POST
     };
     
-private:
     // Output file.
     std::ofstream output_file;
     
+private:
     // The username.
     const std::string username;
     
@@ -107,6 +107,7 @@ private:
     std::string getStrBetween(const char *start, const char *end,
                               const std::string &str) const;
     std::string getFileName(const std::string &base_file_name) const;
+    std::string surroundDoubleQuotes(const std::string &str) const;
 };
 
 #endif /* USER_h */

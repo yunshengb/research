@@ -1,200 +1,201 @@
-What party had a victory in the 2015 UK election?,,['QA', '0'], and starting indices: [0]
-What is the main difference between online pharmacies and community pharmacies?,,['QA', '0'], and starting indices: [0]
-What type of treatment are pharmacists important for?,,['QA', '0'], and starting indices: [0]
-Who did Genghis Khan unite before he began conquering the rest of Eurasia?,,['QA', '0'], and starting indices: [0]
-In what year was HMS Dreadnought launched?,,['QA', '0'], and starting indices: [0]
-What cytokines are responsible for communication between white blood cells?,,['QA', '0'], and starting indices: [0]
-What are some proposals to connect campuses?,,['QA', '0'], and starting indices: [0]
-What compounds can be masked with the molecules of the host cell in order for a virus to evade detection?,,['QA', '0'], and starting indices: [0]
-Where did the residents of Antioch flee to?,,['QA', '0'], and starting indices: [0]
-Who designed the garden for the University Library?,,['QA', '0'], and starting indices: [0]
-The adaptive immune system must distinguish between what types of molecules?,,['QA', '0'], and starting indices: [0]
-ABC had secondary status on the existing stations in what Ohio town?,,['QA', '0'], and starting indices: [0]
-Why would one plead guilty to a crime involving civil disobedience?,,['QA', '0'], and starting indices: [0]
-What is the role of teachers in education?,,['QA', '0'], and starting indices: [0]
-Who claimed that the name Black Death first appeared in 1631?,,['QA', '0'], and starting indices: [0]
-What is the nickname for the Delta in the Netherlands?,,['QA', '0'], and starting indices: [0]
-Western governments considered Islamists to be the lesser of two evils when compared to whom?,,['QA', '0'], and starting indices: [0]
-How many tonnes of tomatoes does Victoria produce?,,['QA', '0'], and starting indices: [0]
-In what complexity class do complement problems of NP problems exist?,,['CA', '0'], and starting indices: [0]
-What charter has become an important aspect of EU law?,,['QA', '0'], and starting indices: [0]
-How has civil disobedience evolved in current times?,,['QA', '0'], and starting indices: [0]
-Whose relics reside in the Becket Casket?,,['QA', '0'], and starting indices: [0]
-Where was a cinema relocated while repairs were underway?,,['QA', '0'], and starting indices: [0]
-During what period did downtown Fresno thrive?,,['QA', '0'], and starting indices: [0]
-Who sets the work agenda and allocates time in the chamber?,,['QA', '0'], and starting indices: [0]
-Who had no real military power during the Yuan?,,['QA', '0'], and starting indices: [0]
-How many types of movements do euplokamis tentilla have?,,['QA', '0'], and starting indices: [0]
-Some in the UMC feel that false ecumenism might result in what?,,['QA', '0'], and starting indices: [0]
-What is the major tributary of the Rhine?,,['QA', '0'], and starting indices: [0]
-How many metric tons of carbon are believed to be stored in the Amazon forest?,,['QA', '0'], and starting indices: [0]
-Why do some people chose to go to jail for their disobedience?,,['CA', '0'], and starting indices: [0]
-How many valves did the Corliss engine use?,,['QA', '0'], and starting indices: [0]
-What was the bubonic plague mechanism reliant on?,,['QA', '0'], and starting indices: [0]
-To what can the use of prolonged breathing of oxygen at 60 kPa lead?,,['QA', '0'], and starting indices: [0]
-When was the British Nationality Act passed?,,['QA', '0'], and starting indices: [0]
-By which year did the American cars mpg start to improve?,,['QA', '0'], and starting indices: [0]
-What was the name of the upgraded Saturn I called?,,['QA', '0'], and starting indices: [0]
-What period did the Rhine capture streams?,,['QA', '0'], and starting indices: [0]
-How many did this epidemic in China kill?,,['QA', '0'], and starting indices: [0]
-What is usually the goal of taking a plea bargain?,,['QA', '0'], and starting indices: [0]
-Who is seen as the ultimate climate change authority?,,['QA', '0'], and starting indices: [0]
-The owner typically awards a contract to who?,,['QA', '0'], and starting indices: [0]
-Between 1978 an d2008 four year full time undergraduate students were required to complete how many classes outside of their concentration?,,['QA', '0'], and starting indices: [0]
-Who was drawn to Jacksonville in the 1910s?,,['QA', '0'], and starting indices: [0]
-In which year did the newspaper define southern California?,,['QA', '0'], and starting indices: [0]
-How long has Proportionality been recognized as one of the general principles of EU law?,,['QA', '0'], and starting indices: [0]
-What have some plants repurposed the peptidoglycan layer genes for?,,['QA', '0'], and starting indices: [0]
-Which region began to grow and assert itself in the 2000s?,,['QA', '0'], and starting indices: [0]
-What year did the the case go before the supreme court?,,['QA', '0'], and starting indices: [0]
-What park is close to John Lennon street?,,['QA', '0'], and starting indices: [0]
-When was Dali conquered by the Yuan?,,['QA', '0'], and starting indices: [0]
-How many Nobel Laureates are among the school alumni?,,['QA', '0'], and starting indices: [0]
-When is the last time a fumble return touchdown happened in a Super Bowl?,,['QA', '0'], and starting indices: [0]
-What generally does not allow citizens to sue other citizens?,,['QA', '0'], and starting indices: [0]
-How many days did the Warsaw Uprising last?,,['QA', '0'], and starting indices: [0]
-Under what condition is an element irreducible?,,['QA', '0'], and starting indices: [0]
-What are two complexity classes between L and P?,,['QA', '0'], and starting indices: [0]
-Who did Tesla credit for his abilities?,,['QA', '0'], and starting indices: [0]
-What does a teacher teach in primary school?,,['QA', '0'], and starting indices: [0]
-What type of value would the zeta function have if there were finite primes?,,['QA', '0'], and starting indices: [0]
-Gosforth and Byker are the largest shopping areas of what type?,,['QA', '0'], and starting indices: [0]
-What had to happen to each mission before they would continue on to the next mission?,,['CA', '0'], and starting indices: [0]
-What is the process of vaccination also known as?,,['QA', '0'], and starting indices: [0]
-What did Gasquet think the plague was?,,['QA', '0'], and starting indices: [0]
-By how much did Labour lead Lain Gray retain East Lothian?,,['QA', '0'], and starting indices: [0]
-How many households has kids under the age of 18 living in them?,,['QA', '0'], and starting indices: [0]
-What alumni is also the Governor of the Bank of Japan?,,['QA', '0'], and starting indices: [0]
-Which material is the Gloucester Candlestick made from?,,['QA', '0'], and starting indices: [0]
-What did the use of steam engines in farming lead to?,,['QA', '0'], and starting indices: [0]
-In what year did Fresno get its first pedestrian mall?,,['QA', '0'], and starting indices: [0]
-Who did BSkyB team up with because it was not part of the consortium?,,['QA', '0'], and starting indices: [0]
-What is the eukaryotic parasite responsible for malaria known as?,,['QA', '0'], and starting indices: [0]
-What was carried on extended lunar missions?,,['QA', '0'], and starting indices: [0]
-When did Luther waken with more chest pains?,,['QA', '0'], and starting indices: [0]
-How were enemy prisoners used tactically by Mongol armies?,,['QA', '0'], and starting indices: [0]
-What armed group stopped the uprising at Ballarat?,,['QA', '0'], and starting indices: [0]
-What is the main judicial body of the EU?,,['QA', '0'], and starting indices: [0]
-What gets transferred to students who are receptive to the teacher?,,['QA', '0'], and starting indices: [0]
-How many members in the seats of the Scottish Parliament are members of the Scottish Government?,,['QA', '0'], and starting indices: [0]
-When is the suspended team scheduled to return?,,['QA', '0'], and starting indices: [0]
-What is the lake known as which was created by the rise of the Andes Mountains?,,['QA', '0'], and starting indices: [0]
-What platform was Sentanta Sports planning on launching on?,,['QA', '0'], and starting indices: [0]
-How long will the event at Santa Clara Convention Center last?,,['QA', '0'], and starting indices: [0]
-Which gender is more populous across all groups in Jacksonville?,,['QA', '0'], and starting indices: [0]
-What weapon does Spike Milligan use against a Dalek?,,['QA', '0'], and starting indices: [0]
-What councils assign tasks to the IPCC?,,['QA', '0'], and starting indices: [0]
-At what time did Tesla get dinner?,,['QA', '0'], and starting indices: [0]
-What reasons cause failure of the disobedience with authorities?,,['QA', '0'], and starting indices: [0]
-In what group of compounds is oxygen a necessary part?,,['QA', '0'], and starting indices: [0]
-What was a Happy Days spinoff that debuted in the 1980s on ABC?,,['QA', '0'], and starting indices: [0]
-What percentage of Filipino primary school students are in private schools?,,['QA', '0'], and starting indices: [0]
-What court case desegregated schools in the United States?,,['QA', '0'], and starting indices: [0]
-what do conquering people pass down to native populations?,,['CA', '0'], and starting indices: [0]
-When did the Siege of Antioch take place?,,['QA', '0'], and starting indices: [0]
-How many BSkyB channels were available to customers prior to October 2005?,,['QA', '0'], and starting indices: [0]
-What brought the downfall of Jacksonville filmmaking?,,['QA', '0'], and starting indices: [0]
-What is the gender income inequality in Bahrain?,,['QA', '0'], and starting indices: [0]
-What techniques can be used to determine paleotopography?,,['CA', '0'], and starting indices: [0]
-What type of organization would need large quantities of pure oxygen?,,['QA', '0'], and starting indices: [0]
-In what year did the Amazon experience a drought that may have been more extreme than in 2005?,,['QA', '0'], and starting indices: [0]
-What is on the Google calendar?,,['CA', '0'], and starting indices: [0]
-What does my Google calendar tell me to do?,,['CA', '0'], and starting indices: [0]
-What does the calendar say that I ought to do?,,['CA', '0'], and starting indices: [0]
-What did Google say I should do tomorrow?,,['CA', '0'], and starting indices: [0]
-What does the Google calendar thing say?,,['QA', '0'], and starting indices: [0]
-What am I going to do?,,['CA', '0'], and starting indices: [0]
-What is my plan?,,['CA', '0'], and starting indices: [0]
-What are on my plan during the next week?,,['CA', '0'], and starting indices: [0]
-What plan do I have for next month?,,['CA', '0'], and starting indices: [0]
-What stuff have been put on my plan?,,['CA', '0'], and starting indices: [0]
-What plan have I made?,,['QA', '0'], and starting indices: [0]
-What plan has been made?,,['QA', '0'], and starting indices: [0]
-What kind of stuff am I supposed to this afternoon?,,['CA', '0'], and starting indices: [0]
-What kind of thing to do?,,['CA', '0'], and starting indices: [0]
-What to do next week?,,['CA', '0'], and starting indices: [0]
-What has shown up on schedule?,,['CA', '0'], and starting indices: [0]
-Does the schedule say I am going to work?,,['QA', '0'], and starting indices: [0]
-Does the schedule force me to do anything?,,['CA', '0'], and starting indices: [0]
-Do I need to work today?,,['CA', '0'], and starting indices: [0]
-Do I need to spend 2 hours fixing computers tomorrow?,,['CA', '0'], and starting indices: [0]
-Do I have to do something today?,,['CA', '0'], and starting indices: [0]
-Do I have to read the book tonight?,,['QA', '0'], and starting indices: [0]
-Do I make any appointment recently?,,['CA', '0'], and starting indices: [0]
-What appointment have I arranged?,,['QA', '0'], and starting indices: [0]
-What appointment shows up in the schedule?,,['QA', '0'], and starting indices: [0]
-Is there any chunk of my time reserved today?,,['QA', '0'], and starting indices: [0]
-Am I totally booked today?,,['QA', '0'], and starting indices: [0]
-Am I free Wednesday noon?,,['CA', '0'], and starting indices: [0]
-Will I be available to do something tomorrow afternoon?,,['CA', '0'], and starting indices: [0]
-When should I start doing the stuff on my schedule?,,['CA', '0'], and starting indices: [0]
-What is the schedule?,,['QA', '0'], and starting indices: [0]
-What is on my schedule?,,['CA', '0'], and starting indices: [0]
-What schedule do I have?,,['CA', '0'], and starting indices: [0]
-What schedule did I make?,,['QA', '0'], and starting indices: [0]
-What did I do last week?,,['CA', '0'], and starting indices: [0]
-What have I done last year?,,['QA', '0'], and starting indices: [0]
-What have I been doing since last Tuesday?,,['QA', '0'], and starting indices: [0]
-What did I do last Thanksgiving?,,['CA', '0'], and starting indices: [0]
-What does the calendar tell about my last week’s schedule?,,['CA', '0'], and starting indices: [0]
-What do you know about my plan?,,['CA', '0'], and starting indices: [0]
-When did I go shopping last week?,,['QA', '0'], and starting indices: [0]
-What did I do after watching the movie yesterday?,,['QA', '0'], and starting indices: [0]
-Am I going to do anything today?,,['CA', '0'], and starting indices: [0]
-Am I going to attend a meeting at 10?,,['QA', '0'], and starting indices: [0]
-What is my entire calendar for 2015?,,['CA', '0'], and starting indices: [0]
-What is my schedule for 2017?,,['CA', '0'], and starting indices: [0]
-What should I do for the next couple of days?,,['CA', '0'], and starting indices: [0]
-What am I going to do tomorrow morning?,,['CA', '0'], and starting indices: [0]
-What will I do for the following week?,,['CA', '0'], and starting indices: [0]
-What will I do for the next couple of hours?,,['CA', '0'], and starting indices: [0]
-What is on my plate today?,,['CA', '0'], and starting indices: [0]
-What was on my plate last night?,,['CA', '0'], and starting indices: [0]
-What will be on my plate this Saturday afternoon?,,['CA', '0'], and starting indices: [0]
-What is the earliest class I have for tomorrow?,,['QA', '0'], and starting indices: [0]
-When will the lecture finish tomorrow afternoon?,,['QA', '0'], and starting indices: [0]
-What do I do after class everyday?,,['CA', '0'], and starting indices: [0]
-What am I doing before dinner at 6 pm?,,['CA', '0'], and starting indices: [0]
-What activity do I usually do in the morning?,,['CA', '0'], and starting indices: [0]
-What activity will I do tomorrow morning?,,['CA', '0'], and starting indices: [0]
-Did I spent several hours reading books last month?,,['QA', '0'], and starting indices: [0]
-How often did I travel last year?,,['QA', '0'], and starting indices: [0]
-How long did travelling cost me last week?,,['QA', '0'], and starting indices: [0]
-How long will I spend on programming next week?,,['CA', '0'], and starting indices: [0]
-How long will the final exam be in December?,,['QA', '0'], and starting indices: [0]
-What exactly did I do on November 22,,['CA', '0'], and starting indices: [0]
-List my events tomorrow.,,['CA', '0'], and starting indices: [0]
-List my schedule.,,['CA', '0'], and starting indices: [0]
-Tell me if I am free from 5 to 7 tonight.,,['QA', '0'], and starting indices: [0]
-Could you tell me my plan today?,,['QA', '0'], and starting indices: [0]
-Do you mind reporting my calendar for this week?,,['CA', '0'], and starting indices: [0]
-Please give the events on the schedule.,,['QA', '0'], and starting indices: [0]
-Please tell me the stuff I am supposed to do right now.,,['QA', '0'], and starting indices: [0]
-Please say yes if I am busy all day today.,,['QA', '0'], and starting indices: [0]
-Return no if I won’t be free tomorrow.,,['CA', '0'], and starting indices: [0]
-Is it okay for me to spend 3 hours playing football tonight?,,['QA', '0'], and starting indices: [0]
-Am I fine if I cook tomorrow night for 30 minutes?,,['QA', '0'], and starting indices: [0]
-Am I a busy person in 2016 in the United States?,,['QA', '0'], and starting indices: [0]
-What have I been doing since I came to the United States in 2014?,,['QA', '0'], and starting indices: [0]
-How often have I been to that restaurant since last week?,,['QA', '0'], and starting indices: [0]
-How often will I go to the park given my current daily routine?,,['CA', '0'], and starting indices: [0]
-Do you predict that I will be free at 5 today?,,['CA', '0'], and starting indices: [0]
-How much time did I spend in the United States last year?,,['QA', '0'], and starting indices: [0]
-How much time should I spend sleeping everyday?,,['QA', '0'], and starting indices: [0]
-How much free time do I have today?,,['CA', '0'], and starting indices: [0]
-How long will it be from when I am done all the work to midnight?,,['QA', '0'], and starting indices: [0]
-Is tomorrow 8 am a good time for me to attend a meeting in the EECS building?,,['QA', '0'], and starting indices: [0]
-What is my frequency of listening to music since last Monday?,,['CA', '0'], and starting indices: [0]
-How long has it been since my last shopping?,,['QA', '0'], and starting indices: [0]
-How long has passed since the last time the house was cleaned up according to my plan?,,['QA', '0'], and starting indices: [0]
-According to the schedule,,['QA', '0'], and starting indices: [0]
-Is there any way 2 hours can be arranged?,,['QA', '0'], and starting indices: [0]
-What am I doing right now from the calendar?,,['CA', '0'], and starting indices: [0]
-Who am I going to meet tonight?,,['QA', '0'], and starting indices: [0]
-Who am I going to study with next month?,,['QA', '0'], and starting indices: [0]
-Who am I going to spend the next few hours with?,,['QA', '0'], and starting indices: [0]
-Who has spent 2 hours with me last night?,,['QA', '0'], and starting indices: [0]
-Who has spent some time with me since I went to this university in 2014?,,['QA', '0'], and starting indices: [0]
-Who should I spend time with according to my habit inferred?,,['QA', '0'], and starting indices: [0]
-Who is the person I have spent most time with last year?,,['QA', '0'], and starting indices: [0]
-Who is going to talk with me?,,['QA', '0'], and starting indices: [0]
+query,image_path,result
+"What party had a victory in the 2015 UK election?",,"['QA', '0'], and starting indices: [0]"
+"What is the main difference between online pharmacies and community pharmacies?",,"['QA', '0'], and starting indices: [0]"
+"What type of treatment are pharmacists important for?",,"['QA', '0'], and starting indices: [0]"
+"Who did Genghis Khan unite before he began conquering the rest of Eurasia?",,"['QA', '0'], and starting indices: [0]"
+"In what year was HMS Dreadnought launched?",,"['QA', '0'], and starting indices: [0]"
+"What cytokines are responsible for communication between white blood cells?",,"['QA', '0'], and starting indices: [0]"
+"What are some proposals to connect campuses?",,"['QA', '0'], and starting indices: [0]"
+"What compounds can be masked with the molecules of the host cell in order for a virus to evade detection?",,"['QA', '0'], and starting indices: [0]"
+"Where did the residents of Antioch flee to?",,"['QA', '0'], and starting indices: [0]"
+"Who designed the garden for the University Library?",,"['QA', '0'], and starting indices: [0]"
+"The adaptive immune system must distinguish between what types of molecules?",,"['QA', '0'], and starting indices: [0]"
+"ABC had secondary status on the existing stations in what Ohio town?",,"['QA', '0'], and starting indices: [0]"
+"Why would one plead guilty to a crime involving civil disobedience?",,"['QA', '0'], and starting indices: [0]"
+"What is the role of teachers in education?",,"['QA', '0'], and starting indices: [0]"
+"Who claimed that the name Black Death first appeared in 1631?",,"['QA', '0'], and starting indices: [0]"
+"What is the nickname for the Delta in the Netherlands?",,"['QA', '0'], and starting indices: [0]"
+"Western governments considered Islamists to be the lesser of two evils when compared to whom?",,"['QA', '0'], and starting indices: [0]"
+"How many tonnes of tomatoes does Victoria produce?",,"['QA', '0'], and starting indices: [0]"
+"In what complexity class do complement problems of NP problems exist?",,"['CA', '0'], and starting indices: [0]"
+"What charter has become an important aspect of EU law?",,"['QA', '0'], and starting indices: [0]"
+"How has civil disobedience evolved in current times?",,"['QA', '0'], and starting indices: [0]"
+"Whose relics reside in the Becket Casket?",,"['QA', '0'], and starting indices: [0]"
+"Where was a cinema relocated while repairs were underway?",,"['QA', '0'], and starting indices: [0]"
+"During what period did downtown Fresno thrive?",,"['QA', '0'], and starting indices: [0]"
+"Who sets the work agenda and allocates time in the chamber?",,"['QA', '0'], and starting indices: [0]"
+"Who had no real military power during the Yuan?",,"['QA', '0'], and starting indices: [0]"
+"How many types of movements do euplokamis tentilla have?",,"['QA', '0'], and starting indices: [0]"
+"Some in the UMC feel that false ecumenism might result in what?",,"['QA', '0'], and starting indices: [0]"
+"What is the major tributary of the Rhine?",,"['QA', '0'], and starting indices: [0]"
+"How many metric tons of carbon are believed to be stored in the Amazon forest?",,"['QA', '0'], and starting indices: [0]"
+"Why do some people chose to go to jail for their disobedience?",,"['CA', '0'], and starting indices: [0]"
+"How many valves did the Corliss engine use?",,"['QA', '0'], and starting indices: [0]"
+"What was the bubonic plague mechanism reliant on?",,"['QA', '0'], and starting indices: [0]"
+"To what can the use of prolonged breathing of oxygen at 60 kPa lead?",,"['QA', '0'], and starting indices: [0]"
+"When was the British Nationality Act passed?",,"['QA', '0'], and starting indices: [0]"
+"By which year did the American cars mpg start to improve?",,"['QA', '0'], and starting indices: [0]"
+"What was the name of the upgraded Saturn I called?",,"['QA', '0'], and starting indices: [0]"
+"What period did the Rhine capture streams?",,"['QA', '0'], and starting indices: [0]"
+"How many did this epidemic in China kill?",,"['QA', '0'], and starting indices: [0]"
+"What is usually the goal of taking a plea bargain?",,"['QA', '0'], and starting indices: [0]"
+"Who is seen as the ultimate climate change authority?",,"['QA', '0'], and starting indices: [0]"
+"The owner typically awards a contract to who?",,"['QA', '0'], and starting indices: [0]"
+"Between 1978 an d2008 four year full time undergraduate students were required to complete how many classes outside of their concentration?",,"['QA', '0'], and starting indices: [0]"
+"Who was drawn to Jacksonville in the 1910s?",,"['QA', '0'], and starting indices: [0]"
+"In which year did the newspaper define southern California?",,"['QA', '0'], and starting indices: [0]"
+"How long has Proportionality been recognized as one of the general principles of EU law?",,"['QA', '0'], and starting indices: [0]"
+"What have some plants repurposed the peptidoglycan layer genes for?",,"['QA', '0'], and starting indices: [0]"
+"Which region began to grow and assert itself in the 2000s?",,"['QA', '0'], and starting indices: [0]"
+"What year did the the case go before the supreme court?",,"['QA', '0'], and starting indices: [0]"
+"What park is close to John Lennon street?",,"['QA', '0'], and starting indices: [0]"
+"When was Dali conquered by the Yuan?",,"['QA', '0'], and starting indices: [0]"
+"How many Nobel Laureates are among the school alumni?",,"['QA', '0'], and starting indices: [0]"
+"When is the last time a fumble return touchdown happened in a Super Bowl?",,"['QA', '0'], and starting indices: [0]"
+"What generally does not allow citizens to sue other citizens?",,"['QA', '0'], and starting indices: [0]"
+"How many days did the Warsaw Uprising last?",,"['QA', '0'], and starting indices: [0]"
+"Under what condition is an element irreducible?",,"['QA', '0'], and starting indices: [0]"
+"What are two complexity classes between L and P?",,"['QA', '0'], and starting indices: [0]"
+"Who did Tesla credit for his abilities?",,"['QA', '0'], and starting indices: [0]"
+"What does a teacher teach in primary school?",,"['QA', '0'], and starting indices: [0]"
+"What type of value would the zeta function have if there were finite primes?",,"['QA', '0'], and starting indices: [0]"
+"Gosforth and Byker are the largest shopping areas of what type?",,"['QA', '0'], and starting indices: [0]"
+"What had to happen to each mission before they would continue on to the next mission?",,"['CA', '0'], and starting indices: [0]"
+"What is the process of vaccination also known as?",,"['QA', '0'], and starting indices: [0]"
+"What did Gasquet think the plague was?",,"['QA', '0'], and starting indices: [0]"
+"By how much did Labour lead Lain Gray retain East Lothian?",,"['QA', '0'], and starting indices: [0]"
+"How many households has kids under the age of 18 living in them?",,"['QA', '0'], and starting indices: [0]"
+"What alumni is also the Governor of the Bank of Japan?",,"['QA', '0'], and starting indices: [0]"
+"Which material is the Gloucester Candlestick made from?",,"['QA', '0'], and starting indices: [0]"
+"What did the use of steam engines in farming lead to?",,"['QA', '0'], and starting indices: [0]"
+"In what year did Fresno get its first pedestrian mall?",,"['QA', '0'], and starting indices: [0]"
+"Who did BSkyB team up with because it was not part of the consortium?",,"['QA', '0'], and starting indices: [0]"
+"What is the eukaryotic parasite responsible for malaria known as?",,"['QA', '0'], and starting indices: [0]"
+"What was carried on extended lunar missions?",,"['QA', '0'], and starting indices: [0]"
+"When did Luther waken with more chest pains?",,"['QA', '0'], and starting indices: [0]"
+"How were enemy prisoners used tactically by Mongol armies?",,"['QA', '0'], and starting indices: [0]"
+"What armed group stopped the uprising at Ballarat?",,"['QA', '0'], and starting indices: [0]"
+"What is the main judicial body of the EU?",,"['QA', '0'], and starting indices: [0]"
+"What gets transferred to students who are receptive to the teacher?",,"['QA', '0'], and starting indices: [0]"
+"How many members in the seats of the Scottish Parliament are members of the Scottish Government?",,"['QA', '0'], and starting indices: [0]"
+"When is the suspended team scheduled to return?",,"['QA', '0'], and starting indices: [0]"
+"What is the lake known as which was created by the rise of the Andes Mountains?",,"['QA', '0'], and starting indices: [0]"
+"What platform was Sentanta Sports planning on launching on?",,"['QA', '0'], and starting indices: [0]"
+"How long will the event at Santa Clara Convention Center last?",,"['QA', '0'], and starting indices: [0]"
+"Which gender is more populous across all groups in Jacksonville?",,"['QA', '0'], and starting indices: [0]"
+"What weapon does Spike Milligan use against a Dalek?",,"['QA', '0'], and starting indices: [0]"
+"What councils assign tasks to the IPCC?",,"['QA', '0'], and starting indices: [0]"
+"At what time did Tesla get dinner?",,"['QA', '0'], and starting indices: [0]"
+"What reasons cause failure of the disobedience with authorities?",,"['QA', '0'], and starting indices: [0]"
+"In what group of compounds is oxygen a necessary part?",,"['QA', '0'], and starting indices: [0]"
+"What was a Happy Days spinoff that debuted in the 1980s on ABC?",,"['QA', '0'], and starting indices: [0]"
+"What percentage of Filipino primary school students are in private schools?",,"['QA', '0'], and starting indices: [0]"
+"What court case desegregated schools in the United States?",,"['QA', '0'], and starting indices: [0]"
+"what do conquering people pass down to native populations?",,"['CA', '0'], and starting indices: [0]"
+"When did the Siege of Antioch take place?",,"['QA', '0'], and starting indices: [0]"
+"How many BSkyB channels were available to customers prior to October 2005?",,"['QA', '0'], and starting indices: [0]"
+"What brought the downfall of Jacksonville filmmaking?",,"['QA', '0'], and starting indices: [0]"
+"What is the gender income inequality in Bahrain?",,"['QA', '0'], and starting indices: [0]"
+"What techniques can be used to determine paleotopography?",,"['CA', '0'], and starting indices: [0]"
+"What type of organization would need large quantities of pure oxygen?",,"['QA', '0'], and starting indices: [0]"
+"In what year did the Amazon experience a drought that may have been more extreme than in 2005?",,"['QA', '0'], and starting indices: [0]"
+"What is on the Google calendar?",,"['CA', '0'], and starting indices: [0]"
+"What does my Google calendar tell me to do?",,"['CA', '0'], and starting indices: [0]"
+"What does the calendar say that I ought to do?",,"['CA', '0'], and starting indices: [0]"
+"What did Google say I should do tomorrow?",,"['CA', '0'], and starting indices: [0]"
+"What does the Google calendar thing say?",,"['QA', '0'], and starting indices: [0]"
+"What am I going to do?",,"['CA', '0'], and starting indices: [0]"
+"What is my plan?",,"['CA', '0'], and starting indices: [0]"
+"What are on my plan during the next week?",,"['CA', '0'], and starting indices: [0]"
+"What plan do I have for next month?",,"['CA', '0'], and starting indices: [0]"
+"What stuff have been put on my plan?",,"['CA', '0'], and starting indices: [0]"
+"What plan have I made?",,"['QA', '0'], and starting indices: [0]"
+"What plan has been made?",,"['QA', '0'], and starting indices: [0]"
+"What kind of stuff am I supposed to this afternoon?",,"['CA', '0'], and starting indices: [0]"
+"What kind of thing to do?",,"['CA', '0'], and starting indices: [0]"
+"What to do next week?",,"['CA', '0'], and starting indices: [0]"
+"What has shown up on schedule?",,"['CA', '0'], and starting indices: [0]"
+"Does the schedule say I am going to work?",,"['QA', '0'], and starting indices: [0]"
+"Does the schedule force me to do anything?",,"['CA', '0'], and starting indices: [0]"
+"Do I need to work today?",,"['CA', '0'], and starting indices: [0]"
+"Do I need to spend 2 hours fixing computers tomorrow?",,"['CA', '0'], and starting indices: [0]"
+"Do I have to do something today?",,"['CA', '0'], and starting indices: [0]"
+"Do I have to read the book tonight?",,"['QA', '0'], and starting indices: [0]"
+"Do I make any appointment recently?",,"['CA', '0'], and starting indices: [0]"
+"What appointment have I arranged?",,"['QA', '0'], and starting indices: [0]"
+"What appointment shows up in the schedule?",,"['QA', '0'], and starting indices: [0]"
+"Is there any chunk of my time reserved today?",,"['QA', '0'], and starting indices: [0]"
+"Am I totally booked today?",,"['QA', '0'], and starting indices: [0]"
+"Am I free Wednesday noon?",,"['CA', '0'], and starting indices: [0]"
+"Will I be available to do something tomorrow afternoon?",,"['CA', '0'], and starting indices: [0]"
+"When should I start doing the stuff on my schedule?",,"['CA', '0'], and starting indices: [0]"
+"What is the schedule?",,"['QA', '0'], and starting indices: [0]"
+"What is on my schedule?",,"['CA', '0'], and starting indices: [0]"
+"What schedule do I have?",,"['CA', '0'], and starting indices: [0]"
+"What schedule did I make?",,"['QA', '0'], and starting indices: [0]"
+"What did I do last week?",,"['CA', '0'], and starting indices: [0]"
+"What have I done last year?",,"['QA', '0'], and starting indices: [0]"
+"What have I been doing since last Tuesday?",,"['QA', '0'], and starting indices: [0]"
+"What did I do last Thanksgiving?",,"['CA', '0'], and starting indices: [0]"
+"What does the calendar tell about my last week’s schedule?",,"['CA', '0'], and starting indices: [0]"
+"What do you know about my plan?",,"['CA', '0'], and starting indices: [0]"
+"When did I go shopping last week?",,"['QA', '0'], and starting indices: [0]"
+"What did I do after watching the movie yesterday?",,"['QA', '0'], and starting indices: [0]"
+"Am I going to do anything today?",,"['CA', '0'], and starting indices: [0]"
+"Am I going to attend a meeting at 10?",,"['QA', '0'], and starting indices: [0]"
+"What is my entire calendar for 2015?",,"['CA', '0'], and starting indices: [0]"
+"What is my schedule for 2017?",,"['CA', '0'], and starting indices: [0]"
+"What should I do for the next couple of days?",,"['CA', '0'], and starting indices: [0]"
+"What am I going to do tomorrow morning?",,"['CA', '0'], and starting indices: [0]"
+"What will I do for the following week?",,"['CA', '0'], and starting indices: [0]"
+"What will I do for the next couple of hours?",,"['CA', '0'], and starting indices: [0]"
+"What is on my plate today?",,"['CA', '0'], and starting indices: [0]"
+"What was on my plate last night?",,"['CA', '0'], and starting indices: [0]"
+"What will be on my plate this Saturday afternoon?",,"['CA', '0'], and starting indices: [0]"
+"What is the earliest class I have for tomorrow?",,"['QA', '0'], and starting indices: [0]"
+"When will the lecture finish tomorrow afternoon?",,"['QA', '0'], and starting indices: [0]"
+"What do I do after class everyday?",,"['CA', '0'], and starting indices: [0]"
+"What am I doing before dinner at 6 pm?",,"['CA', '0'], and starting indices: [0]"
+"What activity do I usually do in the morning?",,"['CA', '0'], and starting indices: [0]"
+"What activity will I do tomorrow morning?",,"['CA', '0'], and starting indices: [0]"
+"Did I spent several hours reading books last month?",,"['QA', '0'], and starting indices: [0]"
+"How often did I travel last year?",,"['QA', '0'], and starting indices: [0]"
+"How long did travelling cost me last week?",,"['QA', '0'], and starting indices: [0]"
+"How long will I spend on programming next week?",,"['CA', '0'], and starting indices: [0]"
+"How long will the final exam be in December?",,"['QA', '0'], and starting indices: [0]"
+"What exactly did I do on November 22, 2016?",,"['CA', '0'], and starting indices: [0]"
+"List my events tomorrow.",,"['CA', '0'], and starting indices: [0]"
+"List my schedule.",,"['CA', '0'], and starting indices: [0]"
+"Tell me if I am free from 5 to 7 tonight.",,"['QA', '0'], and starting indices: [0]"
+"Could you tell me my plan today?",,"['QA', '0'], and starting indices: [0]"
+"Do you mind reporting my calendar for this week?",,"['CA', '0'], and starting indices: [0]"
+"Please give the events on the schedule.",,"['QA', '0'], and starting indices: [0]"
+"Please tell me the stuff I am supposed to do right now.",,"['QA', '0'], and starting indices: [0]"
+"Please say yes if I am busy all day today.",,"['QA', '0'], and starting indices: [0]"
+"Return no if I won’t be free tomorrow.",,"['CA', '0'], and starting indices: [0]"
+"Is it okay for me to spend 3 hours playing football tonight?",,"['QA', '0'], and starting indices: [0]"
+"Am I fine if I cook tomorrow night for 30 minutes?",,"['QA', '0'], and starting indices: [0]"
+"Am I a busy person in 2016 in the United States?",,"['QA', '0'], and starting indices: [0]"
+"What have I been doing since I came to the United States in 2014?",,"['QA', '0'], and starting indices: [0]"
+"How often have I been to that restaurant since last week?",,"['QA', '0'], and starting indices: [0]"
+"How often will I go to the park given my current daily routine?",,"['CA', '0'], and starting indices: [0]"
+"Do you predict that I will be free at 5 today?",,"['CA', '0'], and starting indices: [0]"
+"How much time did I spend in the United States last year?",,"['QA', '0'], and starting indices: [0]"
+"How much time should I spend sleeping everyday?",,"['QA', '0'], and starting indices: [0]"
+"How much free time do I have today?",,"['CA', '0'], and starting indices: [0]"
+"How long will it be from when I am done all the work to midnight?",,"['QA', '0'], and starting indices: [0]"
+"Is tomorrow 8 am a good time for me to attend a meeting in the EECS building?",,"['QA', '0'], and starting indices: [0]"
+"What is my frequency of listening to music since last Monday?",,"['CA', '0'], and starting indices: [0]"
+"How long has it been since my last shopping?",,"['QA', '0'], and starting indices: [0]"
+"How long has passed since the last time the house was cleaned up according to my plan?",,"['QA', '0'], and starting indices: [0]"
+"According to the schedule, will I be able to watch TV tomorrow night?",,"['CA', '0'], and starting indices: [0]"
+"Is there any way 2 hours can be arranged?",,"['QA', '0'], and starting indices: [0]"
+"What am I doing right now from the calendar?",,"['CA', '0'], and starting indices: [0]"
+"Who am I going to meet tonight?",,"['QA', '0'], and starting indices: [0]"
+"Who am I going to study with next month?",,"['QA', '0'], and starting indices: [0]"
+"Who am I going to spend the next few hours with?",,"['QA', '0'], and starting indices: [0]"
+"Who has spent 2 hours with me last night?",,"['QA', '0'], and starting indices: [0]"
+"Who has spent some time with me since I went to this university in 2014?",,"['QA', '0'], and starting indices: [0]"
+"Who should I spend time with according to my habit inferred?",,"['QA', '0'], and starting indices: [0]"
+"Who is the person I have spent most time with last year?",,"['QA', '0'], and starting indices: [0]"
+"Who is going to talk with me?",,"['QA', '0'], and starting indices: [0]"

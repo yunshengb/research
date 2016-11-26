@@ -1,3 +1,4 @@
+audio_file_path,query
 ../asr_qa/speech/0_WhoisthecurrentpresidentoftheUnitedStatesofAmerica.wav,"WHO IS THE CURRENT PRESIDENT OF THE UNITED STATES OF AMERICA."
 ../asr_qa/speech/10_WhofoundedGoogle.wav,"WHO FOUNDED THE REBEL."
 ../asr_qa/speech/11_WholaunchedFacebook.wav,"THE LAST FOSSBROOKE."

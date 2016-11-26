@@ -1,200 +1,201 @@
-WHAT PART HE HAD A VICTORY AND THE TWO L ONE FIVE OF COLLECTION.,,['QA', '0'], and starting indices: [0]
-WHAT IS ON THE GRAVEL CALENDAR.,,['QA', '0'], and starting indices: [0]
-WHY DOES THE GIGGLE CALENDAR TELL ME TO DO.,,['QA', '0'], and starting indices: [0]
-WHY DOES THE CALENDAR SAY THAT I OUGHT TO DO.,,['CA', '0'], and starting indices: [0]
-WHAT DID VERY WELL SAY I SHOULD GIVE HIM MAIA.,,['QA', '0'], and starting indices: [0]
-WHY DOES THE GIGGLED CALENDAR THING SAY.,,['QA', '0'], and starting indices: [0]
-WHAT AM I GOING TO DO.,,['CA', '0'], and starting indices: [0]
-WHAT IS MY PLAN.,,['CA', '0'], and starting indices: [0]
-BUT I AND MY PLAN DURING THE NEXT WEEK.,,['CA', '0'], and starting indices: [0]
-WHAT LAND THOUGH I HAVE FOR NEXT MONTH.,,['QA', '0'], and starting indices: [0]
-WHAT STUFF HAVE BEEN PUT ON MY PLAN.,,['CA', '0'], and starting indices: [0]
-THAT ACTIVE IMMUNE SYSTEM MUST DISTINGUISH BETWEEN WHAT TYPES OF MOLECULES.,,['QA', '0'], and starting indices: [0]
-WHAT PLAN HAVE I MADE.,,['QA', '0'], and starting indices: [0]
-WHAT PLAN HAS BEEN MADE.,,['QA', '0'], and starting indices: [0]
-WHAT KIND OF STUFF AND I SUPPOSE TO THIS AFTERNOON.,,['QA', '0'], and starting indices: [0]
-WHAT KIND OF THING TO DO.,,['CA', '0'], and starting indices: [0]
-WHAT TO DO NEXT WEEK.,,['CA', '0'], and starting indices: [0]
-WHAT HAS SHOWN UP ON SCHEDULE.,,['CA', '0'], and starting indices: [0]
-DOES THE SCHEDULE SAY I AM GOING TO WORK.,,['QA', '0'], and starting indices: [0]
-DOES THE SCHEDULE FORCED ME TO DO ANYTHING.,,['CA', '0'], and starting indices: [0]
-THERE I NEED TO WORK TO DAY.,,['QA', '0'], and starting indices: [0]
-THERE I NEED TO SPEND TWO HOURS FIXING COMPUTERS TOMORROW.,,['QA', '0'], and starting indices: [0]
-AUNT HAD SECONDARY STATUS ON THE EXISTING STATIONS IN WHAT OHIO DOWN.,,['QA', '0'], and starting indices: [0]
-THERE I HAVE TO DO SOMETHING TO DAY.,,['CA', '0'], and starting indices: [0]
-I HAVE TO READ THE BOOK TONIGHT.,,['QA', '0'], and starting indices: [0]
-THEN I MAKE ANY APPOINTMENT RECENTLY.,,['QA', '0'], and starting indices: [0]
-WHAT A FINE AND HAVE A ARRANGED.,,['QA', '0'], and starting indices: [0]
-WHAT A FINE AND SHOWS UP IN THIS VIGIL.,,['CA', '0'], and starting indices: [0]
-IS THERE ANY CHUNK OF MY TIME RESERVED TODAY.,,['QA', '0'], and starting indices: [0]
-AND LIKE HEAVILY BUT TO DAY.,,['QA', '0'], and starting indices: [0]
-AND I FREE WEDNESDAY NOON.,,['QA', '0'], and starting indices: [0]
-WELL I BE AVAILABLE TO DO SOMETHING TO MORROW AFTERNOON.,,['CA', '0'], and starting indices: [0]
-WHEN SAID I START DOING THE STUFF ON MY SCHEDULE.,,['CA', '0'], and starting indices: [0]
-WHY WITH ONE PLEAD GUILTY TO A CRIME INVOLVING CIVIL DISOBEDIENCE.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE SCHEDULE.,,['QA', '0'], and starting indices: [0]
-WHAT IS ON MY SCHEDULE.,,['CA', '0'], and starting indices: [0]
-WHAT'S <UNK> I HAVE.,,['QA', '0'], and starting indices: [0]
-WHAT SPECIAL DID I MAKE.,,['QA', '0'], and starting indices: [0]
-WHAT DID I DO LAST WEEK.,,['CA', '0'], and starting indices: [0]
-WHAT HAVE I DONE LAST YEAR.,,['QA', '0'], and starting indices: [0]
-WHAT HAVE I BEEN DOING SINCE LAST TUESDAY.,,['QA', '0'], and starting indices: [0]
-WHAT DID IDLESSE THANKSGIVING.,,['QA', '0'], and starting indices: [0]
-WHY DOES THE CALENDAR TELL ABOUT MY LAST WEEK SCHEDULE.,,['CA', '0'], and starting indices: [0]
-WHAT DO YOU KNOW ABOUT MY PLAN.,,['CA', '0'], and starting indices: [0]
-WHAT IS THE ROLE OF FEATURES IN EDUCATION.,,['QA', '0'], and starting indices: [0]
-WHEN DID I GO SHOPPING LAST WEEK.,,['QA', '0'], and starting indices: [0]
-WHAT DID I DO AFTER WATCHING THE MOVIE YESTERDAY.,,['QA', '0'], and starting indices: [0]
-AND I'M GOING TO DO ANYTHING TO DAY.,,['CA', '0'], and starting indices: [0]
-AND I'M GOING TO ATTEND THE MEETING AT ONE NO.,,['QA', '0'], and starting indices: [0]
-WHAT IS MY ENTIRE CALENDAR FOR TO OWEN FIVE.,,['CA', '0'], and starting indices: [0]
-WHAT IS MY SCHEDULE FOR TO OWEN SEVEN.,,['CA', '0'], and starting indices: [0]
-WHAT SHOULD I DO FOR THE NEXT COUPLE OF DAYS.,,['CA', '0'], and starting indices: [0]
-WHAT AM I GOING TO JUVENILE MORNING.,,['CA', '0'], and starting indices: [0]
-WHAT WILL I DO FOR THE FOLLOWING WEAK.,,['CA', '0'], and starting indices: [0]
-WHAT WILL I DO FOR THE NEXT COUPLE OF HOURS.,,['CA', '0'], and starting indices: [0]
-WHO CLAIMED THAT THE NAME BLACK DEATH FIRST APPEARED IN ONE SIXTY ONE.,,['QA', '0'], and starting indices: [0]
-WHAT IS ON MY PLAY TODAY.,,['CA', '0'], and starting indices: [0]
-WHAT WAS ON MY PLATE LAST NIGHT.,,['CA', '0'], and starting indices: [0]
-WHAT WILL BE ON MY PLAYED THE SATURDAY AFTERNOON.,,['CA', '0'], and starting indices: [0]
-WHAT IS THERE LIEST CLASS I HAVE FOR TO MORROW.,,['QA', '0'], and starting indices: [0]
-WHEN WILL THE LECTURE FINISHED TOMORROW AFTERNOON.,,['QA', '0'], and starting indices: [0]
-WHAT IDEA FOR CLASS EVERY DAY.,,['QA', '0'], and starting indices: [0]
-WHAT AM I GOING BEFORE DINNER AT SIX P M.,,['CA', '0'], and starting indices: [0]
-WHAT ACTIVITY DO I USUALLY DO IN THE MORNING.,,['CA', '0'], and starting indices: [0]
-WHAT ACTIVITY WILL I GIVE THE MORROW MORNING.,,['QA', '0'], and starting indices: [0]
-DID I SPENT SEVERAL HOURS READING BOOKS LAST MONTH.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE NICKNAME FOR THE DEALT IN THE NETHERLANDS.,,['QA', '0'], and starting indices: [0]
-HOW OFTEN DID I TRAVEL LAST YEAR.,,['QA', '0'], and starting indices: [0]
-HOW LONG DID TRAVELING FAST ME LAST WEEK.,,['QA', '0'], and starting indices: [0]
-HOW LONG WILL I SPEND ON PROGRAMMING NEXT WEEK.,,['CA', '0'], and starting indices: [0]
-HOW LONG WILL THE FINAL EXAM BE IN DECEMBER.,,['QA', '0'], and starting indices: [0]
-WHAT EXACTLY DID I DO ON NOVEMBER TO REFUTE YO UNSEXED.,,['CA', '0'], and starting indices: [0]
-LEST MY VANTS TO MORROW.,,['CA', '0'], and starting indices: [0]
-LEST MY SCHEDULE.,,['CA', '0'], and starting indices: [0]
-TELL ME IF I AM FREE FROM FIVE TO SEVEN TONIGHT.,,['QA', '0'], and starting indices: [0]
-CAN YOU TELL ME MY PLAN TODAY.,,['QA', '0'], and starting indices: [0]
-DO YOU MIND REPORTING MY CALENDAR FOR THIS WEEK.,,['CA', '0'], and starting indices: [0]
-WESTERN GOVERNMENTS CONSIDERED ISLAM IS TO BE THE LESSER OF THREE VOLS WHEN COMPARED TO WHOM.,,['QA', '0'], and starting indices: [0]
-PLEASE GIVE EVENTS ON THE SCHEDULE.,,['QA', '0'], and starting indices: [0]
-PLEASE TELL ME THE STUFF I AM SUPPOSED TO DO RIGHT NOW.,,['QA', '0'], and starting indices: [0]
-PLEASE SAY YES IF I AM BUSY ALL DAY TO DAY.,,['QA', '0'], and starting indices: [0]
-RETURN NOW IF I WON'T BE FOR TO MORROW.,,['QA', '0'], and starting indices: [0]
-IS IT A CAVE FOR ME TO SPEND THREE HOURS PLAYING FOOTBALL TONIGHT.,,['QA', '0'], and starting indices: [0]
-AND MY FINE IF I COULD TO MORROW NIGHT FOR FRIO MINUTES.,,['CA', '0'], and starting indices: [0]
-AND I HAVE BUSY PERSON INTO OWEN SIX IN THE UNITED STATES.,,['QA', '0'], and starting indices: [0]
-WHAT HAVE I BEEN DOING SINCE I CAME TO THE UNITED STATES INTO OWEN FOR.,,['QA', '0'], and starting indices: [0]
-HOW OFTEN HAVE ADVENTURE THAT RESTAURANT SINCE LAST WEEK.,,['QA', '0'], and starting indices: [0]
-HOW OFTEN WILL I GO TO THE PARK GIVEN MY CURRENT DAILY ROUTINE.,,['CA', '0'], and starting indices: [0]
-HOW MANY TONS OF BELIEVERS AS BUFFOONERY OF PRODUCE.,,['QA', '0'], and starting indices: [0]
-DEAR PREDICT THAT I WILL BE FREE AT FIVE TODAY.,,['CA', '0'], and starting indices: [0]
-HOW MUCH TIME DID I SPEND IN THE UNITED STATES LAST YEAR.,,['QA', '0'], and starting indices: [0]
-HOW MUCH TIME SHOULD I SPEND SLEEPING EVERY DAY.,,['QA', '0'], and starting indices: [0]
-HOW MUCH FREE CHANGE I HAVE TO DAY.,,['QA', '0'], and starting indices: [0]
-HOW LONG WILL IT BE FROM ONE EYE AND THEN ALL THE WORK THROUGH MIDNIGHT.,,['QA', '0'], and starting indices: [0]
-AS TO MORROW I AM A GOOD TIME FOR ME TO ATTEND A MEETING IN THE EXPELLED ING.,,['QA', '0'], and starting indices: [0]
-WHAT IS MY FREQUENCY OF LISTENING TO MUSIC SINCE LAST MONDAY.,,['CA', '0'], and starting indices: [0]
-HOW LONG HAS IT BEEN SINCE MY LAST SHOPPING.,,['QA', '0'], and starting indices: [0]
-HOW LONG HAS PASSED SINCE THE LAST TIME THE HOUSE WAS CLEANED UP ACCORDING TO MY PLAN.,,['QA', '0'], and starting indices: [0]
-ACCORDING TO THE SCHEDULE WILL I BE ABLE TO WATCH THE V TOMORROW NIGHT.,,['CA', '0'], and starting indices: [0]
-AND WHAT COMPLEXITY PLASTER COMPLEMENT PROBLEMS AND PROBLEMS EXIST.,,['QA', '0'], and starting indices: [0]
-IS THERE ANY WAY THROUGH OUR AS CAN BE ARRANGED.,,['QA', '0'], and starting indices: [0]
-WHAT AM I DOING RIGHT NOW FROM THE CALENDAR.,,['CA', '0'], and starting indices: [0]
-THEN I GOING TO MEET TO NIGHT.,,['QA', '0'], and starting indices: [0]
-THEN I GOING TO STUDY WITH NEXT MONTH.,,['CA', '0'], and starting indices: [0]
-WHO AM I GOING TO SPEND THE NEXT FEW HOURS WITH.,,['QA', '0'], and starting indices: [0]
-HAS SPENT TWO HOURS WITH ME LAST NIGHT.,,['QA', '0'], and starting indices: [0]
-HAS SPENT SOME TIME WITH ME SINCE I WENT TO THIS UNIVERSITY INTO OWEN FOR.,,['QA', '0'], and starting indices: [0]
-INSTEAD I SPEND TIME WITH ACCORDING TO MY HABIT INFERRED.,,['CA', '0'], and starting indices: [0]
-WHO HAS THE PERSON I HAVE FOUND MOST FAMILY LAST YEAR.,,['QA', '0'], and starting indices: [0]
-WHO IS GOING TO TALK WITH ME.,,['QA', '0'], and starting indices: [0]
-WHAT CHARTER HAS BECOME AN IMPORTANT ASPECT OF THE LAW.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE MAIN DIFFERENCE BETWEEN ONLINE PHARMACIES AND COMMUNITY PHARMACIES.,,['QA', '0'], and starting indices: [0]
-HOW HAS SEVILLE DISOBEDIENCE EVOLVED IN FRONT TIMES.,,['QA', '0'], and starting indices: [0]
-HE WAS RELICS RESIDE IN THE BECKET CASKET.,,['QA', '0'], and starting indices: [0]
-WHERE WAS THE SANTA MARIA LOCATED WHILE REPAIRS WERE UNDER WAY.,,['QA', '0'], and starting indices: [0]
-DURING THAT PERIOD DID DOWNTOWN FRESNO THRIVE.,,['QA', '0'], and starting indices: [0]
-THAT'S THE WORK EDGE AND THEN ELEVATES TIME IN THE CHAMBER.,,['QA', '0'], and starting indices: [0]
-WHO HAD NO REAL MILITARY POWER DURING THE YEAR ON.,,['QA', '0'], and starting indices: [0]
-HOW MANY TYPES OF MOVEMENTS GIOVANNI SINGULAR HAVE.,,['QA', '0'], and starting indices: [0]
-SOME UNKNOWN THE FEEL THAT FALSI CHIMNEYS MIGHT RESULT IN WHAT.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE MAJOR TRIBUTARY OF THE RHINE.,,['QA', '0'], and starting indices: [0]
-HOW MANY METRIC TONS OF CARBON ARE BELIEVED TO BE STORED IN THE AMAZON FOREST.,,['QA', '0'], and starting indices: [0]
-WHAT TYPE OF TREATMENT ARE PHARMACISTS IMPORTANT FOR.,,['QA', '0'], and starting indices: [0]
-WHY DOES AND PEOPLE CHOSE TO GO TO JAIL FOR THEIR DISOBEDIENCE.,,['QA', '0'], and starting indices: [0]
-HOW MANY VALVES DID THE CORLISS ENGINEERS.,,['QA', '0'], and starting indices: [0]
-WHAT WAS THE BUBONIC PLAGUE MECHANISM RELIANT ON.,,['QA', '0'], and starting indices: [0]
-TO ATTEND THE USE OF PROLONGED BREATHING OF OXYGEN AT SIX A PALLID.,,['QA', '0'], and starting indices: [0]
-ONE WAS THE BRITISH NATIONALITY ACT PASSED.,,['QA', '0'], and starting indices: [0]
-BY WHICH HE ERRED IN THE AMERICAN CARS M P G START TO IMPROVE.,,['QA', '0'], and starting indices: [0]
-WHAT WAS THE NAME OF THE GRATED SATURN I CALLED.,,['QA', '0'], and starting indices: [0]
-WHAT VARIA DID THE RHINE CAPTURE STREAMS.,,['QA', '0'], and starting indices: [0]
-HOW MANY DID THIS EPIDEMIC IN CHINA KILL.,,['QA', '0'], and starting indices: [0]
-WHAT IS USUALLY THE BALL OF TAKING A PLEA BARGAIN.,,['QA', '0'], and starting indices: [0]
-THEIR GENGHIS KHAN UNITE BEFORE HE BEGAN CONQUERING THE REST OF EURASIA.,,['QA', '0'], and starting indices: [0]
-WHO HAS SEEN AS THE ULTIMATE CLIMATE CHANGE AUTHORITY.,,['QA', '0'], and starting indices: [0]
-FELLNER TYPICALLY AWARDS THE CONTRACTOR WHO.,,['QA', '0'], and starting indices: [0]
-BUT WHEN ONE NINE SEVEN EIGHT AND THE JOY FOR YOUR FULL TIME UNDERGRADUATE STUDENTS WERE REQUIRED TO COMPLETE HOW MANY CLASSES OUTSIDE OF THEIR CONCENTRATION.,,['QA', '0'], and starting indices: [0]
-WHO WAS DRAWN TO JACKSONVILLE IN THE ONE NINE ONE O S.,,['QA', '0'], and starting indices: [0]
-IN WHICH AIR DID THE NEWSPAPER DEFINED SOUTHERN CALIFORNIA.,,['QA', '0'], and starting indices: [0]
-HOW LONG HAS VERSION OF THE BEEN RECOGNIZED AS ONE OF THE GENERAL PRINCIPLES OF THE LAW.,,['QA', '0'], and starting indices: [0]
-BUT HAVE SOME PLANTS REAPER PERCY THE GIFTED I CAN LAYER JEAN'S FOR.,,['QA', '0'], and starting indices: [0]
-WHICH FATE AND BEGAN TO GROAN ASSERT ITSELF AND THE TWO O S.,,['QA', '0'], and starting indices: [0]
-WHAT AIR DID THAT THE CASE THOUGH BEFORE THE SUPREME COURT.,,['QA', '0'], and starting indices: [0]
-WHAT PARK IS CLOSE TO JOHN LENNON STREET.,,['QA', '0'], and starting indices: [0]
-AND WHAT YEAR WAS HIS DREAD NOT LAUNCHED.,,['QA', '0'], and starting indices: [0]
-ONE WAS DOLLY CONQUERED BY THE YEAR ON.,,['QA', '0'], and starting indices: [0]
-HOW MANY NOBLE LAUREATES ARE AMONG THE SCHOOL ALUMNI.,,['QA', '0'], and starting indices: [0]
-ONE IS THE LAST TIME OF FUMBLE RETURNED TOUCHDOWN HAVEN'T INSUPERABLE.,,['QA', '0'], and starting indices: [0]
-WHAT GENERALLY DOES NOT ALLOW CITIZENS TO SIR OTHER CITIZENS.,,['QA', '0'], and starting indices: [0]
-HOW MANY DAYS DID THE WARSAW UPRISING LAST.,,['QA', '0'], and starting indices: [0]
-AND ARE LIKE CONDITION IS AN ELEMENTARY DO SIBELLA.,,['QA', '0'], and starting indices: [0]
-WHAT IS'T YOU COMPLEXITY CLASS AS BETWEEN ELLEN P.,,['QA', '0'], and starting indices: [0]
-THEIR TESLA CREDIT FOR HIS ABILITIES.,,['QA', '0'], and starting indices: [0]
-WHY DOES A FEATURE TEACHING PRIMARY SCHOOL.,,['QA', '0'], and starting indices: [0]
-WHAT I HAVE A VALUE WOULD VISIT A FUNCTION HAVE IF THERE WERE FINITE PRIMES.,,['QA', '0'], and starting indices: [0]
-WHAT SAID OPINIONS ARE RESPONSIBLE FOR COMMUNICATION BETWEEN WHITE BLOOD SELVES.,,['QA', '0'], and starting indices: [0]
-THUS FORTH AND VIPER ARE THE LARGEST SHOPPING AREAS OF WHAT TYPE.,,['QA', '0'], and starting indices: [0]
-WHAT HAD TO HAVE INTO EACH MISSION BEFORE THEY WOULD CONTINUE ON TO THE NEXT MISSION.,,['CA', '0'], and starting indices: [0]
-WHAT IS THE PROCESS OF X A NATION ALSO KNOWN AS.,,['QA', '0'], and starting indices: [0]
-WHAT DID FAST WITH THINK THE PLAGUE WAS.,,['QA', '0'], and starting indices: [0]
-I HOW MUCH THEY LABOUR LED LANE BRERETON EAST LOTHIAN.,,['QA', '0'], and starting indices: [0]
-HOW MANY HAVE FOLDS HAS GIVES UNDER THE AGE OF ONE EIGHT LIVING IN THEM.,,['QA', '0'], and starting indices: [0]
-WHAT ALUMNI IS ALSO THE GOVERNOR OF THE BANK OF JAPAN.,,['QA', '0'], and starting indices: [0]
-WHICH MATERIAL IS THE GLOUCESTER CANDLESTICK MADE FROM.,,['QA', '0'], and starting indices: [0]
-WHAT DID THE USE OF STEAM ENGINES AND FARMING LEAD TO.,,['QA', '0'], and starting indices: [0]
-IN MY EAR DID FRESNO GET ITS FIRST PEDESTRIAN MAUL.,,['QA', '0'], and starting indices: [0]
-WHAT ARE SOME PROPOSALS TO CONNECT CANVASES.,,['QA', '0'], and starting indices: [0]
-THE TIDE CAME UP WITH BECAUSE IT WAS NOT PART OF THE CONSORT SHAM.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE AFFAIR I VIC PARASITE RESPONSIBLE FOR MALARIA KNOWN AS.,,['QA', '0'], and starting indices: [0]
-WHAT WAS CARRIED ON EXTENDED LUNAR MISSIONS.,,['QA', '0'], and starting indices: [0]
-WHEN DELIVER WAKENED WITH MORE CHEST PAINS.,,['QA', '0'], and starting indices: [0]
-HOW ENEMY PRISONERS USE TACTICALLY BY MONGOL ARMIES.,,['QA', '0'], and starting indices: [0]
-WHAT ARMS BROOD STOPPED UPRISING AT BALLARAT.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE MAIN JUDICIAL BODY OF THE YOU.,,['QA', '0'], and starting indices: [0]
-WHAT GETS TRANSFERRED TO STUDENTS WHO ARE RECEPTIVE TO THE TEACHER.,,['QA', '0'], and starting indices: [0]
-HOW MANY MEMBERS IN THE SEATS OF THE SCOTTISH PARLIAMENT ARE MEMBERS OF THE SCOTTISH GOVERNMENT.,,['QA', '0'], and starting indices: [0]
-ONE IS THE SUSPENDED TEAM SCHEDULED TO RETURN.,,['QA', '0'], and starting indices: [0]
-WHAT COMPOUNDS CONVENE ASKED FOR THE MOLECULES OF THE HOST SELLIN ORDER FOR A VIRUS TO EVADE DETECTION.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE LIKE NONE AS WHICH WAS CREATED BY THE RISE OF THAN THESE MOUNTAINS.,,['QA', '0'], and starting indices: [0]
-WHAT PLATFORM WAS INTENT AS SPORTS PLANNING ON LUNCHING ON.,,['QA', '0'], and starting indices: [0]
-HOW LONG WILL THE EVENT AT SANTA CLARA CONVENTION CENTRE LAST.,,['QA', '0'], and starting indices: [0]
-WHICH GENDER IS MORE POPULOUS ACROSS ALL GROUPS IN JACKSONVILLE.,,['QA', '0'], and starting indices: [0]
-WHAT LENGTHENED AS THAT MILLIGAN USE AGAINST EVOLVED.,,['QA', '0'], and starting indices: [0]
-WHAT COUNSELS ASSIGNED TASKS TO THEE.,,['QA', '0'], and starting indices: [0]
-AT WHAT TIME DID TESLA GET DINNER.,,['QA', '0'], and starting indices: [0]
-WHAT RAISINS THUS FAILURE OF THE DISOBEDIENCE WITH AUTHORITIES.,,['QA', '0'], and starting indices: [0]
-AND WHAT GROVE OF CONFOUNDS AS OXYGEN UNNECESSARY PART.,,['QA', '0'], and starting indices: [0]
-WHAT WAS A HAPPY DAYS ENOUGH THAT THEY VIEWED IN THE ONE NINE ADDRESS ON UP.,,['QA', '0'], and starting indices: [0]
-WHERE DID THE RESIDENCE OF ANTIOCH FLEE TO.,,['QA', '0'], and starting indices: [0]
-WHAT PERCENTAGE OF FILIPINO PRIMARY SCHOOL STUDENTS ARE IN PRIVATE SCHOOLS.,,['QA', '0'], and starting indices: [0]
-WHAT CARCASE DISAGREE DAVID'S FILLS IN THE UNITED STATES.,,['QA', '0'], and starting indices: [0]
-WHAT GIVEN VARYING PEOPLE PASSED DOWN TO NATIVE POPULATIONS.,,['QA', '0'], and starting indices: [0]
-WHEN DID THE SIEGE OF ANTIOCH TAKE PLACE.,,['QA', '0'], and starting indices: [0]
-HOW MANY STRIVE CHANNELS WERE AVAILABLE TO CUSTOMERS PRIOR TO OF VIRTUE OF FIVE.,,['QA', '0'], and starting indices: [0]
-WHAT BROUGHT THE DOWNFALL OF JACKSONVILLE FELL MAKING.,,['QA', '0'], and starting indices: [0]
-WHAT IS THE GENDER INCOME INEQUALITY IN VAURIEN.,,['QA', '0'], and starting indices: [0]
-WHAT TECHNIQUES AND EARS TO THE GERMAN FALL OF A GRUFFY.,,['QA', '0'], and starting indices: [0]
-WHAT TYPE OF ORGANIZATION WOULD NEED LARGE QUANTITIES OF PURE OXYGEN.,,['QA', '0'], and starting indices: [0]
-IN MY CARRIAGE IN THEM AS ON EXPERIENCE AND ROUTE THAT MAY HAVE BEEN MORE EXTREME THEN INTO A FIVE.,,['CA', '0'], and starting indices: [0]
-IT IS EYEING THE GARDEN FOR THE UNIVERSITY LIBRARY.,,['QA', '0'], and starting indices: [0]
+query,image_path,result
+"WHAT PART HE HAD A VICTORY AND THE TWO L ONE FIVE OF COLLECTION.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS ON THE GRAVEL CALENDAR.",,"['QA', '0'], and starting indices: [0]"
+"WHY DOES THE GIGGLE CALENDAR TELL ME TO DO.",,"['QA', '0'], and starting indices: [0]"
+"WHY DOES THE CALENDAR SAY THAT I OUGHT TO DO.",,"['CA', '0'], and starting indices: [0]"
+"WHAT DID VERY WELL SAY I SHOULD GIVE HIM MAIA.",,"['QA', '0'], and starting indices: [0]"
+"WHY DOES THE GIGGLED CALENDAR THING SAY.",,"['QA', '0'], and starting indices: [0]"
+"WHAT AM I GOING TO DO.",,"['CA', '0'], and starting indices: [0]"
+"WHAT IS MY PLAN.",,"['CA', '0'], and starting indices: [0]"
+"BUT I AND MY PLAN DURING THE NEXT WEEK.",,"['CA', '0'], and starting indices: [0]"
+"WHAT LAND THOUGH I HAVE FOR NEXT MONTH.",,"['QA', '0'], and starting indices: [0]"
+"WHAT STUFF HAVE BEEN PUT ON MY PLAN.",,"['CA', '0'], and starting indices: [0]"
+"THAT ACTIVE IMMUNE SYSTEM MUST DISTINGUISH BETWEEN WHAT TYPES OF MOLECULES.",,"['QA', '0'], and starting indices: [0]"
+"WHAT PLAN HAVE I MADE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT PLAN HAS BEEN MADE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT KIND OF STUFF AND I SUPPOSE TO THIS AFTERNOON.",,"['QA', '0'], and starting indices: [0]"
+"WHAT KIND OF THING TO DO.",,"['CA', '0'], and starting indices: [0]"
+"WHAT TO DO NEXT WEEK.",,"['CA', '0'], and starting indices: [0]"
+"WHAT HAS SHOWN UP ON SCHEDULE.",,"['CA', '0'], and starting indices: [0]"
+"DOES THE SCHEDULE SAY I AM GOING TO WORK.",,"['QA', '0'], and starting indices: [0]"
+"DOES THE SCHEDULE FORCED ME TO DO ANYTHING.",,"['CA', '0'], and starting indices: [0]"
+"THERE I NEED TO WORK TO DAY.",,"['QA', '0'], and starting indices: [0]"
+"THERE I NEED TO SPEND TWO HOURS FIXING COMPUTERS TOMORROW.",,"['QA', '0'], and starting indices: [0]"
+"AUNT HAD SECONDARY STATUS ON THE EXISTING STATIONS IN WHAT OHIO DOWN.",,"['QA', '0'], and starting indices: [0]"
+"THERE I HAVE TO DO SOMETHING TO DAY.",,"['CA', '0'], and starting indices: [0]"
+"I HAVE TO READ THE BOOK TONIGHT.",,"['QA', '0'], and starting indices: [0]"
+"THEN I MAKE ANY APPOINTMENT RECENTLY.",,"['QA', '0'], and starting indices: [0]"
+"WHAT A FINE AND HAVE A ARRANGED.",,"['QA', '0'], and starting indices: [0]"
+"WHAT A FINE AND SHOWS UP IN THIS VIGIL.",,"['CA', '0'], and starting indices: [0]"
+"IS THERE ANY CHUNK OF MY TIME RESERVED TODAY.",,"['QA', '0'], and starting indices: [0]"
+"AND LIKE HEAVILY BUT TO DAY.",,"['QA', '0'], and starting indices: [0]"
+"AND I FREE WEDNESDAY NOON.",,"['QA', '0'], and starting indices: [0]"
+"WELL I BE AVAILABLE TO DO SOMETHING TO MORROW AFTERNOON.",,"['CA', '0'], and starting indices: [0]"
+"WHEN SAID I START DOING THE STUFF ON MY SCHEDULE.",,"['CA', '0'], and starting indices: [0]"
+"WHY WITH ONE PLEAD GUILTY TO A CRIME INVOLVING CIVIL DISOBEDIENCE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE SCHEDULE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS ON MY SCHEDULE.",,"['CA', '0'], and starting indices: [0]"
+"WHAT'S <UNK> I HAVE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT SPECIAL DID I MAKE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT DID I DO LAST WEEK.",,"['CA', '0'], and starting indices: [0]"
+"WHAT HAVE I DONE LAST YEAR.",,"['QA', '0'], and starting indices: [0]"
+"WHAT HAVE I BEEN DOING SINCE LAST TUESDAY.",,"['QA', '0'], and starting indices: [0]"
+"WHAT DID IDLESSE THANKSGIVING.",,"['QA', '0'], and starting indices: [0]"
+"WHY DOES THE CALENDAR TELL ABOUT MY LAST WEEK SCHEDULE.",,"['CA', '0'], and starting indices: [0]"
+"WHAT DO YOU KNOW ABOUT MY PLAN.",,"['CA', '0'], and starting indices: [0]"
+"WHAT IS THE ROLE OF FEATURES IN EDUCATION.",,"['QA', '0'], and starting indices: [0]"
+"WHEN DID I GO SHOPPING LAST WEEK.",,"['QA', '0'], and starting indices: [0]"
+"WHAT DID I DO AFTER WATCHING THE MOVIE YESTERDAY.",,"['QA', '0'], and starting indices: [0]"
+"AND I'M GOING TO DO ANYTHING TO DAY.",,"['CA', '0'], and starting indices: [0]"
+"AND I'M GOING TO ATTEND THE MEETING AT ONE NO.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS MY ENTIRE CALENDAR FOR TO OWEN FIVE.",,"['CA', '0'], and starting indices: [0]"
+"WHAT IS MY SCHEDULE FOR TO OWEN SEVEN.",,"['CA', '0'], and starting indices: [0]"
+"WHAT SHOULD I DO FOR THE NEXT COUPLE OF DAYS.",,"['CA', '0'], and starting indices: [0]"
+"WHAT AM I GOING TO JUVENILE MORNING.",,"['CA', '0'], and starting indices: [0]"
+"WHAT WILL I DO FOR THE FOLLOWING WEAK.",,"['CA', '0'], and starting indices: [0]"
+"WHAT WILL I DO FOR THE NEXT COUPLE OF HOURS.",,"['CA', '0'], and starting indices: [0]"
+"WHO CLAIMED THAT THE NAME BLACK DEATH FIRST APPEARED IN ONE SIXTY ONE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS ON MY PLAY TODAY.",,"['CA', '0'], and starting indices: [0]"
+"WHAT WAS ON MY PLATE LAST NIGHT.",,"['CA', '0'], and starting indices: [0]"
+"WHAT WILL BE ON MY PLAYED THE SATURDAY AFTERNOON.",,"['CA', '0'], and starting indices: [0]"
+"WHAT IS THERE LIEST CLASS I HAVE FOR TO MORROW.",,"['QA', '0'], and starting indices: [0]"
+"WHEN WILL THE LECTURE FINISHED TOMORROW AFTERNOON.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IDEA FOR CLASS EVERY DAY.",,"['QA', '0'], and starting indices: [0]"
+"WHAT AM I GOING BEFORE DINNER AT SIX P M.",,"['CA', '0'], and starting indices: [0]"
+"WHAT ACTIVITY DO I USUALLY DO IN THE MORNING.",,"['CA', '0'], and starting indices: [0]"
+"WHAT ACTIVITY WILL I GIVE THE MORROW MORNING.",,"['QA', '0'], and starting indices: [0]"
+"DID I SPENT SEVERAL HOURS READING BOOKS LAST MONTH.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE NICKNAME FOR THE DEALT IN THE NETHERLANDS.",,"['QA', '0'], and starting indices: [0]"
+"HOW OFTEN DID I TRAVEL LAST YEAR.",,"['QA', '0'], and starting indices: [0]"
+"HOW LONG DID TRAVELING FAST ME LAST WEEK.",,"['QA', '0'], and starting indices: [0]"
+"HOW LONG WILL I SPEND ON PROGRAMMING NEXT WEEK.",,"['CA', '0'], and starting indices: [0]"
+"HOW LONG WILL THE FINAL EXAM BE IN DECEMBER.",,"['QA', '0'], and starting indices: [0]"
+"WHAT EXACTLY DID I DO ON NOVEMBER TO REFUTE YO UNSEXED.",,"['CA', '0'], and starting indices: [0]"
+"LEST MY VANTS TO MORROW.",,"['CA', '0'], and starting indices: [0]"
+"LEST MY SCHEDULE.",,"['CA', '0'], and starting indices: [0]"
+"TELL ME IF I AM FREE FROM FIVE TO SEVEN TONIGHT.",,"['QA', '0'], and starting indices: [0]"
+"CAN YOU TELL ME MY PLAN TODAY.",,"['QA', '0'], and starting indices: [0]"
+"DO YOU MIND REPORTING MY CALENDAR FOR THIS WEEK.",,"['CA', '0'], and starting indices: [0]"
+"WESTERN GOVERNMENTS CONSIDERED ISLAM IS TO BE THE LESSER OF THREE VOLS WHEN COMPARED TO WHOM.",,"['QA', '0'], and starting indices: [0]"
+"PLEASE GIVE EVENTS ON THE SCHEDULE.",,"['QA', '0'], and starting indices: [0]"
+"PLEASE TELL ME THE STUFF I AM SUPPOSED TO DO RIGHT NOW.",,"['QA', '0'], and starting indices: [0]"
+"PLEASE SAY YES IF I AM BUSY ALL DAY TO DAY.",,"['QA', '0'], and starting indices: [0]"
+"RETURN NOW IF I WON'T BE FOR TO MORROW.",,"['QA', '0'], and starting indices: [0]"
+"IS IT A CAVE FOR ME TO SPEND THREE HOURS PLAYING FOOTBALL TONIGHT.",,"['QA', '0'], and starting indices: [0]"
+"AND MY FINE IF I COULD TO MORROW NIGHT FOR FRIO MINUTES.",,"['CA', '0'], and starting indices: [0]"
+"AND I HAVE BUSY PERSON INTO OWEN SIX IN THE UNITED STATES.",,"['QA', '0'], and starting indices: [0]"
+"WHAT HAVE I BEEN DOING SINCE I CAME TO THE UNITED STATES INTO OWEN FOR.",,"['QA', '0'], and starting indices: [0]"
+"HOW OFTEN HAVE ADVENTURE THAT RESTAURANT SINCE LAST WEEK.",,"['QA', '0'], and starting indices: [0]"
+"HOW OFTEN WILL I GO TO THE PARK GIVEN MY CURRENT DAILY ROUTINE.",,"['CA', '0'], and starting indices: [0]"
+"HOW MANY TONS OF BELIEVERS AS BUFFOONERY OF PRODUCE.",,"['QA', '0'], and starting indices: [0]"
+"DEAR PREDICT THAT I WILL BE FREE AT FIVE TODAY.",,"['CA', '0'], and starting indices: [0]"
+"HOW MUCH TIME DID I SPEND IN THE UNITED STATES LAST YEAR.",,"['QA', '0'], and starting indices: [0]"
+"HOW MUCH TIME SHOULD I SPEND SLEEPING EVERY DAY.",,"['QA', '0'], and starting indices: [0]"
+"HOW MUCH FREE CHANGE I HAVE TO DAY.",,"['QA', '0'], and starting indices: [0]"
+"HOW LONG WILL IT BE FROM ONE EYE AND THEN ALL THE WORK THROUGH MIDNIGHT.",,"['QA', '0'], and starting indices: [0]"
+"AS TO MORROW I AM A GOOD TIME FOR ME TO ATTEND A MEETING IN THE EXPELLED ING.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS MY FREQUENCY OF LISTENING TO MUSIC SINCE LAST MONDAY.",,"['CA', '0'], and starting indices: [0]"
+"HOW LONG HAS IT BEEN SINCE MY LAST SHOPPING.",,"['QA', '0'], and starting indices: [0]"
+"HOW LONG HAS PASSED SINCE THE LAST TIME THE HOUSE WAS CLEANED UP ACCORDING TO MY PLAN.",,"['QA', '0'], and starting indices: [0]"
+"ACCORDING TO THE SCHEDULE WILL I BE ABLE TO WATCH THE V TOMORROW NIGHT.",,"['CA', '0'], and starting indices: [0]"
+"AND WHAT COMPLEXITY PLASTER COMPLEMENT PROBLEMS AND PROBLEMS EXIST.",,"['QA', '0'], and starting indices: [0]"
+"IS THERE ANY WAY THROUGH OUR AS CAN BE ARRANGED.",,"['QA', '0'], and starting indices: [0]"
+"WHAT AM I DOING RIGHT NOW FROM THE CALENDAR.",,"['CA', '0'], and starting indices: [0]"
+"THEN I GOING TO MEET TO NIGHT.",,"['QA', '0'], and starting indices: [0]"
+"THEN I GOING TO STUDY WITH NEXT MONTH.",,"['CA', '0'], and starting indices: [0]"
+"WHO AM I GOING TO SPEND THE NEXT FEW HOURS WITH.",,"['QA', '0'], and starting indices: [0]"
+"HAS SPENT TWO HOURS WITH ME LAST NIGHT.",,"['QA', '0'], and starting indices: [0]"
+"HAS SPENT SOME TIME WITH ME SINCE I WENT TO THIS UNIVERSITY INTO OWEN FOR.",,"['QA', '0'], and starting indices: [0]"
+"INSTEAD I SPEND TIME WITH ACCORDING TO MY HABIT INFERRED.",,"['CA', '0'], and starting indices: [0]"
+"WHO HAS THE PERSON I HAVE FOUND MOST FAMILY LAST YEAR.",,"['QA', '0'], and starting indices: [0]"
+"WHO IS GOING TO TALK WITH ME.",,"['QA', '0'], and starting indices: [0]"
+"WHAT CHARTER HAS BECOME AN IMPORTANT ASPECT OF THE LAW.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE MAIN DIFFERENCE BETWEEN ONLINE PHARMACIES AND COMMUNITY PHARMACIES.",,"['QA', '0'], and starting indices: [0]"
+"HOW HAS SEVILLE DISOBEDIENCE EVOLVED IN FRONT TIMES.",,"['QA', '0'], and starting indices: [0]"
+"HE WAS RELICS RESIDE IN THE BECKET CASKET.",,"['QA', '0'], and starting indices: [0]"
+"WHERE WAS THE SANTA MARIA LOCATED WHILE REPAIRS WERE UNDER WAY.",,"['QA', '0'], and starting indices: [0]"
+"DURING THAT PERIOD DID DOWNTOWN FRESNO THRIVE.",,"['QA', '0'], and starting indices: [0]"
+"THAT'S THE WORK EDGE AND THEN ELEVATES TIME IN THE CHAMBER.",,"['QA', '0'], and starting indices: [0]"
+"WHO HAD NO REAL MILITARY POWER DURING THE YEAR ON.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY TYPES OF MOVEMENTS GIOVANNI SINGULAR HAVE.",,"['QA', '0'], and starting indices: [0]"
+"SOME UNKNOWN THE FEEL THAT FALSI CHIMNEYS MIGHT RESULT IN WHAT.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE MAJOR TRIBUTARY OF THE RHINE.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY METRIC TONS OF CARBON ARE BELIEVED TO BE STORED IN THE AMAZON FOREST.",,"['QA', '0'], and starting indices: [0]"
+"WHAT TYPE OF TREATMENT ARE PHARMACISTS IMPORTANT FOR.",,"['QA', '0'], and starting indices: [0]"
+"WHY DOES AND PEOPLE CHOSE TO GO TO JAIL FOR THEIR DISOBEDIENCE.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY VALVES DID THE CORLISS ENGINEERS.",,"['QA', '0'], and starting indices: [0]"
+"WHAT WAS THE BUBONIC PLAGUE MECHANISM RELIANT ON.",,"['QA', '0'], and starting indices: [0]"
+"TO ATTEND THE USE OF PROLONGED BREATHING OF OXYGEN AT SIX A PALLID.",,"['QA', '0'], and starting indices: [0]"
+"ONE WAS THE BRITISH NATIONALITY ACT PASSED.",,"['QA', '0'], and starting indices: [0]"
+"BY WHICH HE ERRED IN THE AMERICAN CARS M P G START TO IMPROVE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT WAS THE NAME OF THE GRATED SATURN I CALLED.",,"['QA', '0'], and starting indices: [0]"
+"WHAT VARIA DID THE RHINE CAPTURE STREAMS.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY DID THIS EPIDEMIC IN CHINA KILL.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS USUALLY THE BALL OF TAKING A PLEA BARGAIN.",,"['QA', '0'], and starting indices: [0]"
+"THEIR GENGHIS KHAN UNITE BEFORE HE BEGAN CONQUERING THE REST OF EURASIA.",,"['QA', '0'], and starting indices: [0]"
+"WHO HAS SEEN AS THE ULTIMATE CLIMATE CHANGE AUTHORITY.",,"['QA', '0'], and starting indices: [0]"
+"FELLNER TYPICALLY AWARDS THE CONTRACTOR WHO.",,"['QA', '0'], and starting indices: [0]"
+"BUT WHEN ONE NINE SEVEN EIGHT AND THE JOY FOR YOUR FULL TIME UNDERGRADUATE STUDENTS WERE REQUIRED TO COMPLETE HOW MANY CLASSES OUTSIDE OF THEIR CONCENTRATION.",,"['QA', '0'], and starting indices: [0]"
+"WHO WAS DRAWN TO JACKSONVILLE IN THE ONE NINE ONE O S.",,"['QA', '0'], and starting indices: [0]"
+"IN WHICH AIR DID THE NEWSPAPER DEFINED SOUTHERN CALIFORNIA.",,"['QA', '0'], and starting indices: [0]"
+"HOW LONG HAS VERSION OF THE BEEN RECOGNIZED AS ONE OF THE GENERAL PRINCIPLES OF THE LAW.",,"['QA', '0'], and starting indices: [0]"
+"BUT HAVE SOME PLANTS REAPER PERCY THE GIFTED I CAN LAYER JEAN'S FOR.",,"['QA', '0'], and starting indices: [0]"
+"WHICH FATE AND BEGAN TO GROAN ASSERT ITSELF AND THE TWO O S.",,"['QA', '0'], and starting indices: [0]"
+"WHAT AIR DID THAT THE CASE THOUGH BEFORE THE SUPREME COURT.",,"['QA', '0'], and starting indices: [0]"
+"WHAT PARK IS CLOSE TO JOHN LENNON STREET.",,"['QA', '0'], and starting indices: [0]"
+"AND WHAT YEAR WAS HIS DREAD NOT LAUNCHED.",,"['QA', '0'], and starting indices: [0]"
+"ONE WAS DOLLY CONQUERED BY THE YEAR ON.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY NOBLE LAUREATES ARE AMONG THE SCHOOL ALUMNI.",,"['QA', '0'], and starting indices: [0]"
+"ONE IS THE LAST TIME OF FUMBLE RETURNED TOUCHDOWN HAVEN'T INSUPERABLE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT GENERALLY DOES NOT ALLOW CITIZENS TO SIR OTHER CITIZENS.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY DAYS DID THE WARSAW UPRISING LAST.",,"['QA', '0'], and starting indices: [0]"
+"AND ARE LIKE CONDITION IS AN ELEMENTARY DO SIBELLA.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS'T YOU COMPLEXITY CLASS AS BETWEEN ELLEN P.",,"['QA', '0'], and starting indices: [0]"
+"THEIR TESLA CREDIT FOR HIS ABILITIES.",,"['QA', '0'], and starting indices: [0]"
+"WHY DOES A FEATURE TEACHING PRIMARY SCHOOL.",,"['QA', '0'], and starting indices: [0]"
+"WHAT I HAVE A VALUE WOULD VISIT A FUNCTION HAVE IF THERE WERE FINITE PRIMES.",,"['QA', '0'], and starting indices: [0]"
+"WHAT SAID OPINIONS ARE RESPONSIBLE FOR COMMUNICATION BETWEEN WHITE BLOOD SELVES.",,"['QA', '0'], and starting indices: [0]"
+"THUS FORTH AND VIPER ARE THE LARGEST SHOPPING AREAS OF WHAT TYPE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT HAD TO HAVE INTO EACH MISSION BEFORE THEY WOULD CONTINUE ON TO THE NEXT MISSION.",,"['CA', '0'], and starting indices: [0]"
+"WHAT IS THE PROCESS OF X A NATION ALSO KNOWN AS.",,"['QA', '0'], and starting indices: [0]"
+"WHAT DID FAST WITH THINK THE PLAGUE WAS.",,"['QA', '0'], and starting indices: [0]"
+"I HOW MUCH THEY LABOUR LED LANE BRERETON EAST LOTHIAN.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY HAVE FOLDS HAS GIVES UNDER THE AGE OF ONE EIGHT LIVING IN THEM.",,"['QA', '0'], and starting indices: [0]"
+"WHAT ALUMNI IS ALSO THE GOVERNOR OF THE BANK OF JAPAN.",,"['QA', '0'], and starting indices: [0]"
+"WHICH MATERIAL IS THE GLOUCESTER CANDLESTICK MADE FROM.",,"['QA', '0'], and starting indices: [0]"
+"WHAT DID THE USE OF STEAM ENGINES AND FARMING LEAD TO.",,"['QA', '0'], and starting indices: [0]"
+"IN MY EAR DID FRESNO GET ITS FIRST PEDESTRIAN MAUL.",,"['QA', '0'], and starting indices: [0]"
+"WHAT ARE SOME PROPOSALS TO CONNECT CANVASES.",,"['QA', '0'], and starting indices: [0]"
+"THE TIDE CAME UP WITH BECAUSE IT WAS NOT PART OF THE CONSORT SHAM.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE AFFAIR I VIC PARASITE RESPONSIBLE FOR MALARIA KNOWN AS.",,"['QA', '0'], and starting indices: [0]"
+"WHAT WAS CARRIED ON EXTENDED LUNAR MISSIONS.",,"['QA', '0'], and starting indices: [0]"
+"WHEN DELIVER WAKENED WITH MORE CHEST PAINS.",,"['QA', '0'], and starting indices: [0]"
+"HOW ENEMY PRISONERS USE TACTICALLY BY MONGOL ARMIES.",,"['QA', '0'], and starting indices: [0]"
+"WHAT ARMS BROOD STOPPED UPRISING AT BALLARAT.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE MAIN JUDICIAL BODY OF THE YOU.",,"['QA', '0'], and starting indices: [0]"
+"WHAT GETS TRANSFERRED TO STUDENTS WHO ARE RECEPTIVE TO THE TEACHER.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY MEMBERS IN THE SEATS OF THE SCOTTISH PARLIAMENT ARE MEMBERS OF THE SCOTTISH GOVERNMENT.",,"['QA', '0'], and starting indices: [0]"
+"ONE IS THE SUSPENDED TEAM SCHEDULED TO RETURN.",,"['QA', '0'], and starting indices: [0]"
+"WHAT COMPOUNDS CONVENE ASKED FOR THE MOLECULES OF THE HOST SELLIN ORDER FOR A VIRUS TO EVADE DETECTION.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE LIKE NONE AS WHICH WAS CREATED BY THE RISE OF THAN THESE MOUNTAINS.",,"['QA', '0'], and starting indices: [0]"
+"WHAT PLATFORM WAS INTENT AS SPORTS PLANNING ON LUNCHING ON.",,"['QA', '0'], and starting indices: [0]"
+"HOW LONG WILL THE EVENT AT SANTA CLARA CONVENTION CENTRE LAST.",,"['QA', '0'], and starting indices: [0]"
+"WHICH GENDER IS MORE POPULOUS ACROSS ALL GROUPS IN JACKSONVILLE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT LENGTHENED AS THAT MILLIGAN USE AGAINST EVOLVED.",,"['QA', '0'], and starting indices: [0]"
+"WHAT COUNSELS ASSIGNED TASKS TO THEE.",,"['QA', '0'], and starting indices: [0]"
+"AT WHAT TIME DID TESLA GET DINNER.",,"['QA', '0'], and starting indices: [0]"
+"WHAT RAISINS THUS FAILURE OF THE DISOBEDIENCE WITH AUTHORITIES.",,"['QA', '0'], and starting indices: [0]"
+"AND WHAT GROVE OF CONFOUNDS AS OXYGEN UNNECESSARY PART.",,"['QA', '0'], and starting indices: [0]"
+"WHAT WAS A HAPPY DAYS ENOUGH THAT THEY VIEWED IN THE ONE NINE ADDRESS ON UP.",,"['QA', '0'], and starting indices: [0]"
+"WHERE DID THE RESIDENCE OF ANTIOCH FLEE TO.",,"['QA', '0'], and starting indices: [0]"
+"WHAT PERCENTAGE OF FILIPINO PRIMARY SCHOOL STUDENTS ARE IN PRIVATE SCHOOLS.",,"['QA', '0'], and starting indices: [0]"
+"WHAT CARCASE DISAGREE DAVID'S FILLS IN THE UNITED STATES.",,"['QA', '0'], and starting indices: [0]"
+"WHAT GIVEN VARYING PEOPLE PASSED DOWN TO NATIVE POPULATIONS.",,"['QA', '0'], and starting indices: [0]"
+"WHEN DID THE SIEGE OF ANTIOCH TAKE PLACE.",,"['QA', '0'], and starting indices: [0]"
+"HOW MANY STRIVE CHANNELS WERE AVAILABLE TO CUSTOMERS PRIOR TO OF VIRTUE OF FIVE.",,"['QA', '0'], and starting indices: [0]"
+"WHAT BROUGHT THE DOWNFALL OF JACKSONVILLE FELL MAKING.",,"['QA', '0'], and starting indices: [0]"
+"WHAT IS THE GENDER INCOME INEQUALITY IN VAURIEN.",,"['QA', '0'], and starting indices: [0]"
+"WHAT TECHNIQUES AND EARS TO THE GERMAN FALL OF A GRUFFY.",,"['QA', '0'], and starting indices: [0]"
+"WHAT TYPE OF ORGANIZATION WOULD NEED LARGE QUANTITIES OF PURE OXYGEN.",,"['QA', '0'], and starting indices: [0]"
+"IN MY CARRIAGE IN THEM AS ON EXPERIENCE AND ROUTE THAT MAY HAVE BEEN MORE EXTREME THEN INTO A FIVE.",,"['CA', '0'], and starting indices: [0]"
+"IT IS EYEING THE GARDEN FOR THE UNIVERSITY LIBRARY.",,"['QA', '0'], and starting indices: [0]"

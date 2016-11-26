@@ -1,3 +1,4 @@
+audio_file_path,query
 ../asr_qa/speech/0_WhoisthecurrentpresidentoftheUnitedStatesofAmerica.wav,"so is the current president of the united states of america."
 ../asr_qa/speech/10_WhofoundedGoogle.wav,"sometimes they'll."
 ../asr_qa/speech/11_WholaunchedFacebook.wav,"so i suspect."

@@ -1,200 +1,201 @@
-what party had a victory and she'll and says it's election.,,['QA', '0'], and starting indices: [0]
-what is on the google challenger.,,['QA', '0'], and starting indices: [0]
-no it doesn't get real challenge or tell me to do.,,['QA', '0'], and starting indices: [0]
-and does the calendars say then i ought to do.,,['QA', '0'], and starting indices: [0]
-what did do they'll say i should do the marta.,,['CA', '0'], and starting indices: [0]
-i just think it'll tell under saying say.,,['QA', '0'], and starting indices: [0]
-what am i going to june.,,['CA', '0'], and starting indices: [0]
-what is my plan.,,['CA', '0'], and starting indices: [0]
-but i and i plan during the next week.,,['CA', '0'], and starting indices: [0]
-what do i have four next month.,,['CA', '0'], and starting indices: [0]
-let's just have been put on my plan.,,['CA', '0'], and starting indices: [0]
-that's your immune system us distinguish between what types of molecules.,,['QA', '0'], and starting indices: [0]
-what what have i made.,,['CA', '0'], and starting indices: [0]
-what's that has been made.,,['QA', '0'], and starting indices: [0]
-what kind of stuff and i suppose to this afternoon.,,['QA', '0'], and starting indices: [0]
-what kind of thing to do.,,['CA', '0'], and starting indices: [0]
-what you do next week.,,['CA', '0'], and starting indices: [0]
-what has shown up on stencil.,,['QA', '0'], and starting indices: [0]
-that's the schedule say i'm going to work.,,['QA', '0'], and starting indices: [0]
-does the stencil forced me to do anything.,,['QA', '0'], and starting indices: [0]
-do i need to work today.,,['CA', '0'], and starting indices: [0]
-do i need to spend two hours fixing computers tomorrow.,,['CA', '0'], and starting indices: [0]
-oh ten secondary status on the existing stations and letting hire them.,,['QA', '0'], and starting indices: [0]
-do i have to do something today.,,['CA', '0'], and starting indices: [0]
-do i have to read the book tonight.,,['QA', '0'], and starting indices: [0]
-doing making employment recently.,,['QA', '0'], and starting indices: [0]
-well that's fine and have a range.,,['QA', '0'], and starting indices: [0]
-well that's fine that shows up in the special.,,['QA', '0'], and starting indices: [0]
-is there any chance of my time reserved today.,,['QA', '0'], and starting indices: [0]
-and i totally but today.,,['QA', '0'], and starting indices: [0]
-and i freelance union.,,['QA', '0'], and starting indices: [0]
-well i'd be available to do something tomorrow afternoon.,,['CA', '0'], and starting indices: [0]
-and should i start doing the stuff on my schedule.,,['CA', '0'], and starting indices: [0]
-well i was monthly bill teacher crime involving civil disobedience.,,['QA', '0'], and starting indices: [0]
-what is the stencil.,,['QA', '0'], and starting indices: [0]
-what is on my schedule.,,['CA', '0'], and starting indices: [0]
-let's send you'll do i have.,,['CA', '0'], and starting indices: [0]
-what's pensions and i make.,,['QA', '0'], and starting indices: [0]
-what did i do last week.,,['CA', '0'], and starting indices: [0]
-but how then last year.,,['QA', '0'], and starting indices: [0]
-but how they've been doing since last tuesday.,,['QA', '0'], and starting indices: [0]
-what did i do last thanksgiving.,,['CA', '0'], and starting indices: [0]
-and does the calendar tell about my last week's schedule.,,['CA', '0'], and starting indices: [0]
-but you know about my plan.,,['CA', '0'], and starting indices: [0]
-what is the role of teachers in education.,,['QA', '0'], and starting indices: [0]
-and then i go shopping last week.,,['QA', '0'], and starting indices: [0]
-what did i do after watching the movie yesterday.,,['QA', '0'], and starting indices: [0]
-and i'm going to do anything today.,,['CA', '0'], and starting indices: [0]
-and i'm going to attend a meeting at one though.,,['QA', '0'], and starting indices: [0]
-what is my entire calendar for show and five.,,['CA', '0'], and starting indices: [0]
-what is nice gentle sociable and seven.,,['QA', '0'], and starting indices: [0]
-what should i do for the next couple of days.,,['CA', '0'], and starting indices: [0]
-what am i going to do than i am learning.,,['CA', '0'], and starting indices: [0]
-like well i do for the following week.,,['CA', '0'], and starting indices: [0]
-like well i just for the next couple of hours.,,['QA', '0'], and starting indices: [0]
-the plane that the name black debts first appeared in one sixty one.,,['QA', '0'], and starting indices: [0]
-what is on my plate today.,,['CA', '0'], and starting indices: [0]
-what was on my plate last night.,,['CA', '0'], and starting indices: [0]
-well they'll be on my plate this saturday afternoon.,,['CA', '0'], and starting indices: [0]
-what is the earliest class i have for tomorrow.,,['QA', '0'], and starting indices: [0]
-i know the lectures finish tomorrow afternoon.,,['QA', '0'], and starting indices: [0]
-but yeah i do after class every day.,,['CA', '0'], and starting indices: [0]
-what am i doing this for dinner at sixty and.,,['CA', '0'], and starting indices: [0]
-well that's good that you do i usually do in the morning.,,['CA', '0'], and starting indices: [0]
-well that's good that you will i do the morning.,,['CA', '0'], and starting indices: [0]
-'cause i spend several hours reading books last month.,,['QA', '0'], and starting indices: [0]
-what is the nickname for the children the netherlands.,,['QA', '0'], and starting indices: [0]
-oh and and i traveled last year.,,['QA', '0'], and starting indices: [0]
-hello i'm the traveling tossed me last week.,,['QA', '0'], and starting indices: [0]
-oh i know i spend on programming next week.,,['CA', '0'], and starting indices: [0]
-oh i know the final eggs and the in december.,,['QA', '0'], and starting indices: [0]
-what exactly did i do on november choo choo choo ellen sex.,,['CA', '0'], and starting indices: [0]
-nice nice vents tomorrow.,,['QA', '0'], and starting indices: [0]
-nice nice denzel.,,['QA', '0'], and starting indices: [0]
-tell me if i am free from side to seven tonight.,,['QA', '0'], and starting indices: [0]
-did you tell me my plan today.,,['QA', '0'], and starting indices: [0]
-do you mind reporting my calendar for this week.,,['CA', '0'], and starting indices: [0]
-western governments considered islamists to be the lesser of two evils and compared to whom.,,['QA', '0'], and starting indices: [0]
-he's given events on the schedule.,,['QA', '0'], and starting indices: [0]
-please tell me the stuff i am supposed to do right now.,,['QA', '0'], and starting indices: [0]
-so you say yes i am busy all day today.,,['QA', '0'], and starting indices: [0]
-which i know that's i won't be free tomorrow.,,['CA', '0'], and starting indices: [0]
-is it okay for me to spend three hours playing football tonight.,,['QA', '0'], and starting indices: [0]
-and i find if i could summer night source radio minutes.,,['QA', '0'], and starting indices: [0]
-and i had a busy person enjoy when sex in the united states.,,['QA', '0'], and starting indices: [0]
-i haven't been doing since i came to the united states and two and four.,,['QA', '0'], and starting indices: [0]
-oh i haven't been to that restaurant since last week.,,['QA', '0'], and starting indices: [0]
-oh and when i go to the park given my current daily routine.,,['CA', '0'], and starting indices: [0]
-how many tens of movies as <unk> produced.,,['QA', '0'], and starting indices: [0]
-do you predict that i will be free outside today.,,['CA', '0'], and starting indices: [0]
-how much time did i spend in the united states last year.,,['QA', '0'], and starting indices: [0]
-how much time should i spend sleeping every day.,,['QA', '0'], and starting indices: [0]
-how much free time do i have today.,,['CA', '0'], and starting indices: [0]
-hello nancy from one and then all the work to midnight.,,['QA', '0'], and starting indices: [0]
-it's a good time for me to attend a meeting and they still doing.,,['QA', '0'], and starting indices: [0]
-what is nice frequency of listening to music since last monday.,,['QA', '0'], and starting indices: [0]
-how long has it been since my last shopping.,,['QA', '0'], and starting indices: [0]
-how long has passed since the last time the house with queen that's according to my plan.,,['QA', '0'], and starting indices: [0]
-according to this ten july be able to watch t._v. tomorrow night.,,['CA', '0'], and starting indices: [0]
-like a plastic something and problems and problems exist.,,['QA', '0'], and starting indices: [0]
-is there anyway two hours to be arranged.,,['QA', '0'], and starting indices: [0]
-what am i doing right now from the challenger.,,['QA', '0'], and starting indices: [0]
-so am i going to me tonight.,,['QA', '0'], and starting indices: [0]
-so am i going to study with next month.,,['CA', '0'], and starting indices: [0]
-so am i going to spend the next few hours with.,,['CA', '0'], and starting indices: [0]
-so that spend two hours with me last night.,,['QA', '0'], and starting indices: [0]
-[laughter] i spent some time with me since i went to this university and two and four.,,['QA', '0'], and starting indices: [0]
-should i spend time with the card into my habit inferred.,,['CA', '0'], and starting indices: [0]
-so is the person i have friends most time was last year.,,['QA', '0'], and starting indices: [0]
-so is dying to talk with me.,,['QA', '0'], and starting indices: [0]
-let's try very husband's an important aspect of you law.,,['QA', '0'], and starting indices: [0]
-what is the main difference between online pharmacies and community pharmacies.,,['QA', '0'], and starting indices: [0]
-uh-huh so they'll disobedience involved in front times.,,['QA', '0'], and starting indices: [0]
-is that like strays i didn't have to take tests that.,,['QA', '0'], and starting indices: [0]
-hi my name's shannon relocated while repairs we're under a.,,['CA', '0'], and starting indices: [0]
-during that period in down town fresno fries.,,['QA', '0'], and starting indices: [0]
-that's the right change and then allocates time and the chamber.,,['QA', '0'], and starting indices: [0]
-i have no real military power during the year on.,,['QA', '0'], and starting indices: [0]
-how many types of movies do you look for these things that have.,,['QA', '0'], and starting indices: [0]
-so then then i feel that false each in east might result in what.,,['QA', '0'], and starting indices: [0]
-what is the major tributary of their mind.,,['QA', '0'], and starting indices: [0]
-hello my name is rick tens of serving our believed to be starting the amazon forest.,,['QA', '0'], and starting indices: [0]
-what type of treatments are pharmacists important for.,,['QA', '0'], and starting indices: [0]
-i just and people chose to go to jail for their disobedience.,,['QA', '0'], and starting indices: [0]
-how many miles did the cordless engineers.,,['QA', '0'], and starting indices: [0]
-what was the bubonic plague mechanism reliant on.,,['QA', '0'], and starting indices: [0]
-to attend the use of prolong breathing of oxygen that six of thailand.,,['QA', '0'], and starting indices: [0]
-unless the british nationality act passed.,,['QA', '0'], and starting indices: [0]
-but yeah and in the american tires mpg start to improve.,,['QA', '0'], and starting indices: [0]
-what was the name of the trade center and i called.,,['QA', '0'], and starting indices: [0]
-that's very engines around cats are streams.,,['QA', '0'], and starting indices: [0]
-how many did this epidemic in china till.,,['QA', '0'], and starting indices: [0]
-what is usually the bill of shaking up flea bargain.,,['QA', '0'], and starting indices: [0]
-it changes fun unite before he began time during the rest of your asia.,,['QA', '0'], and starting indices: [0]
-so it's seen as the ultimate climate change it's already.,,['QA', '0'], and starting indices: [0]
-i don't know typically a contract to her.,,['QA', '0'], and starting indices: [0]
-between the nine seven eight in detroit for your fulltime undergraduate students were required to complete how many classes outside of their concentration.,,['QA', '0'], and starting indices: [0]
-restaurant to jacksonville in the one nine one o. s..,,['QA', '0'], and starting indices: [0]
-right yeah and in the newspaper defined southern california.,,['QA', '0'], and starting indices: [0]
-how long has that personality been recognized as one of the general principles of you law.,,['QA', '0'], and starting indices: [0]
-that has some plants reports uh seem to get you know that i can layer genes for.,,['QA', '0'], and starting indices: [0]
-which asian began to brown assert itself and show last.,,['QA', '0'], and starting indices: [0]
-what year did that the case though before the supreme court.,,['QA', '0'], and starting indices: [0]
-what part is close to john lennon street.,,['QA', '0'], and starting indices: [0]
-right yeah lessons trying not launched.,,['QA', '0'], and starting indices: [0]
-i know a hundred by the year on.,,['QA', '0'], and starting indices: [0]
-how many nobel laureates are and then there's still a night.,,['QA', '0'], and starting indices: [0]
-that's the last time my son will return touchdown happened in the superbowl.,,['QA', '0'], and starting indices: [0]
-but generally does not allow citizens to sue other citizens.,,['QA', '0'], and starting indices: [0]
-how many days did the roar saw phrasing last.,,['QA', '0'], and starting indices: [0]
-and they're like condition is an elementary you see that.,,['QA', '0'], and starting indices: [0]
-but i just since like city classes between ellen de.,,['QA', '0'], and starting indices: [0]
-it's just like credit for his abilities.,,['QA', '0'], and starting indices: [0]
-and does the teacher teaching primary still.,,['QA', '0'], and starting indices: [0]
-what type of value a function have if there were finite friends.,,['QA', '0'], and starting indices: [0]
-let's say looking you sorry sponsel for communication between like blood cells.,,['QA', '0'], and starting indices: [0]
-the source and fight for our largest shopping areas of what type.,,['QA', '0'], and starting indices: [0]
-what had just happened to each mission before they would continue onto the next question.,,['CA', '0'], and starting indices: [0]
-what is the process of vaccination also known as.,,['QA', '0'], and starting indices: [0]
-what did i just think the plague last.,,['QA', '0'], and starting indices: [0]
-hi how much did like our lead lane very tiny fluffy and.,,['QA', '0'], and starting indices: [0]
-how many hassles has kids under the age of when it living in them.,,['QA', '0'], and starting indices: [0]
-hello my name is also the governor of the banks of japan.,,['QA', '0'], and starting indices: [0]
-which materialistic gloucester candlestick made from.,,['QA', '0'], and starting indices: [0]
-what did the use of steam engine farming lead to.,,['QA', '0'], and starting indices: [0]
-right yeah we're just friends no good at first that s tree and all.,,['QA', '0'], and starting indices: [0]
-what are some proposals to connect campuses.,,['QA', '0'], and starting indices: [0]
-since i came up with because it was not part of the consortium.,,['QA', '0'], and starting indices: [0]
-what is being terrorized youth parasites responsible for malaria known as.,,['QA', '0'], and starting indices: [0]
-well let's jerry non extended lunar nations.,,['QA', '0'], and starting indices: [0]
-london reserve a can of march chest pains.,,['QA', '0'], and starting indices: [0]
-hi randy prisoners used practically by mongol armies.,,['QA', '0'], and starting indices: [0]
-but i'm just stop that surprising at bell or at.,,['QA', '0'], and starting indices: [0]
-what is the main judicial body of eating.,,['QA', '0'], and starting indices: [0]
-well that's transferred to students who are receptive to the teacher.,,['QA', '0'], and starting indices: [0]
-how many members in the seats of a problem and our members of the start if the government.,,['QA', '0'], and starting indices: [0]
-and it's the suspended teen scheduled to return.,,['QA', '0'], and starting indices: [0]
-well sometimes can be messed with the knowledge ills of the hosts cell in order for virus to invade detection.,,['QA', '0'], and starting indices: [0]
-what is the like now knows which was created by the rise of and these mountains.,,['QA', '0'], and starting indices: [0]
-let's not far less intense passports planning on lunching on.,,['QA', '0'], and starting indices: [0]
-oh no they invented santa clara convention center last.,,['QA', '0'], and starting indices: [0]
-which gender as large populace across all groups in jacksonville.,,['QA', '0'], and starting indices: [0]
-well that's and that's like no like ten years against adults.,,['QA', '0'], and starting indices: [0]
-well it sounds sounds assigned tasks to the.,,['QA', '0'], and starting indices: [0]
-what time did definitely get dinner.,,['QA', '0'], and starting indices: [0]
-like raisins to sell your of the disobedience with the forties.,,['QA', '0'], and starting indices: [0]
-right there that's ten pounds is oxygen unnecessary part.,,['QA', '0'], and starting indices: [0]
-well wasn't happy days spin offs that debuted in the one nine a dress on up.,,['QA', '0'], and starting indices: [0]
-where did the residents of and she actually too.,,['QA', '0'], and starting indices: [0]
-what percentage of philippino primary still students are in private schools.,,['QA', '0'], and starting indices: [0]
-like our case desegregated still is in the united states.,,['QA', '0'], and starting indices: [0]
-but you can find people passed down to native populations.,,['QA', '0'], and starting indices: [0]
-when did this age of and just take place.,,['QA', '0'], and starting indices: [0]
-hello my name's type channels were available to customers prior to october to of five.,,['CA', '0'], and starting indices: [0]
-what about the downfall of jacksonville so making.,,['QA', '0'], and starting indices: [0]
-what is the gender income inequality in bahrain.,,['QA', '0'], and starting indices: [0]
-well techniques and he used to determine follows address me.,,['QA', '0'], and starting indices: [0]
-what type of organization would need large quantities of your oxygen.,,['QA', '0'], and starting indices: [0]
-in the yard and then as on experience the drought that may have been more extreme than into of five.,,['QA', '0'], and starting indices: [0]
-design the garden for the university library.,,['QA', '0'], and starting indices: [0]
+query,image_path,result
+"what party had a victory and she'll and says it's election.",,"['QA', '0'], and starting indices: [0]"
+"what is on the google challenger.",,"['QA', '0'], and starting indices: [0]"
+"no it doesn't get real challenge or tell me to do.",,"['QA', '0'], and starting indices: [0]"
+"and does the calendars say then i ought to do.",,"['QA', '0'], and starting indices: [0]"
+"what did do they'll say i should do the marta.",,"['CA', '0'], and starting indices: [0]"
+"i just think it'll tell under saying say.",,"['QA', '0'], and starting indices: [0]"
+"what am i going to june.",,"['CA', '0'], and starting indices: [0]"
+"what is my plan.",,"['CA', '0'], and starting indices: [0]"
+"but i and i plan during the next week.",,"['CA', '0'], and starting indices: [0]"
+"what do i have four next month.",,"['CA', '0'], and starting indices: [0]"
+"let's just have been put on my plan.",,"['CA', '0'], and starting indices: [0]"
+"that's your immune system us distinguish between what types of molecules.",,"['QA', '0'], and starting indices: [0]"
+"what what have i made.",,"['CA', '0'], and starting indices: [0]"
+"what's that has been made.",,"['QA', '0'], and starting indices: [0]"
+"what kind of stuff and i suppose to this afternoon.",,"['QA', '0'], and starting indices: [0]"
+"what kind of thing to do.",,"['CA', '0'], and starting indices: [0]"
+"what you do next week.",,"['CA', '0'], and starting indices: [0]"
+"what has shown up on stencil.",,"['QA', '0'], and starting indices: [0]"
+"that's the schedule say i'm going to work.",,"['QA', '0'], and starting indices: [0]"
+"does the stencil forced me to do anything.",,"['QA', '0'], and starting indices: [0]"
+"do i need to work today.",,"['CA', '0'], and starting indices: [0]"
+"do i need to spend two hours fixing computers tomorrow.",,"['CA', '0'], and starting indices: [0]"
+"oh ten secondary status on the existing stations and letting hire them.",,"['QA', '0'], and starting indices: [0]"
+"do i have to do something today.",,"['CA', '0'], and starting indices: [0]"
+"do i have to read the book tonight.",,"['QA', '0'], and starting indices: [0]"
+"doing making employment recently.",,"['QA', '0'], and starting indices: [0]"
+"well that's fine and have a range.",,"['QA', '0'], and starting indices: [0]"
+"well that's fine that shows up in the special.",,"['QA', '0'], and starting indices: [0]"
+"is there any chance of my time reserved today.",,"['QA', '0'], and starting indices: [0]"
+"and i totally but today.",,"['QA', '0'], and starting indices: [0]"
+"and i freelance union.",,"['QA', '0'], and starting indices: [0]"
+"well i'd be available to do something tomorrow afternoon.",,"['CA', '0'], and starting indices: [0]"
+"and should i start doing the stuff on my schedule.",,"['CA', '0'], and starting indices: [0]"
+"well i was monthly bill teacher crime involving civil disobedience.",,"['QA', '0'], and starting indices: [0]"
+"what is the stencil.",,"['QA', '0'], and starting indices: [0]"
+"what is on my schedule.",,"['CA', '0'], and starting indices: [0]"
+"let's send you'll do i have.",,"['CA', '0'], and starting indices: [0]"
+"what's pensions and i make.",,"['QA', '0'], and starting indices: [0]"
+"what did i do last week.",,"['CA', '0'], and starting indices: [0]"
+"but how then last year.",,"['QA', '0'], and starting indices: [0]"
+"but how they've been doing since last tuesday.",,"['QA', '0'], and starting indices: [0]"
+"what did i do last thanksgiving.",,"['CA', '0'], and starting indices: [0]"
+"and does the calendar tell about my last week's schedule.",,"['CA', '0'], and starting indices: [0]"
+"but you know about my plan.",,"['CA', '0'], and starting indices: [0]"
+"what is the role of teachers in education.",,"['QA', '0'], and starting indices: [0]"
+"and then i go shopping last week.",,"['QA', '0'], and starting indices: [0]"
+"what did i do after watching the movie yesterday.",,"['QA', '0'], and starting indices: [0]"
+"and i'm going to do anything today.",,"['CA', '0'], and starting indices: [0]"
+"and i'm going to attend a meeting at one though.",,"['QA', '0'], and starting indices: [0]"
+"what is my entire calendar for show and five.",,"['CA', '0'], and starting indices: [0]"
+"what is nice gentle sociable and seven.",,"['QA', '0'], and starting indices: [0]"
+"what should i do for the next couple of days.",,"['CA', '0'], and starting indices: [0]"
+"what am i going to do than i am learning.",,"['CA', '0'], and starting indices: [0]"
+"like well i do for the following week.",,"['CA', '0'], and starting indices: [0]"
+"like well i just for the next couple of hours.",,"['QA', '0'], and starting indices: [0]"
+"the plane that the name black debts first appeared in one sixty one.",,"['QA', '0'], and starting indices: [0]"
+"what is on my plate today.",,"['CA', '0'], and starting indices: [0]"
+"what was on my plate last night.",,"['CA', '0'], and starting indices: [0]"
+"well they'll be on my plate this saturday afternoon.",,"['CA', '0'], and starting indices: [0]"
+"what is the earliest class i have for tomorrow.",,"['QA', '0'], and starting indices: [0]"
+"i know the lectures finish tomorrow afternoon.",,"['QA', '0'], and starting indices: [0]"
+"but yeah i do after class every day.",,"['CA', '0'], and starting indices: [0]"
+"what am i doing this for dinner at sixty and.",,"['CA', '0'], and starting indices: [0]"
+"well that's good that you do i usually do in the morning.",,"['CA', '0'], and starting indices: [0]"
+"well that's good that you will i do the morning.",,"['CA', '0'], and starting indices: [0]"
+"'cause i spend several hours reading books last month.",,"['QA', '0'], and starting indices: [0]"
+"what is the nickname for the children the netherlands.",,"['QA', '0'], and starting indices: [0]"
+"oh and and i traveled last year.",,"['QA', '0'], and starting indices: [0]"
+"hello i'm the traveling tossed me last week.",,"['QA', '0'], and starting indices: [0]"
+"oh i know i spend on programming next week.",,"['CA', '0'], and starting indices: [0]"
+"oh i know the final eggs and the in december.",,"['QA', '0'], and starting indices: [0]"
+"what exactly did i do on november choo choo choo ellen sex.",,"['CA', '0'], and starting indices: [0]"
+"nice nice vents tomorrow.",,"['QA', '0'], and starting indices: [0]"
+"nice nice denzel.",,"['QA', '0'], and starting indices: [0]"
+"tell me if i am free from side to seven tonight.",,"['QA', '0'], and starting indices: [0]"
+"did you tell me my plan today.",,"['QA', '0'], and starting indices: [0]"
+"do you mind reporting my calendar for this week.",,"['CA', '0'], and starting indices: [0]"
+"western governments considered islamists to be the lesser of two evils and compared to whom.",,"['QA', '0'], and starting indices: [0]"
+"he's given events on the schedule.",,"['QA', '0'], and starting indices: [0]"
+"please tell me the stuff i am supposed to do right now.",,"['QA', '0'], and starting indices: [0]"
+"so you say yes i am busy all day today.",,"['QA', '0'], and starting indices: [0]"
+"which i know that's i won't be free tomorrow.",,"['CA', '0'], and starting indices: [0]"
+"is it okay for me to spend three hours playing football tonight.",,"['QA', '0'], and starting indices: [0]"
+"and i find if i could summer night source radio minutes.",,"['QA', '0'], and starting indices: [0]"
+"and i had a busy person enjoy when sex in the united states.",,"['QA', '0'], and starting indices: [0]"
+"i haven't been doing since i came to the united states and two and four.",,"['QA', '0'], and starting indices: [0]"
+"oh i haven't been to that restaurant since last week.",,"['QA', '0'], and starting indices: [0]"
+"oh and when i go to the park given my current daily routine.",,"['CA', '0'], and starting indices: [0]"
+"how many tens of movies as <unk> produced.",,"['QA', '0'], and starting indices: [0]"
+"do you predict that i will be free outside today.",,"['CA', '0'], and starting indices: [0]"
+"how much time did i spend in the united states last year.",,"['QA', '0'], and starting indices: [0]"
+"how much time should i spend sleeping every day.",,"['QA', '0'], and starting indices: [0]"
+"how much free time do i have today.",,"['CA', '0'], and starting indices: [0]"
+"hello nancy from one and then all the work to midnight.",,"['QA', '0'], and starting indices: [0]"
+"it's a good time for me to attend a meeting and they still doing.",,"['QA', '0'], and starting indices: [0]"
+"what is nice frequency of listening to music since last monday.",,"['QA', '0'], and starting indices: [0]"
+"how long has it been since my last shopping.",,"['QA', '0'], and starting indices: [0]"
+"how long has passed since the last time the house with queen that's according to my plan.",,"['QA', '0'], and starting indices: [0]"
+"according to this ten july be able to watch t._v. tomorrow night.",,"['CA', '0'], and starting indices: [0]"
+"like a plastic something and problems and problems exist.",,"['QA', '0'], and starting indices: [0]"
+"is there anyway two hours to be arranged.",,"['QA', '0'], and starting indices: [0]"
+"what am i doing right now from the challenger.",,"['QA', '0'], and starting indices: [0]"
+"so am i going to me tonight.",,"['QA', '0'], and starting indices: [0]"
+"so am i going to study with next month.",,"['CA', '0'], and starting indices: [0]"
+"so am i going to spend the next few hours with.",,"['CA', '0'], and starting indices: [0]"
+"so that spend two hours with me last night.",,"['QA', '0'], and starting indices: [0]"
+"[laughter] i spent some time with me since i went to this university and two and four.",,"['QA', '0'], and starting indices: [0]"
+"should i spend time with the card into my habit inferred.",,"['CA', '0'], and starting indices: [0]"
+"so is the person i have friends most time was last year.",,"['QA', '0'], and starting indices: [0]"
+"so is dying to talk with me.",,"['QA', '0'], and starting indices: [0]"
+"let's try very husband's an important aspect of you law.",,"['QA', '0'], and starting indices: [0]"
+"what is the main difference between online pharmacies and community pharmacies.",,"['QA', '0'], and starting indices: [0]"
+"uh-huh so they'll disobedience involved in front times.",,"['QA', '0'], and starting indices: [0]"
+"is that like strays i didn't have to take tests that.",,"['QA', '0'], and starting indices: [0]"
+"hi my name's shannon relocated while repairs we're under a.",,"['CA', '0'], and starting indices: [0]"
+"during that period in down town fresno fries.",,"['QA', '0'], and starting indices: [0]"
+"that's the right change and then allocates time and the chamber.",,"['QA', '0'], and starting indices: [0]"
+"i have no real military power during the year on.",,"['QA', '0'], and starting indices: [0]"
+"how many types of movies do you look for these things that have.",,"['QA', '0'], and starting indices: [0]"
+"so then then i feel that false each in east might result in what.",,"['QA', '0'], and starting indices: [0]"
+"what is the major tributary of their mind.",,"['QA', '0'], and starting indices: [0]"
+"hello my name is rick tens of serving our believed to be starting the amazon forest.",,"['QA', '0'], and starting indices: [0]"
+"what type of treatments are pharmacists important for.",,"['QA', '0'], and starting indices: [0]"
+"i just and people chose to go to jail for their disobedience.",,"['QA', '0'], and starting indices: [0]"
+"how many miles did the cordless engineers.",,"['QA', '0'], and starting indices: [0]"
+"what was the bubonic plague mechanism reliant on.",,"['QA', '0'], and starting indices: [0]"
+"to attend the use of prolong breathing of oxygen that six of thailand.",,"['QA', '0'], and starting indices: [0]"
+"unless the british nationality act passed.",,"['QA', '0'], and starting indices: [0]"
+"but yeah and in the american tires mpg start to improve.",,"['QA', '0'], and starting indices: [0]"
+"what was the name of the trade center and i called.",,"['QA', '0'], and starting indices: [0]"
+"that's very engines around cats are streams.",,"['QA', '0'], and starting indices: [0]"
+"how many did this epidemic in china till.",,"['QA', '0'], and starting indices: [0]"
+"what is usually the bill of shaking up flea bargain.",,"['QA', '0'], and starting indices: [0]"
+"it changes fun unite before he began time during the rest of your asia.",,"['QA', '0'], and starting indices: [0]"
+"so it's seen as the ultimate climate change it's already.",,"['QA', '0'], and starting indices: [0]"
+"i don't know typically a contract to her.",,"['QA', '0'], and starting indices: [0]"
+"between the nine seven eight in detroit for your fulltime undergraduate students were required to complete how many classes outside of their concentration.",,"['QA', '0'], and starting indices: [0]"
+"restaurant to jacksonville in the one nine one o. s..",,"['QA', '0'], and starting indices: [0]"
+"right yeah and in the newspaper defined southern california.",,"['QA', '0'], and starting indices: [0]"
+"how long has that personality been recognized as one of the general principles of you law.",,"['QA', '0'], and starting indices: [0]"
+"that has some plants reports uh seem to get you know that i can layer genes for.",,"['QA', '0'], and starting indices: [0]"
+"which asian began to brown assert itself and show last.",,"['QA', '0'], and starting indices: [0]"
+"what year did that the case though before the supreme court.",,"['QA', '0'], and starting indices: [0]"
+"what part is close to john lennon street.",,"['QA', '0'], and starting indices: [0]"
+"right yeah lessons trying not launched.",,"['QA', '0'], and starting indices: [0]"
+"i know a hundred by the year on.",,"['QA', '0'], and starting indices: [0]"
+"how many nobel laureates are and then there's still a night.",,"['QA', '0'], and starting indices: [0]"
+"that's the last time my son will return touchdown happened in the superbowl.",,"['QA', '0'], and starting indices: [0]"
+"but generally does not allow citizens to sue other citizens.",,"['QA', '0'], and starting indices: [0]"
+"how many days did the roar saw phrasing last.",,"['QA', '0'], and starting indices: [0]"
+"and they're like condition is an elementary you see that.",,"['QA', '0'], and starting indices: [0]"
+"but i just since like city classes between ellen de.",,"['QA', '0'], and starting indices: [0]"
+"it's just like credit for his abilities.",,"['QA', '0'], and starting indices: [0]"
+"and does the teacher teaching primary still.",,"['QA', '0'], and starting indices: [0]"
+"what type of value a function have if there were finite friends.",,"['QA', '0'], and starting indices: [0]"
+"let's say looking you sorry sponsel for communication between like blood cells.",,"['QA', '0'], and starting indices: [0]"
+"the source and fight for our largest shopping areas of what type.",,"['QA', '0'], and starting indices: [0]"
+"what had just happened to each mission before they would continue onto the next question.",,"['CA', '0'], and starting indices: [0]"
+"what is the process of vaccination also known as.",,"['QA', '0'], and starting indices: [0]"
+"what did i just think the plague last.",,"['QA', '0'], and starting indices: [0]"
+"hi how much did like our lead lane very tiny fluffy and.",,"['QA', '0'], and starting indices: [0]"
+"how many hassles has kids under the age of when it living in them.",,"['QA', '0'], and starting indices: [0]"
+"hello my name is also the governor of the banks of japan.",,"['QA', '0'], and starting indices: [0]"
+"which materialistic gloucester candlestick made from.",,"['QA', '0'], and starting indices: [0]"
+"what did the use of steam engine farming lead to.",,"['QA', '0'], and starting indices: [0]"
+"right yeah we're just friends no good at first that s tree and all.",,"['QA', '0'], and starting indices: [0]"
+"what are some proposals to connect campuses.",,"['QA', '0'], and starting indices: [0]"
+"since i came up with because it was not part of the consortium.",,"['QA', '0'], and starting indices: [0]"
+"what is being terrorized youth parasites responsible for malaria known as.",,"['QA', '0'], and starting indices: [0]"
+"well let's jerry non extended lunar nations.",,"['QA', '0'], and starting indices: [0]"
+"london reserve a can of march chest pains.",,"['QA', '0'], and starting indices: [0]"
+"hi randy prisoners used practically by mongol armies.",,"['QA', '0'], and starting indices: [0]"
+"but i'm just stop that surprising at bell or at.",,"['QA', '0'], and starting indices: [0]"
+"what is the main judicial body of eating.",,"['QA', '0'], and starting indices: [0]"
+"well that's transferred to students who are receptive to the teacher.",,"['QA', '0'], and starting indices: [0]"
+"how many members in the seats of a problem and our members of the start if the government.",,"['QA', '0'], and starting indices: [0]"
+"and it's the suspended teen scheduled to return.",,"['QA', '0'], and starting indices: [0]"
+"well sometimes can be messed with the knowledge ills of the hosts cell in order for virus to invade detection.",,"['QA', '0'], and starting indices: [0]"
+"what is the like now knows which was created by the rise of and these mountains.",,"['QA', '0'], and starting indices: [0]"
+"let's not far less intense passports planning on lunching on.",,"['QA', '0'], and starting indices: [0]"
+"oh no they invented santa clara convention center last.",,"['QA', '0'], and starting indices: [0]"
+"which gender as large populace across all groups in jacksonville.",,"['QA', '0'], and starting indices: [0]"
+"well that's and that's like no like ten years against adults.",,"['QA', '0'], and starting indices: [0]"
+"well it sounds sounds assigned tasks to the.",,"['QA', '0'], and starting indices: [0]"
+"what time did definitely get dinner.",,"['QA', '0'], and starting indices: [0]"
+"like raisins to sell your of the disobedience with the forties.",,"['QA', '0'], and starting indices: [0]"
+"right there that's ten pounds is oxygen unnecessary part.",,"['QA', '0'], and starting indices: [0]"
+"well wasn't happy days spin offs that debuted in the one nine a dress on up.",,"['QA', '0'], and starting indices: [0]"
+"where did the residents of and she actually too.",,"['QA', '0'], and starting indices: [0]"
+"what percentage of philippino primary still students are in private schools.",,"['QA', '0'], and starting indices: [0]"
+"like our case desegregated still is in the united states.",,"['QA', '0'], and starting indices: [0]"
+"but you can find people passed down to native populations.",,"['QA', '0'], and starting indices: [0]"
+"when did this age of and just take place.",,"['QA', '0'], and starting indices: [0]"
+"hello my name's type channels were available to customers prior to october to of five.",,"['CA', '0'], and starting indices: [0]"
+"what about the downfall of jacksonville so making.",,"['QA', '0'], and starting indices: [0]"
+"what is the gender income inequality in bahrain.",,"['QA', '0'], and starting indices: [0]"
+"well techniques and he used to determine follows address me.",,"['QA', '0'], and starting indices: [0]"
+"what type of organization would need large quantities of your oxygen.",,"['QA', '0'], and starting indices: [0]"
+"in the yard and then as on experience the drought that may have been more extreme than into of five.",,"['QA', '0'], and starting indices: [0]"
+"design the garden for the university library.",,"['QA', '0'], and starting indices: [0]"
