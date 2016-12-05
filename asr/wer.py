@@ -14,14 +14,15 @@ def error_rate(str1, str2):
     split2 = stripped_str(str2).lower().split()
     correct_count = 0
     wront_count = 0
-    for word in split1:
+    while split1:
+        word = split1.pop(0)
         if word in split2:
-            split1.remove(word)
+            wront_count += 1
             split2.remove(word)
             correct_count += 1
-    wront_count += len(split1)
     wront_count += len(split2)
     return wront_count / (correct_count + wront_count)
 
 if __name__ == '__main__':
-	print(error_rate('Hello World!', 'extra hello, world , extra...'))
+	print(error_rate('God, Yahoo Games has this truly-awful looking Da Vinci Code-themed skin on it\'s chessboard right now.', \
+        'the yahoo games has that\'s true i also looking job and she could eat he needs to know and it\'s just bored right now.'))

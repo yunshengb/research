@@ -16,14 +16,14 @@ class Evaluator(object):
 
 	def evaluate(self, result, correct):
 		result = self.segmenter.segment(result).split()
-		print(result)
+		print('Result:', result)
 		if correct in self.segments_seen:
-			correct = self.segments_seen[segments_seen]
+			correct = self.segments_seen[correct]
 		else:
 			self.segments_seen[correct] = \
 			self.segmenter.segment(correct).split()
 			correct = self.segments_seen[correct]
-		print(correct)
+		print('Correct:', correct)
 		score = sentence_bleu([correct], result)
 		print('Score:', score)
 		return score
